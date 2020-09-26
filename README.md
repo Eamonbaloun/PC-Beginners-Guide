@@ -6,7 +6,20 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
-- If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q) Below is list of videos I would start with but as you will find out there is always some the learn when in the world of tech.
+- [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
+- [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
+- [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)
+- [Motherboard](https://www.youtube.com/watch?v=iTbCFriOuFA)
+- [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
+- [CPU Specs](https://www.youtube.com/watch?v=xJNkEzy3-O4)
+- [How to choose Ram](https://www.youtube.com/watch?v=mkpCvaBBo-c)
+- [What to look for in a gaming mouse](https://www.youtube.com/watch?v=EYoFzaAjLsQ)
+- [Choosing Gaming Headphones](https://www.youtube.com/watch?v=6JQSXf_npf8)
+- [Understanding Gaming Keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E)
+- [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
+- [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
+- [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
+- If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q). Below is list of videos I would start with but as you will find out there is always something learn in the world of PC tech.
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
   - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
   - [Overclocking](https://www.youtube.com/watch?v=yyv9Y2miV64)
@@ -21,6 +34,8 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [Ram](https://www.youtube.com/watch?v=vc8G5_sW8lk)
   - [PSU](https://www.youtube.com/watch?v=RUk8CUu30X0)
   - [PSU](https://www.youtube.com/watch?v=dOXTZizoknc)
+  - [Keyboard switches part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) - [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)
+  - [Gaming headset VS Gaming Headset](https://www.youtube.com/watch?v=gvYvNf1crOQ)
 
 1. Picking Parts
 
@@ -37,7 +52,7 @@ Now that you have some sort of an idea of what you need to build a pc lets choos
 
 this step is not as hard as it seems I would only start building when you have all the parts.
 
-There is only one youtuber I would recommend for this part and that is [careyholzman](https://www.youtube.com/user/CareyHolzman)
+There is only one youtuber I would recommend for this part and that is[careyholzman](https://www.youtube.com/user/CareyHolzman)
 
 He is the best at showing what goes where and explaining why he does things the way he does here are some of his build videos please watch at lease one from start to finish on your own before you build the pc then watch the video again as a step by step guide when putting it together.
 
@@ -63,7 +78,7 @@ This step takes the longest and is the most important for making sure you get th
   - [Nvidia settings](https://www.youtube.com/watch?v=jZrnfWpENTo&amp;t=464s)
   - [AMD settings](https://www.youtube.com/watch?v=K1N4vV5BSoI)
   - [WIFI settings](https://www.youtube.com/watch?v=bAke9R-k3so&amp;t=181s)
-- If you are looking for the best performance and fully tweaked pc then you want to look at the youtuber[FR33THY](https://www.youtube.com/user/chrisfreeth) and his A-Z series for settings up windows. This will make windows light for gaming but will cut into the functionality of windows a lot so only do what you feel like
+- If you are looking for the best performance and fully tweaked pc then you want to look at the youtuber[FR33THY](https://www.youtube.com/user/chrisfreeth) and his A-Z series for settings up windows. This will make windows light for gaming but will cut into the functionality of windows a lot. So only do what you feel is best for you and your needs.
   - [A-Z playlist](https://www.youtube.com/playlist?list=PLykpkrQ1xVu1jTFCju1cmY9UAHw99aGWW)
 
 1. Gaming time!!!!!!
@@ -84,3 +99,5 @@ This step takes the longest and is the most important for making sure you get th
   - [CultOfMush](https://www.youtube.com/channel/UC7Cj7VhPm234Zclm0_rTGPg)
   - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA)
   - [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg)
+
+I really think that if you watch every video, I provided in this guide you should be more that capable of building and or upgrading your build. 
