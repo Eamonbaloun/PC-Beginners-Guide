@@ -19,7 +19,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
 - [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
-- If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q). Below is list of videos I would start with but as you will find out there is always something learn in the world of PC tech.
+- If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q). Below is list of videos I would start with but as you will find out there is always something new to learn in the world of PC tech. (that is why subcribing to any of one youtubers at the end of guide is inportant)
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
   - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
   - [Overclocking](https://www.youtube.com/watch?v=yyv9Y2miV64)
