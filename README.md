@@ -2,7 +2,7 @@ If you looking to build a gaming pc late 2020 please don&#39;t just go, ask your
 
 I love computers I have been an enthusiast for over 10 years and have built and setup many computers. I want to help people get into this hobby that I have come to love so much. That is why I am going make a guide for new people getting into PC gaming.
 
-1. Understanding what each part does and why you need it (plus more)
+1. Understanding what each part does and why you need it (Backgound info)
 
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
@@ -19,6 +19,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
 - [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
+- [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
 - If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q). Below is list of videos I would start with but as you will find out there is always something new to learn in the world of PC tech. (that is why subcribing to any of one youtubers at the end of guide is inportant)
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
   - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
@@ -46,7 +47,6 @@ Now that you have some sort of an idea of what you need to build a pc lets choos
 - [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&amp;t=18s)
 - [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
 - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc)
-- [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
 
 1. Building
 
