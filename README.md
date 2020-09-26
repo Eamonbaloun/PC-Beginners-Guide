@@ -7,6 +7,7 @@ _Disclaimer there will be a lot of overlap in most of videos that was done on pu
 1. Understanding what each part does and why you need it (Background info)
 
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
+- [What Do I Need to Build a Gaming PC?](https://www.youtube.com/watch?v=_O8kr0KlkBM)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
 - [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
