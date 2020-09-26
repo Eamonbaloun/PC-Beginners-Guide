@@ -1,8 +1,10 @@
-If you looking to build a gaming pc late 2020 please don&#39;t just go, ask your tech friend or family member to just &quot;do it.&quot;
+If you looking to build a gaming PC in late 2020 please don&#39;t just go, ask your tech friend or family member &quot;can you build me a gaming pc.&quot; (this offends me because part of getting a gaming pc is that it is not plug and play like a console if you want easy get a console the ps5 and xbox series x are powerhouses with minimal setup) So please clear you schedule because this will take some time.
 
 I love computers I have been an enthusiast for over 10 years and have built and setup many computers. I want to help people get into this hobby that I have come to love so much. That is why I am going make a guide for new people getting into PC gaming.
 
-1. Understanding what each part does and why you need it (Backgound info)
+_Disclaimer there will be a lot of overlap in most of videos that was done on purpose I didn&#39;t get everything on my first time learning about them._
+
+1. Understanding what each part does and why you need it (Background info)
 
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
@@ -18,10 +20,12 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [Understanding Gaming Keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
+
 - [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
 - [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
 - If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q). Below is list of videos I would start with but as you will find out there is always something new to learn in the world of PC tech. (that is why subcribing to any of one youtubers at the end of guide is inportant)
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
+
   - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
   - [Overclocking](https://www.youtube.com/watch?v=yyv9Y2miV64)
   - [Temperatures](https://www.youtube.com/watch?v=VuP6I0mOb1s)
@@ -43,18 +47,20 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 Now that you have some sort of an idea of what you need to build a pc lets choose some parts
 
 - [How to correctly choose parts](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
+- [How To Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE)
 - [High end 2020 Build](https://www.youtube.com/watch?v=a2PnPN8vVUo)
 - [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&amp;t=18s)
 - [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
 - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc)
+- [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
 
 1. Building
 
 this step is not as hard as it seems I would only start building when you have all the parts.
 
-There is only one youtuber I would recommend for this part and that is[careyholzman](https://www.youtube.com/user/CareyHolzman)
+There is only one YouTuber I would recommend for this part and that is[careyholzman](https://www.youtube.com/user/CareyHolzman)
 
-He is the best at showing what goes where and explaining why he does things the way he does here are some of his build videos please watch at lease one from start to finish on your own before you build the pc then watch the video again as a step by step guide when putting it together.
+He is the best at showing what goes where and explaining why he does things the way he does. Below are some of his build videos please watch at lease one from start to finish on your own before you build the pc. Then watch the video again as a step by step guide when putting it together.
 
 - [Build](https://www.youtube.com/watch?v=FfbEcDff2Z0)
 - [Build](https://www.youtube.com/watch?v=Z-j9ILxpsCA)
@@ -100,4 +106,4 @@ This step takes the longest and is the most important for making sure you get th
   - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA)
   - [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg)
 
-I really think that if you watch every video, I provided in this guide you should be more that capable of building and or upgrading your build. 
+I really think that if you were to watch every video, I provided in this guide you should be more that capable of building and or upgrading your build
