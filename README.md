@@ -37,7 +37,7 @@ Now that you have some sort of an idea of what you need to build a pc lets choos
 
 this step is not as hard as it seems I would only start building when you have all the parts.
 
-There is only one youtuber I would recommend for this part and that is[careyholzman](https://www.youtube.com/user/CareyHolzman)
+There is only one youtuber I would recommend for this part and that is [careyholzman](https://www.youtube.com/user/CareyHolzman)
 
 He is the best at showing what goes where and explaining why he does things the way he does here are some of his build videos please watch at lease one from start to finish on your own before you build the pc then watch the video again as a step by step guide when putting it together.
 
