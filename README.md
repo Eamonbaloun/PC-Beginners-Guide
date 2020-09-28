@@ -2,7 +2,8 @@ If you looking to build a gaming PC in late 2020 please don&#39;t just go, ask y
 
 I love computers I have been an enthusiast for over 10 years and have built and setup many computers. I want to help people get into this hobby that I have come to love so much. That is why I am going make a guide for new people getting into PC gaming.
 
-_Disclaimer there will be a lot of overlap in most of videos that was done on purpose I didn&#39;t get everything on my first time learning about them._
+- _Disclaimer there will be a lot of overlap in most of videos that was done on purpose I didn&#39;t get everything on my first time learning about them._
+- _Also make sure that you check when the video was made because some of videos are made all of the videos I have linked are 100% accurate and the only thing I would say is if it from 2019 there have been new CPU&#39;s and GPU&#39;s with that come new motherboards._
 
 1. Understanding what each part does and why you need it (Background info)
 
@@ -12,7 +13,10 @@ _Disclaimer there will be a lot of overlap in most of videos that was done on pu
 - [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
 - [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)
+
 - [Motherboard](https://www.youtube.com/watch?v=iTbCFriOuFA)
+- [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
+
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
 - [CPU Specs](https://www.youtube.com/watch?v=xJNkEzy3-O4)
 - [How to choose Ram](https://www.youtube.com/watch?v=mkpCvaBBo-c)
@@ -22,9 +26,6 @@ _Disclaimer there will be a lot of overlap in most of videos that was done on pu
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
 
-- [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
-- [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
-- [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&amp;t=328s)
 - [PC Myths you should NOT believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
 - If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q). Below is list of videos I would start with but as you will find out there is always something new to learn in the world of PC tech. (that is why subscribing to any of one youtubers at the end of guide is important)
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
@@ -50,20 +51,27 @@ _Disclaimer there will be a lot of overlap in most of videos that was done on pu
 Now that you have some sort of an idea of what you need to build a pc lets choose some parts
 
 - [How to correctly choose parts](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
-- [How To Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE)
-- [High end 2020 Build](https://www.youtube.com/watch?v=a2PnPN8vVUo)
-- [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&amp;t=18s)
-- [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
-- [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc)
+- [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
 - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
+- [How To Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) – _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
+- 2020 Part lists!
+
+_As of September 2020 new graphics cars have come out and if you can find them in stock the 3070 is faster than the 2080ti and the 3080 is a 4k 60 fps beast and is above any of the 20 series cards_
+
+  - [High end 2020 Build](https://www.youtube.com/watch?v=a2PnPN8vVUo)
+  - [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&amp;t=18s)
+  - [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
+  - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc)
 
 1. Building
 
-This step is not as hard as it seems I would only start building when you have all the parts. There is only one YouTuber I would recommend for building the pc and that is[careyholzman](https://www.youtube.com/user/CareyHolzman). He is the best at showing what goes where and explaining why he does things the way he does. Below are some of his build videos please watch at lease one from start to finish on your own before you build the pc. Then watch the video again as a step by step guide when putting it together.
+This step is not as hard as it seems I would only start building when you have all the parts. The main YouTuber I would recommend for building computers is[careyholzman](https://www.youtube.com/user/CareyHolzman). He is the best at showing what goes where and explaining why he does things the way he does. Below are some of his build videos please watch at least one from start to finish on your own before you build the pc. Then watch the video again as a step by step guide when putting it together.
 
 - [Build](https://www.youtube.com/watch?v=FfbEcDff2Z0)
 - [Build](https://www.youtube.com/watch?v=Z-j9ILxpsCA)
-- [15 Things You NEED to Know When Building a PC!](https://www.youtube.com/watch?v=b5Fq47jC_VM)
+- I will also include some tip videos from other Youtubers that are helpful to know before you build.
+  - [15 Things You NEED to Know When Building a PC!](https://www.youtube.com/watch?v=b5Fq47jC_VM)
+  - [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&amp;t=328s)
 
 1. Windows
 
@@ -75,7 +83,7 @@ This step takes the longest and is the most important for making sure you get th
 - [Debloat windows 10](https://www.youtube.com/watch?v=8E6OT_QcHaU)
 - [Making and Editing Debloat Scripts for Windows 10](https://www.youtube.com/watch?v=y53p1d5P6LA)
 - [W10Privacy Walkthrough](https://www.youtube.com/watch?v=qttbd2Ouxmc)
-- If you are looking to play a specific games and want the best settings than look for a guide by [Panjno](https://www.youtube.com/user/PanjnoTutorials)
+- If you are looking to play a specific game and want the best settings than look for a guide by [Panjno](https://www.youtube.com/user/PanjnoTutorials)
   - [Call of duty Warzone](https://www.youtube.com/watch?v=FU8S3srYtbg)
   - [Rainbow six siege](https://www.youtube.com/watch?v=Q5psNE7nGCg)
   - [Valorant](https://www.youtube.com/watch?v=OWFnl2dZfQo)
