@@ -3,7 +3,7 @@ If you looking to build a gaming PC in late 2020 please don&#39;t just go, ask y
 I love computers I have been an enthusiast for over 10 years and have built and setup many computers. I want to help people get into this hobby that I have come to love so much. That is why I am going make a guide for new people getting into PC gaming.
 
 - _Disclaimer there will be a lot of overlap in most of videos that was done on purpose I didn&#39;t get everything on my first time learning about them._
-- _Also make sure that you check when the video was made because some of videos are made all of the videos I have linked are 100% accurate and the only thing I would say is if it from 2019 there have been new CPU&#39;s and GPU&#39;s with that come new motherboards._
+- _Also make sure that you check when the video was made. all the videos I have linked are 100% accurate and the only thing I would say is if it from 2019 there have been new CPU&#39;s and GPU&#39;s so not everything has up to date info but are still good videos none the less._
 
 1. Understanding what each part does and why you need it (Background info)
 
