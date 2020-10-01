@@ -1,4 +1,4 @@
-If you looking to build a gaming PC in late 2020 please don&#39;t just go, ask your tech friend or family member &quot;can you build me a gaming pc.&quot; (this offends me because part of getting a gaming pc is that it is not plug and play like a console if you want easy get a console the ps5 and xbox series x are powerhouses with minimal setup) So please clear you schedule because this will take some time.
+If you looking to build a gaming PC in late 2020 please do not just go, ask your tech friend or family member &quot;can you build me a gaming pc.&quot; (this offends me because part of getting a gaming pc is that it is not plug and play like a console if you want easy get a console the ps5 and xbox series x are powerhouses with minimal setup) So if this guide was sent to you please clear you schedule because this will take some time.
 
 I love computers I have been an enthusiast for over 10 years and have built and setup many computers. I want to help people get into this hobby that I have come to love so much. That is why I am going make a guide for new people getting into PC gaming.
 
@@ -10,9 +10,12 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 - [What Do I Need to Build a Gaming PC?](https://www.youtube.com/watch?v=_O8kr0KlkBM)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
+- [Should you build your own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&amp;t=488s)
 - [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
+- [Ram SPEED?](https://www.youtube.com/watch?v=vjbNhCHwlBo&amp;t=663s)
 - [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)
+- [What&#39;s Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)
 
 - [Motherboard](https://www.youtube.com/watch?v=iTbCFriOuFA)
 - [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
@@ -27,6 +30,8 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
 
 - [PC Myths you should NOT believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
+- [How to Deep Clean Your Computer](https://www.youtube.com/watch?v=Y51yZE18qus)
+- [All SSD Types EXPLAINED](https://www.youtube.com/watch?v=kx0ynC8Thlw)
 - If you don&#39;t understand a given topic your best place to look for it is [teckquickey](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q). Below is list of videos I would start with but as you will find out there is always something new to learn in the world of PC tech. (that is why subscribing to any of one youtubers at the end of guide is important)
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
 
@@ -42,18 +47,22 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [BIOS](https://www.youtube.com/watch?v=D1R2ttrvbdI)
   - [Ram](https://www.youtube.com/watch?v=vc8G5_sW8lk)
   - [PSU](https://www.youtube.com/watch?v=RUk8CUu30X0)
+  - [SSD VS Hard drive](https://www.youtube.com/watch?v=YQEjGKYXjw8)
   - [PSU](https://www.youtube.com/watch?v=dOXTZizoknc)
+  - [What SSD To Buy As Fast As Possible](https://www.youtube.com/watch?v=RzHp_IBbYYY)
   - [Keyboard switches part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) - [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)
-  - [Gaming headset VS Gaming Headset](https://www.youtube.com/watch?v=gvYvNf1crOQ)
+  - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)
 
 1. Picking Parts
 
 Now that you have some sort of an idea of what you need to build a pc lets choose some parts
 
 - [How to correctly choose parts](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
+- [Here&#39;s PROOF you do not need to overspend on a CPU in 2020](https://www.youtube.com/watch?v=tOq6Deqc-N0&amp;t=365s)
 - [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
 - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
 - [How To Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) – _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
+
 - 2020 Part lists!
 
 _As of September 2020 new graphics cars have come out and if you can find them in stock the 3070 is faster than the 2080ti and the 3080 is a 4k 60 fps beast and is above any of the 20 series cards_
@@ -62,6 +71,8 @@ _As of September 2020 new graphics cars have come out and if you can find them i
   - [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&amp;t=18s)
   - [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
   - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc)
+  - [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&amp;t=365s)
+  - [2020 $2300 High end build and $629 budget build live stream](https://www.youtube.com/watch?v=aZvuqlKdU8s)
 
 1. Building
 
