@@ -11,19 +11,22 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [What Do I Need to Build a Gaming PC?](https://www.youtube.com/watch?v=_O8kr0KlkBM)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
 - [Should you build your own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&amp;t=488s)
-- [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
-- [Ram SPEED?](https://www.youtube.com/watch?v=vjbNhCHwlBo&amp;t=663s)
-- [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)
+- [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
+- [CPU Specs](https://www.youtube.com/watch?v=xJNkEzy3-O4)
 - [What&#39;s Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)
+- [Ram SPEED?](https://www.youtube.com/watch?v=vjbNhCHwlBo&amp;t=663s)
+- [How to choose Ram](https://www.youtube.com/watch?v=mkpCvaBBo-c)
+- [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
+- [TN vs IPS vs VA Panels | Which is Best for Gaming?](https://www.youtube.com/watch?v=QsqnImDQL9s)
+- [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)
 
 - [Motherboard](https://www.youtube.com/watch?v=iTbCFriOuFA)
-- [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
 
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
-- [CPU Specs](https://www.youtube.com/watch?v=xJNkEzy3-O4)
-- [How to choose Ram](https://www.youtube.com/watch?v=mkpCvaBBo-c)
 - [What to look for in a gaming mouse](https://www.youtube.com/watch?v=EYoFzaAjLsQ)
+- [FreeSync vs G SYNC](https://www.youtube.com/watch?v=NuFQtPJ-fIQ)
+- [TN vs IPS vs VA: Which LCD Monitor Tech is Better?](https://www.youtube.com/watch?v=1BM0P7J1EPM&amp;t=455s)
 - [Choosing Gaming Headphones](https://www.youtube.com/watch?v=6JQSXf_npf8)
 - [Understanding Gaming Keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
@@ -36,9 +39,11 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
 
   - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
+  - [What is Overclocking](https://www.youtube.com/watch?v=RPmDSYRKnXM)
   - [Overclocking](https://www.youtube.com/watch?v=yyv9Y2miV64)
   - [Temperatures](https://www.youtube.com/watch?v=VuP6I0mOb1s)
   - [CPU and GPU](https://www.youtube.com/watch?v=1kypaBjJ-pg&amp;t=147s)
+  - [LCD Monitor Panels Types - TN vs IPS vs VA](https://www.youtube.com/watch?v=zNc2fKuVnGU)
   - [Ram](https://www.youtube.com/watch?v=OT-qAQLGkGo)
   - [Resolution](https://www.youtube.com/watch?v=XqdPciq2yJs)
   - [Refresh rate](https://www.youtube.com/watch?v=YCWZ_kWTB9w)
@@ -55,13 +60,18 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 
 1. Picking Parts
 
-Now that you have some sort of an idea of what you need to build a pc lets choose some parts
+Now that you have some sort of an idea of what you need to build a pc lets choose some parts.
+
+First what I would do before choosing parts is find out what resolution and hertz you will be trying to game at. ([Refer to this video on what that all means](https://www.youtube.com/watch?v=J50c82iC0PU))
 
 - [How to correctly choose parts](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
+- [Here&#39;s what Bottlenecking REALLY looks like!](https://www.youtube.com/watch?v=kLkV5yoCUkk)
 - [Here&#39;s PROOF you do not need to overspend on a CPU in 2020](https://www.youtube.com/watch?v=tOq6Deqc-N0&amp;t=365s)
-- [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
 - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
 - [How To Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) – _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
+- [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
+- [Best Graphics Cards For Gaming 2020](https://www.youtube.com/watch?v=gJGjZpRJdS4)
+- [How to Choose a Motherboard](https://www.youtube.com/watch?v=lP-pinlU-Ko)
 
 - 2020 Part lists!
 
@@ -72,7 +82,7 @@ _As of September 2020 new graphics cars have come out and if you can find them i
   - [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
   - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc)
   - [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&amp;t=365s)
-  - [2020 $2300 High end build and $629 budget build live stream](https://www.youtube.com/watch?v=aZvuqlKdU8s)
+  - [1440p Gaming PC](https://www.youtube.com/watch?v=hpoxw_s9K8I&amp;t=24s)
 
 1. Building
 
@@ -80,6 +90,9 @@ This step is not as hard as it seems I would only start building when you have a
 
 - [Build](https://www.youtube.com/watch?v=FfbEcDff2Z0)
 - [Build](https://www.youtube.com/watch?v=Z-j9ILxpsCA)
+- I also have one build from another youtuber that is also good I would check it out if you have difficulty understanding Carey. _(BTW this video is in POV so it is really easy to see what to do)_
+  - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&amp;t=554s)
+- Here is a [beginners guide to gaming PC&#39;s](https://www.youtube.com/playlist?list=PLRnHcRQUxuoeQM4-llcMNXTakKZcAAyB6) playlist this will be another place to check when you come across something you may not know. _(these videos are optional)_
 - I will also include some tip videos from other Youtubers that are helpful to know before you build.
   - [15 Things You NEED to Know When Building a PC!](https://www.youtube.com/watch?v=b5Fq47jC_VM)
   - [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&amp;t=328s)
@@ -90,6 +103,8 @@ This step takes the longest and is the most important for making sure you get th
 
 - [Guide: What to do AFTER building your computer...](https://www.youtube.com/watch?v=RYYoCXh2gtw)
 - [FREE programs that EVERY PC should have...](https://www.youtube.com/watch?v=PRbMfZKuRUo)
+- [10 FREE PC Programs Every Gamer Should Have](https://www.youtube.com/watch?v=_W_l79lNtA4)
+- [Just Get Flux: How to Better Protect Your Precious Gamer Eyes &amp; Get to Sleep Easier at Night](https://www.youtube.com/watch?v=dvNbGVdEsDs)
 - [Windows 10 advanced optimization guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&amp;t=457s) this guide will slightly cut into windows functionality I would recommend skipping from 11:50 to 17:50 skipping this will still allow you to download apps from the Microsoft store.
 - [Debloat windows 10](https://www.youtube.com/watch?v=8E6OT_QcHaU)
 - [Making and Editing Debloat Scripts for Windows 10](https://www.youtube.com/watch?v=y53p1d5P6LA)
@@ -107,6 +122,8 @@ This step takes the longest and is the most important for making sure you get th
   - [A-Z playlist](https://www.youtube.com/playlist?list=PLykpkrQ1xVu1jTFCju1cmY9UAHw99aGWW)
 
 1. Gaming time!!!!!!
+  - [Using EVERY GAME LAUNCHER to get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
+  - [Game Launchers - Which one?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
 2. More videos and channels I would recommend watching and subscribing to.
   - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
   - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) – must!!!!
@@ -124,5 +141,6 @@ This step takes the longest and is the most important for making sure you get th
   - [CultOfMush](https://www.youtube.com/channel/UC7Cj7VhPm234Zclm0_rTGPg)
   - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA)
   - [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg)
+  - If you want to test your knowledge just watch this [video](https://www.youtube.com/watch?v=5XuoU7ZcdbA&amp;t=32s) and see if you can understand everything he talks about. (if not watch the videos on part 1 again)
 
 I really think that if you were to watch every video, I provided in this guide you should be more than capable of building and or upgrading your build
