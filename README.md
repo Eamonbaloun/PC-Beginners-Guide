@@ -2,8 +2,8 @@ If you looking to build a gaming PC in late 2020 please do not just go, ask your
 
 I love computers I have been an enthusiast for over 10 years and have built and setup many computers. I want to help people get into this hobby that I have come to love so much. That is why I am going make a guide for new people getting into PC gaming.
 
-- _Disclaimer there will be a lot of overlap in most of videos that was done on purpose I didn&#39;t get everything on my first time learning about them._
-- _Also make sure that you check when the video was made. all the videos I have linked are 100% accurate and the only thing I would say is if it from 2019 there have been new CPU&#39;s and GPU&#39;s so not everything has up to date info but are still good videos none the less._
+- _Disclaimer there will be a lot of overlap in most of videos that was done on purpose I did not get everything on my first time learning about them._
+- _Also make sure that you check when the video was made. all the videos I have linked are 100% accurate and the only thing I would say is if it from 2019 there have been new CPU&#39;s and GPU&#39;s so not everything has up to date hardware, but are still good videos none the less._
 
 1. Understanding what each part does and why you need it (Background info)
 
@@ -48,6 +48,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [Resolution](https://www.youtube.com/watch?v=XqdPciq2yJs)
   - [Refresh rate](https://www.youtube.com/watch?v=YCWZ_kWTB9w)
   - [GPU settings](https://www.youtube.com/watch?v=QDpsVVJXYAs&amp;t=194s)
+  - [Mouse Acceleration](https://www.youtube.com/watch?v=16diwK6HWbI)
   - [BIOS](https://www.youtube.com/watch?v=zIYkol851dU)
   - [BIOS](https://www.youtube.com/watch?v=D1R2ttrvbdI)
   - [Ram](https://www.youtube.com/watch?v=vc8G5_sW8lk)
@@ -57,6 +58,8 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [What SSD To Buy As Fast As Possible](https://www.youtube.com/watch?v=RzHp_IBbYYY)
   - [Keyboard switches part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) - [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)
   - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Picking Parts
 
@@ -72,6 +75,9 @@ First what I would do before choosing parts is find out what resolution and hert
 - [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
 - [Best Graphics Cards For Gaming 2020](https://www.youtube.com/watch?v=gJGjZpRJdS4)
 - [How to Choose a Motherboard](https://www.youtube.com/watch?v=lP-pinlU-Ko)
+- When looking for a case I would definitely check out Gamers Nexus they have the best case reviews and they are not afraid to say something negative even if they were sent the case for review.
+  - [PC cases playlist](https://www.youtube.com/watch?v=OupiPZybyBE&amp;list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)
+  - You can also look at this [video](https://www.youtube.com/watch?v=omxziF-oa-A) to understand what makes a good PC case
 
 - 2020 Part lists!
 
@@ -84,6 +90,8 @@ _As of September 2020 new graphics cars have come out and if you can find them i
   - [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&amp;t=365s)
   - [1440p Gaming PC](https://www.youtube.com/watch?v=hpoxw_s9K8I&amp;t=24s)
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 1. Building
 
 This step is not as hard as it seems I would only start building when you have all the parts. The main YouTuber I would recommend for building computers is[careyholzman](https://www.youtube.com/user/CareyHolzman). He is the best at showing what goes where and explaining why he does things the way he does. Below are some of his build videos please watch at least one from start to finish on your own before you build the pc. Then watch the video again as a step by step guide when putting it together.
@@ -95,20 +103,32 @@ This step is not as hard as it seems I would only start building when you have a
 - Here is a [beginners guide to gaming PC&#39;s](https://www.youtube.com/playlist?list=PLRnHcRQUxuoeQM4-llcMNXTakKZcAAyB6) playlist this will be another place to check when you come across something you may not know. _(these videos are optional)_
 - I will also include some tip videos from other Youtubers that are helpful to know before you build.
   - [15 Things You NEED to Know When Building a PC!](https://www.youtube.com/watch?v=b5Fq47jC_VM)
+  - [Things not to do when building a pc](https://www.youtube.com/watch?v=CDUZRNp4pxg)
+  - [DON&#39;T Do This When Building a PC! Our Common Mistakes](https://www.youtube.com/watch?v=tZiw4aVr_vE&amp;t=41s)
   - [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&amp;t=328s)
 
-1. Windows
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-This step takes the longest and is the most important for making sure you get the most out of what you pay for.
+1. Optimizing Windows- \ ***Please don&#39;t skip this step it is so important\***
 
-- [Guide: What to do AFTER building your computer...](https://www.youtube.com/watch?v=RYYoCXh2gtw)
-- [FREE programs that EVERY PC should have...](https://www.youtube.com/watch?v=PRbMfZKuRUo)
-- [10 FREE PC Programs Every Gamer Should Have](https://www.youtube.com/watch?v=_W_l79lNtA4)
-- [Just Get Flux: How to Better Protect Your Precious Gamer Eyes &amp; Get to Sleep Easier at Night](https://www.youtube.com/watch?v=dvNbGVdEsDs)
-- [Windows 10 advanced optimization guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&amp;t=457s) this guide will slightly cut into windows functionality I would recommend skipping from 11:50 to 17:50 skipping this will still allow you to download apps from the Microsoft store.
-- [Debloat windows 10](https://www.youtube.com/watch?v=8E6OT_QcHaU)
-- [Making and Editing Debloat Scripts for Windows 10](https://www.youtube.com/watch?v=y53p1d5P6LA)
-- [W10Privacy Walkthrough](https://www.youtube.com/watch?v=qttbd2Ouxmc)
+This step takes the longest and is the most important for making sure you get the most out of what you pay for I have helped friends who bought a 144hz monitor and never went into the Nvidia control panel and swapped it from 60hz to 144hz so the entire time they had owned that monitor they were never using the 144hz that they paid for. (also, everything in this guide is not a virus even if your anti-virus detects it as a virus it is not. I have checked every file with [Virus Total](https://www.youtube.com/watch?v=verKqNVshS4))
+
+**Watch as many of these videos as you can**
+
+- [Guide: What to do AFTER building your computer...](https://www.youtube.com/watch?v=RYYoCXh2gtw)- Please watch this video it is important that you setup windows and turn on XMP for your ram.
+
+- [Programs needed to continue](http://www.mediafire.com/file/e7l0k7d43swdxn8/Ninite_Chrome_Discord_Steam_VLC_WinRAR_Installer.exe/file)
+
+- [Windows settings](https://youtu.be/jCB1a1hokwg?t=5450) - what I recommend is if you click the link it will start near the end of video he shows some programs that make setting up windows really easy I would follow the settings he uses but just as a rule don&#39;t disable camera or microphone and also skip anything about windows apps a video further down covers windows apps everything else is up to you. (If your camera and microphone do not work after restarting than click [this link](http://www.mediafire.com/file/zn7wsne0s2l74ro/Fix_Microphone_%2526_Camera.reg/file) and run this file) (if you really want the best performance you can watch the whole video, but just to let you know the programs he shows will do most of what he shows for you in a nice simple menu, but if you really want to learn windows and how to use it watch the whole video)
+
+- [Windows 10 advanced optimization guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&amp;t=457s) - this guide will slightly cut into windows functionality I would recommend skipping from 11:50 to 17:50 skipping this will still allow you to download apps from the Microsoft store. Also, for this video I would skip disabling services the overwatch A-Z video has a way of doing this. (skip anything about windows apps)
+
+- [Windows Apps the right way to remove them](https://www.youtube.com/watch?v=8E6OT_QcHaU) – this is how to remove windows app in the best way.
+
+- [Overwatch | A-Z, Boost FPS &amp; Optimization Guide](https://www.youtube.com/watch?v=cJrEQuylzOQ&amp;t=228s) - even if you don&#39;t play overwatch this guide is still really good it cover almost everything I would recommend without cutting into windows functionality at all so please if you want to make windows snapper for gaming and want a relatively short to the point tutorial then at lease watch this one. (skip anything about windows apps)
+
+- [Making and Editing Debloat Scripts for Windows 10](https://www.youtube.com/watch?v=y53p1d5P6LA) - this video will cover how to edit your own script that will optimize windows for you I would follow this video and make your script and then run the script once a month to make sure your settings are still set the way you want them (windows likes to reset them once and while)
+
 - If you are looking to play a specific game and want the best settings than look for a guide by [Panjno](https://www.youtube.com/user/PanjnoTutorials)
   - [Call of duty Warzone](https://www.youtube.com/watch?v=FU8S3srYtbg)
   - [Rainbow six siege](https://www.youtube.com/watch?v=Q5psNE7nGCg)
@@ -118,13 +138,24 @@ This step takes the longest and is the most important for making sure you get th
   - [Nvidia settings](https://www.youtube.com/watch?v=jZrnfWpENTo&amp;t=464s)
   - [AMD settings](https://www.youtube.com/watch?v=K1N4vV5BSoI)
   - [WIFI settings](https://www.youtube.com/watch?v=bAke9R-k3so&amp;t=181s)
+
 - If you are looking for the best performance and fully tweaked pc then you want to look at the youtuber[FR33THY](https://www.youtube.com/user/chrisfreeth) and his A-Z series for settings up windows. This will make windows light for gaming but will cut into the functionality of windows a lot. So only do what you feel is best for you and your needs.
   - [A-Z playlist](https://www.youtube.com/playlist?list=PLykpkrQ1xVu1jTFCju1cmY9UAHw99aGWW)
+
+- Bonus Videos!
+  - [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)
+  - [FREE programs that EVERY PC should have...](https://www.youtube.com/watch?v=PRbMfZKuRUo)
+  - [10 FREE PC Programs Every Gamer Should Have](https://www.youtube.com/watch?v=_W_l79lNtA4)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Gaming time!!!!!!
   - [Using EVERY GAME LAUNCHER to get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
   - [Game Launchers - Which one?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
-2. More videos and channels I would recommend watching and subscribing to.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1. More videos and channels I would recommend watching and subscribing to.
   - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
   - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) – must!!!!
   - [JayzTwoCents](https://www.youtube.com/user/Jayztwocents)
@@ -143,4 +174,4 @@ This step takes the longest and is the most important for making sure you get th
   - [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg)
   - If you want to test your knowledge just watch this [video](https://www.youtube.com/watch?v=5XuoU7ZcdbA&amp;t=32s) and see if you can understand everything he talks about. (if not watch the videos on part 1 again)
 
-I really think that if you were to watch every video, I provided in this guide you should be more than capable of building and or upgrading your build
+I really think that if you were to watch every video, I provided in this guide you should be more than capable of building and or upgrading your own computer.
