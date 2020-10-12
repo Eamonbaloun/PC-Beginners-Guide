@@ -5,15 +5,19 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - _Disclaimer there will be a lot of overlap in most of videos that was done on purpose I did not get everything on my first time learning about them._
 - _Also make sure that you check when the video was made. all the videos I have linked are 100% accurate and the only thing I would say is if it from 2019 there have been new CPU&#39;s and GPU&#39;s so not everything has up to date hardware, but are still good videos none the less._
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 1. Understanding what each part does and why you need it (Background info)
 
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 - [What Do I Need to Build a Gaming PC?](https://www.youtube.com/watch?v=_O8kr0KlkBM)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
 - [Should you build your own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&amp;t=488s)
-- [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
-- [Motherboard](https://www.youtube.com/watch?v=TbGjYumO_aw)
-- [CPU Specs](https://www.youtube.com/watch?v=xJNkEzy3-O4)
+- [Why most pre-builts suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
+- [GPU Names Explained](https://www.youtube.com/watch?v=vjr0HcXl7Lc&amp;t=27s)
+- [CPU Specs Specs Explained](https://www.youtube.com/watch?v=xJNkEzy3-O4)
+- [Motherboard Specs Explained](https://www.youtube.com/watch?v=TbGjYumO_aw) 
+- [Power Supply Specs Explained](https://www.youtube.com/watch?v=i7-vDghvF3o)
 - [What&#39;s Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)
 - [Ram SPEED?](https://www.youtube.com/watch?v=vjbNhCHwlBo&amp;t=663s)
 - [How to choose Ram](https://www.youtube.com/watch?v=mkpCvaBBo-c)
@@ -59,7 +63,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [Keyboard switches part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) - [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)
   - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Picking Parts
 
@@ -71,11 +75,11 @@ First what I would do before choosing parts is find out what resolution and hert
 - [Here&#39;s what Bottlenecking REALLY looks like!](https://www.youtube.com/watch?v=kLkV5yoCUkk)
 - [Here&#39;s PROOF you do not need to overspend on a CPU in 2020](https://www.youtube.com/watch?v=tOq6Deqc-N0&amp;t=365s)
 - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
-- [How To Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) – _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
+- [How to Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) – _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
 - [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
-- [Best Graphics Cards For Gaming 2020](https://www.youtube.com/watch?v=gJGjZpRJdS4)
+- [Best Graphics Cards for Gaming 2020](https://www.youtube.com/watch?v=gJGjZpRJdS4)
 - [How to Choose a Motherboard](https://www.youtube.com/watch?v=lP-pinlU-Ko)
-- When looking for a case I would definitely check out Gamers Nexus they have the best case reviews and they are not afraid to say something negative even if they were sent the case for review.
+- When looking for a case I would definitely check out Gamers Nexus they have the best-case reviews and they are not afraid to say something negative even if they were sent the case for review.
   - [PC cases playlist](https://www.youtube.com/watch?v=OupiPZybyBE&amp;list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)
   - You can also look at this [video](https://www.youtube.com/watch?v=omxziF-oa-A) to understand what makes a good PC case
 
@@ -90,7 +94,7 @@ _As of September 2020 new graphics cars have come out and if you can find them i
   - [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&amp;t=365s)
   - [1440p Gaming PC](https://www.youtube.com/watch?v=hpoxw_s9K8I&amp;t=24s)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Building
 
@@ -107,7 +111,7 @@ This step is not as hard as it seems I would only start building when you have a
   - [DON&#39;T Do This When Building a PC! Our Common Mistakes](https://www.youtube.com/watch?v=tZiw4aVr_vE&amp;t=41s)
   - [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&amp;t=328s)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Optimizing Windows- \ ***Please don&#39;t skip this step it is so important\***
 
@@ -119,7 +123,7 @@ This step takes the longest and is the most important for making sure you get th
 
 - [Programs needed to continue](http://www.mediafire.com/file/e7l0k7d43swdxn8/Ninite_Chrome_Discord_Steam_VLC_WinRAR_Installer.exe/file)
 
-- [Windows settings](https://youtu.be/jCB1a1hokwg?t=5450) - what I recommend is if you click the link it will start near the end of video he shows some programs that make setting up windows really easy I would follow the settings he uses but just as a rule don&#39;t disable camera or microphone and also skip anything about windows apps a video further down covers windows apps everything else is up to you. (If your camera and microphone do not work after restarting than click [this link](http://www.mediafire.com/file/zn7wsne0s2l74ro/Fix_Microphone_%2526_Camera.reg/file) and run this file) (if you really want the best performance you can watch the whole video, but just to let you know the programs he shows will do most of what he shows for you in a nice simple menu, but if you really want to learn windows and how to use it watch the whole video)
+- [Windows settings](https://youtu.be/jCB1a1hokwg?t=5450) - what I recommend is if you click the link it will start the video near the end he shows some programs that make setting up windows really easy I would follow the settings he uses but just as a rule don&#39;t disable camera or microphone and also skip anything about windows apps a video further down covers windows apps everything else is up to you. (If your camera and microphone do not work after restarting than click [this link](http://www.mediafire.com/file/zn7wsne0s2l74ro/Fix_Microphone_%2526_Camera.reg/file) and run this file) (if you really want the best performance you can watch the whole video, but just to let you know the programs he shows will do most of what he shows for you in a nice simple menu, but if you really want to learn windows and how to use it watch the whole video)
 
 - [Windows 10 advanced optimization guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&amp;t=457s) - this guide will slightly cut into windows functionality I would recommend skipping from 11:50 to 17:50 skipping this will still allow you to download apps from the Microsoft store. Also, for this video I would skip disabling services the overwatch A-Z video has a way of doing this. (skip anything about windows apps)
 
@@ -128,6 +132,8 @@ This step takes the longest and is the most important for making sure you get th
 - [Overwatch | A-Z, Boost FPS &amp; Optimization Guide](https://www.youtube.com/watch?v=cJrEQuylzOQ&amp;t=228s) - even if you don&#39;t play overwatch this guide is still really good it cover almost everything I would recommend without cutting into windows functionality at all so please if you want to make windows snapper for gaming and want a relatively short to the point tutorial then at lease watch this one. (skip anything about windows apps)
 
 - [Making and Editing Debloat Scripts for Windows 10](https://www.youtube.com/watch?v=y53p1d5P6LA) - this video will cover how to edit your own script that will optimize windows for you I would follow this video and make your script and then run the script once a month to make sure your settings are still set the way you want them (windows likes to reset them once and while)
+
+- [How to REALLY make Windows 10 Super Light for Gaming](https://www.youtube.com/watch?v=IU5F01oOzQQ&amp;t=2s) – this is another video that shows how you can use scrips to make windows light for gaming.
 
 - If you are looking to play a specific game and want the best settings than look for a guide by [Panjno](https://www.youtube.com/user/PanjnoTutorials)
   - [Call of duty Warzone](https://www.youtube.com/watch?v=FU8S3srYtbg)
@@ -147,13 +153,13 @@ This step takes the longest and is the most important for making sure you get th
   - [FREE programs that EVERY PC should have...](https://www.youtube.com/watch?v=PRbMfZKuRUo)
   - [10 FREE PC Programs Every Gamer Should Have](https://www.youtube.com/watch?v=_W_l79lNtA4)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Gaming time!!!!!!
   - [Using EVERY GAME LAUNCHER to get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
   - [Game Launchers - Which one?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. More videos and channels I would recommend watching and subscribing to.
   - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
