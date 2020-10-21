@@ -7,8 +7,9 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. Understanding what each part does and why you need it (Background info)
+1. What you need to know before building (_Background info_)
 
+- [Switching to PC Gaming from Console: PS5 and Xbox Series X Edition](https://www.youtube.com/watch?v=9rn2btJWszI&amp;t=316s)
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 - [What Do I Need to Build a Gaming PC?](https://www.youtube.com/watch?v=_O8kr0KlkBM)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
