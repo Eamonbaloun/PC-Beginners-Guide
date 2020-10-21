@@ -7,7 +7,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. What you need to know before building (_Background info_)
+1. What you need to know before buying anything (_Background info_)
 
 - [Switching to PC Gaming from Console: PS5 and Xbox Series X Edition](https://www.youtube.com/watch?v=9rn2btJWszI&amp;t=316s)
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
