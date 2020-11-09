@@ -12,6 +12,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [Switching to PC Gaming from Console: PS5 and Xbox Series X Edition](https://www.youtube.com/watch?v=9rn2btJWszI&amp;t=316s)
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
 - [Gaming PC Parts Explained! A Beginner&#39;s Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
+- [101 Guide to Getting Into PC Gaming](https://www.youtube.com/watch?v=ZBoxnspdNMc)
 - [Should you build your own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&amp;t=488s)
 - [Motherboard Specs Explained](https://www.youtube.com/watch?v=TbGjYumO_aw)
 - [GPU Names Explained](https://www.youtube.com/watch?v=vjr0HcXl7Lc&amp;t=27s)
@@ -22,10 +23,12 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [What&#39;s Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)
 - [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
 - [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)
+- [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
 - [What to look for in a gaming mouse](https://www.youtube.com/watch?v=EYoFzaAjLsQ)
 - [FreeSync vs G SYNC](https://www.youtube.com/watch?v=NuFQtPJ-fIQ)
 - [TN vs IPS vs VA: Which LCD Monitor Tech is Better?](https://www.youtube.com/watch?v=1BM0P7J1EPM&amp;t=455s)
 - [Choosing Gaming Headphones](https://www.youtube.com/watch?v=6JQSXf_npf8)
+- [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&amp;t=677s)
 - [Understanding Gaming Keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
@@ -55,7 +58,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [SSD VS Hard drive](https://www.youtube.com/watch?v=YQEjGKYXjw8)
   - [PSU](https://www.youtube.com/watch?v=dOXTZizoknc)
   - [What SSD To Buy As Fast As Possible](https://www.youtube.com/watch?v=RzHp_IBbYYY)
-  - [Keyboard switches part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) - [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)
+  - [Keyboard switches part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) -|- [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)
   - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -78,22 +81,50 @@ First what I would do before choosing parts is find out what resolution and refr
 
 - [How to Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) - _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
 
-- [Which Ryzen CPU Should You Pick?](https://www.youtube.com/watch?v=Zkkhc8YGG3c)
+- [32GB of Ram vs 16](https://www.youtube.com/watch?v=x_QPQowp2UE&amp;t=28s)-|- [Does 32GB of Ram REALLY Make a Difference in Your PC ???](https://www.youtube.com/watch?v=JupBvOfoHjA&amp;t=396s) (_please watch both videos_) If you are planning to use your gaming PC for something else like your job and you work with Adobe software or engineering software like CAD or solid works then I would recommend 32 gigs as a minimum. (it may seem expensive but if you follow the pc hardware deals, I linked below you can get kits of ram cheap do not let the price scare you)
 
-- [Best Graphics Cards for Gaming 2020](https://www.youtube.com/watch?v=gJGjZpRJdS4)
+- [Don&#39;t Buy a 6 Core CPU in 2020!](https://www.youtube.com/watch?v=0WZAhsMDNZM)
 
-- [32GB of Ram vs 16](https://www.youtube.com/watch?v=x_QPQowp2UE&amp;t=28s)- if you are planning to use your gaming PC for something else like your job and you work with Adobe software or engineering software like CAD or solid works then I would recommend 32
-- gigs as a minimum. (_it may seem expensive but if you follow the pc hardware deals, I linked below you can get kits of ram cheap don&#39;t let the price scare you_)
+- Best individual Parts
 
-- [How to Choose a Motherboard](https://www.youtube.com/watch?v=lP-pinlU-Ko)
+  - [Best CPUs of 2020 So Far](https://www.youtube.com/watch?v=VDZQCcDMcfw) (Gaming, Workstation, Overclocking, Budget, &amp; Disappointment)
 
-- [The Best Budget CPU Cooler](https://www.youtube.com/watch?v=2GSoaRsuke4)
+  - [What Graphics Card to Buy - 2020](https://www.youtube.com/watch?v=CoDPTJ-3qCM&amp;t=19s)
+
+  - [The Best B450 Motherboards for your AMD Ryzen Gaming PC! 2020](https://www.youtube.com/watch?v=lkyCmigcEcQ)
+
+  - [BEST POWER SUPPLIES! (2020)](https://www.youtube.com/watch?v=nz7qMd9x8vc)
+
+  - [Best RAM For Gaming 2020](https://www.youtube.com/watch?v=GsgOOArQ5DQ)
+
+  - [The Best PC Monitors for Gaming: 2020 Edition](https://www.youtube.com/watch?v=U15ASzPplbE)
+
+  - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc) – This video will show the best CPU and GPU combos to prevent bottlenecking
 
 - PC Cases
   - When looking for a case I would always check out Gamers Nexus they have the best-case reviews, and they are not afraid to say something negative even if they were sent the case for review.
     - [PC cases playlist](https://www.youtube.com/watch?v=OupiPZybyBE&amp;list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)
       - You can also look at this [video](https://www.youtube.com/watch?v=aYYq1QXts_Y&amp;t=28s) to understand what makes a good PC case (Optional)
-      - Last thing about PC cases just because a case has fancy lighting does not mean it is good for airflow don&#39;t be fooled by fancy lighting there are a lot of cases on the market that have lighting and still don&#39;t compromise on airflow. Also just because one of your favorite streamers uses a specific case does not it mean it&#39;s a good case I know [nadeshot&#39;s cash app compound facility](https://www.youtube.com/watch?v=ui7tLhqWB2Q&amp;t=315s) for esports and streamers uses NZXT cases for every pc in the building those aren&#39;t bad cases but just because they use them doesn&#39;t mean you need to.
+        - Last thing about PC cases just because a case has fancy lighting does not mean it is good for airflow don&#39;t be fooled by fancy lighting there are a lot of cases on the market that have lighting and still don&#39;t compromise on airflow. Also just because one of your favorite streamers uses a specific case does not it mean it&#39;s a good case I know [nadeshot&#39;s cash app compound facility](https://www.youtube.com/watch?v=ui7tLhqWB2Q&amp;t=315s) for esports and streamers uses NZXT cases for every pc in the building those aren&#39;t bad cases but just because they use them doesn&#39;t mean you need to.
+
+- [Who Actually Makes the Best PC Fans?](https://www.youtube.com/watch?v=QnBo9bTRsxk)
+
+- [The Best Budget CPU Cooler](https://www.youtube.com/watch?v=2GSoaRsuke4)
+
+PC Peripherals
+
+  - Mouse
+    - [The BEST Gaming Mice We Missed in 2020!](https://www.youtube.com/watch?v=NHfd-ZLddUs&amp;t=67s)
+    - [Don&#39;t game with a generic mouse!](https://www.youtube.com/watch?v=ar-HKYkWlvw)
+    - [2020 BRUTALLY HONEST GAMING MICE TIER LIST](https://www.youtube.com/watch?v=B2RsbXgMCVY)
+  - Keyboard
+    - [The BEST Keyboards Under $75!](https://www.youtube.com/watch?v=9S-U5f140-U)
+    - [I Found the Perfect Keyboard](https://www.youtube.com/watch?v=ADEh9F0Lidc)
+    - [2020 BRUTALLY HONEST KEYBOARD TIER LIST](https://www.youtube.com/watch?v=o8WOtOJz14E)
+  - Headset
+    - [The Best Gaming Headset Right Now - PC38X Review](https://www.youtube.com/watch?v=zNjO98dZUGQ&amp;t=223s) - [The BEST Gaming Audio Setup I&#39;ve Used...So Far!](https://www.youtube.com/watch?v=-HLlmBtyYGw) - the second videos is if you pare this headset with a amp the fulla are great amps for the price. (I have the PC38X on a fulla 3 and it is god tier)
+    - [The Best audiophile Gaming Headsets](https://www.youtube.com/watch?v=0k6M25mWUHk&amp;t=482s)
+    - [TOP 5: Best Gaming Headset 2020](https://www.youtube.com/watch?v=wnZ3PqgeXMc)
 
 - 2020 Part lists!
 
@@ -102,17 +133,19 @@ One thing to remember is if you go with a really budget build ($700 or less) it 
 _As of September 2020 new graphics cars have come out and if you can find them in stock the 3070 is faster than the 2080ti and the 3080 is a 4k 60 fps beast and is above anything that has previously been released_
 
   - [High end 2020 Build](https://www.youtube.com/watch?v=a2PnPN8vVUo)
+  - [The Herd Mentality PC](https://www.youtube.com/watch?v=mODI4-cRhPE&amp;t=405s) - the case is a little unconventional, but this build has some of the best parts you can buy right now on new egg. (all of the parts come with warranties included with some parts having up to a 6 year warranty)
   - [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&amp;t=18s)
   - [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
-  - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc)
-  - [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&amp;t=365s)
+  - [I Built the Xbox Series X as a PC](https://www.youtube.com/watch?v=Cd2J_Mc0PJo) – I really like this build it is really compact and quiet I would definitely build this if I was looking for a Xbox killer.
+  - [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&amp;t=365s)- Consoles are not PC&#39;s even if they are using AMD parts. This PC part list is similarly priced to a PS5 that is why it is called a PS5 killer. ([This video explains the differences](https://www.youtube.com/watch?v=yWzf7jFwbQA&amp;t=171s))
   - [1440p Gaming PC](https://www.youtube.com/watch?v=hpoxw_s9K8I&amp;t=24s)
+  - [NZXT H1 Build Compact PC](https://www.youtube.com/watch?v=Sv3Pqb2F_xc)
   - [Best value Gaming PC](https://www.youtube.com/watch?v=SePnfkhMce0)
 
 Active deals!!!
 
 - [Pc hardware Deals](https://www.youtube.com/channel/UCCss3QxegBkF8BAetIo0qXA) – This channel streams all the time some of the best deals you can currently find on the market and also is focused on what is the best value for your money I would check there channel if you have a question what is better for the money.
-- I would also check out [dealsource.tech](https://www.dealsource.tech/deals-1) this websites gets updated everyday with deals they don&#39;t have as many pc hardware deals but they do post a lot of storage deals if you want to get good storage for cheap this is place to look. (_if you click a link and buy something it supports the people that make this website_)
+- I would also check out [dealsource.tech](https://www.dealsource.tech/deals-1) this websites gets updated every day with deals they don&#39;t have as many pc hardware deals but they do post a lot of storage deals if you want to get good storage for cheap this is place to look. (_if you click a link and buy something it supports the people that make this website_)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
