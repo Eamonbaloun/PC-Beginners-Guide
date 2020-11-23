@@ -30,6 +30,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 - [Choosing Gaming Headphones](https://www.youtube.com/watch?v=6JQSXf_npf8)
 - [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&amp;t=677s)
 - [Understanding Gaming Keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E)
+- [How To Choose The BEST Fans For Your PC Build](https://www.youtube.com/watch?v=tGenFt-m7Zk)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
 
@@ -66,62 +67,45 @@ I love computers I have been an enthusiast for over 10 years and have built and 
 
 1. Picking Parts
 
-- Now that you have some sort of an idea of what you need to build a pc lets choose some parts. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=_O8kr0KlkBM))
+Now that you have some sort of an idea of what you need to build a pc lets choose some parts. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=_O8kr0KlkBM))
 
-First what I would do before choosing parts is find out what resolution and refresh rate you will be trying to game at. ([Refer to this video on what that all means](https://www.youtube.com/watch?v=J50c82iC0PU))
-
-- [How to correctly choose parts](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
-
-- [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
-
-- [Here&#39;s PROOF you do not need to overspend on a CPU in 2020](https://www.youtube.com/watch?v=tOq6Deqc-N0&amp;t=365s)
-
-- [Here&#39;s what Bottlenecking REALLY looks like!](https://www.youtube.com/watch?v=kLkV5yoCUkk)
-
-- [Don&#39;t get RIPPED OFF!](https://www.youtube.com/watch?v=QOTZyhxO_yk&amp;t=28s)
-
-- [How to Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) - _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
-
-- [32GB of Ram vs 16](https://www.youtube.com/watch?v=x_QPQowp2UE&amp;t=28s) -|- [Does 32GB of Ram REALLY Make a Difference in Your PC ???](https://www.youtube.com/watch?v=JupBvOfoHjA&amp;t=396s) (_please watch both videos_) If you are planning to use your gaming PC for something else like your job and you work with Adobe software or engineering software like CAD or solid works then I would recommend 32 gigs as a minimum. (it may seem expensive but if you follow the pc hardware deals, I linked below you can get kits of ram cheap do not let the price scare you)
-
-- [Don&#39;t Buy a 6 Core CPU in 2020!](https://www.youtube.com/watch?v=0WZAhsMDNZM)
+- First what I would do before choosing parts is find out what resolution and refresh rate you will be trying to game at. ([Refer to this video on what that all means](https://www.youtube.com/watch?v=J50c82iC0PU)
+  - [The Best PC Monitors for Gaming: 2020 Edition](https://www.youtube.com/watch?v=0w1_zOiWQiE&amp;t=8s)
+  - [How to correctly choose parts](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
+  - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
+  - [Here&#39;s PROOF you do not need to overspend on a CPU in 2020](https://www.youtube.com/watch?v=tOq6Deqc-N0&amp;t=365s)
+  - [Here&#39;s what Bottlenecking REALLY looks like!](https://www.youtube.com/watch?v=kLkV5yoCUkk)
+  - [Don&#39;t get RIPPED OFF!](https://www.youtube.com/watch?v=QOTZyhxO_yk&amp;t=28s)
+  - [How to Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) - PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel.
+  - [32GB of Ram vs 16](https://www.youtube.com/watch?v=x_QPQowp2UE&amp;t=28s) -|- [Does 32GB of Ram REALLY Make a Difference in Your PC ???](https://www.youtube.com/watch?v=JupBvOfoHjA&amp;t=396s) (_please watch both videos_) If you are planning to use your gaming PC for something else like your job and you work with Adobe software or engineering software like CAD or solid works then I would recommend 32 gigs as a minimum. (it may seem expensive but if you follow the pc hardware deals, I linked below you can get kits of ram cheap do not let the price scare you)
+  - [Don&#39;t Buy a 6 Core CPU in 2020!](https://www.youtube.com/watch?v=0WZAhsMDNZM)
 
 - Best individual Parts
-
   - [Best CPUs of 2020 So Far](https://www.youtube.com/watch?v=VDZQCcDMcfw) (Gaming, Workstation, Overclocking, Budget, &amp; Disappointment)
-
   - [What Graphics Card to Buy - 2020](https://www.youtube.com/watch?v=CoDPTJ-3qCM&amp;t=19s)
-
   - [The Best B450 Motherboards for your AMD Ryzen Gaming PC! 2020](https://www.youtube.com/watch?v=lkyCmigcEcQ)
-
   - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc) – This video will show the best CPU and GPU combos to prevent bottlenecking
-
   - [BEST POWER SUPPLIES! (2020)](https://www.youtube.com/watch?v=nz7qMd9x8vc)
-
   - [Best RAM For Gaming 2020](https://www.youtube.com/watch?v=GsgOOArQ5DQ)
-
-  - [The Best PC Monitors for Gaming: 2020 Edition](https://www.youtube.com/watch?v=U15ASzPplbE)
-
   - [Who Actually Makes the Best PC Fans?](https://www.youtube.com/watch?v=QnBo9bTRsxk)
-
   - [The Best Budget CPU Cooler](https://www.youtube.com/watch?v=2GSoaRsuke4)
 
 - PC Cases
-  - When looking for a case I would always check out Gamers Nexus they have the best-case reviews, and they are not afraid to say something negative even if they were sent the case for review.
-    - [PC cases playlist](https://www.youtube.com/watch?v=OupiPZybyBE&amp;list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)
-      - You can also look at this [video](https://www.youtube.com/watch?v=aYYq1QXts_Y&amp;t=28s) to understand what makes a good PC case (Optional)
-        - Last thing about PC cases just because a case has fancy lighting does not mean it is good for airflow don&#39;t be fooled by fancy lighting there are a lot of cases on the market that have lighting and still don&#39;t compromise on airflow. Also just because one of your favorite streamers uses a specific case does not it mean it&#39;s a good case I know [nadeshot&#39;s cash app compound facility](https://www.youtube.com/watch?v=ui7tLhqWB2Q&amp;t=315s) for esports and streamers uses NZXT cases for every pc in the building those aren&#39;t bad cases, but just because they use them doesn&#39;t mean you need to. _(Just do your research is the best advice I can give)_
+  - When looking for a case I would always check out Gamers Nexus they have the best-case reviews, and they are not afraid to say something negative even if they were sent the case for review. [PC cases playlist](https://www.youtube.com/watch?v=OupiPZybyBE&amp;list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)-|-[Best PC Airflow Cases of 2020 So Far: $60 Budget to $200 High-End](https://www.youtube.com/watch?v=XsMNu0gWlZw) here is a round up from Gamers Nexus of the best airflow cases in 2020
+
+  - Also this video is another good one to look at if you are on a budget [The Best Budget Cases for your Gaming PC! ($40-$70)](https://www.youtube.com/watch?v=aYYq1QXts_Y&amp;t=28s)
+
+  - Last thing about PC cases just because a case has fancy lighting does not mean it is good for airflow don&#39;t be fooled by fancy lighting there are a lot of cases on the market that have lighting and still don&#39;t compromise on airflow. Also just because one of your favorite streamers uses a specific case does not it mean it&#39;s a good case I know [nadeshot&#39;s cash app compound facility](https://www.youtube.com/watch?v=ui7tLhqWB2Q&amp;t=315s) for esports and streamers uses NZXT cases for every pc in the building those aren&#39;t bad cases, but just because they use them doesn&#39;t mean you need to. _(Just do your research is the best advice I can give)_
 
 PC Peripherals
 
   - Mouse
     - [Gaming Mice Buyers Guide 2020](https://www.youtube.com/watch?v=wkz5nQfD6gY)
-    - [What Gaming Mice Do We Actually Use?!?!](https://www.youtube.com/watch?v=YAA2i-hgw0M&amp;t=72s)
-    - [The BEST Gaming Mice We Missed in 2020!](https://www.youtube.com/watch?v=NHfd-ZLddUs&amp;t=67s)
+    - [Top 5 Gaming Mice of 2020!](https://www.youtube.com/watch?v=9Hi87YgYrFs)
     - [Don&#39;t game with a generic mouse!](https://www.youtube.com/watch?v=ar-HKYkWlvw)
-    - [Unbeatable Budget Gaming Mice](https://www.youtube.com/watch?v=vwOaP3k3-K0)
     - [2020 BRUTALLY HONEST GAMING MICE TIER LIST](https://www.youtube.com/watch?v=B2RsbXgMCVY)
-    - I would also check out Dave2D his Reviews for gaming mice are some of the best out there
+    - [What Gaming Mice Do We Actually Use?!?!](https://www.youtube.com/watch?v=YAA2i-hgw0M&amp;t=72s)
+    - I would also check out Dave2D his Reviews for gaming mice are some of the best out there if you have your eye on a mouse see if he has a review for it.
       - [Razer Viper ultimate](https://www.youtube.com/watch?v=HEZqanWT27w)
       - [NEW Razer DeathAdder Gaming Mouse](https://www.youtube.com/watch?v=8zdJ9qUZxUo)
   - Keyboard
@@ -172,7 +156,7 @@ Active deals!!!
 
 1. Building
 
-This step is not as hard as it seems I would only start building when you have all the parts. The main YouTuber I would recommend for building computers is[careyholzman](https://www.youtube.com/user/CareyHolzman). He is the best at showing what goes where and explaining why he does things the way he does. Below are some of his build videos please watch at least one from start to finish on your own before you build the pc. Then watch the video again as a step by step guide when putting it together.
+This step is not as hard as it seems I would only start building when you have all the parts. The hands down best YouTuber for building computers is [CareyHolzman](https://www.youtube.com/channel/UCmWNCO9wSjzOz1UV8jCvIHA) the videos he puts out are so good that I am surprised that they are free to watch so please if you can consider donating to him it helps him a lot and allows him to continue to produce these outstanding videos. He is the best at showing what goes where and explaining why he does things the way he does. Below are some of his build videos please watch at least one from start to finish on your own before you build the pc. Then watch the video again as a step by step guide when putting it together.
 
 - [Build](https://www.youtube.com/watch?v=FfbEcDff2Z0)
 - [Build](https://www.youtube.com/watch?v=Z-j9ILxpsCA)
