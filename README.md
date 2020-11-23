@@ -1,4 +1,4 @@
-If you looking to build a gaming PC in late 2020 please do not just go, ask your tech friend or family member &quot;can you build me a gaming pc.&quot; (this offends me because part of getting a gaming pc is that it is not plug and play like a console if you want easy get a console the ps5 and Xbox series x are powerhouses with minimal setup) So if this guide was sent to you please clear you schedule because this will take some time. Also it is ok to go back and watch the videos again if needed, but I would watch as many videos as you can because it makes the experience better when the pc you built is 100% yours.
+If you looking to build a gaming PC in late 2020 please do not just go, ask your tech friend or family member &quot;can you build me a gaming pc.&quot; (this offends me because part of getting a gaming pc is that it is not plug and play like a console if you want easy get a console the ps5 and Xbox series x are powerhouses with minimal setup) So if this guide was sent to you please clear you&#39;re schedule because this will take some time. Also, it is ok to go back and watch the videos again if needed. If you can I would watch as many videos that you have time for because it makes the experience better when the pc you built is 100% yours and you know everything about it.
 
 I love computers I have been an enthusiast for over 10 years and have built and setup many computers. I want to help people get into this hobby that I have come to love so much. That is why I am going make a guide for new people getting into PC gaming.
 
@@ -40,6 +40,7 @@ I love computers I have been an enthusiast for over 10 years and have built and 
   - [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4)
 
   - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
+  - [Thermal Throttling](https://www.youtube.com/watch?v=kUyuKqIfMN0)
   - [What is Overclocking](https://www.youtube.com/watch?v=RPmDSYRKnXM)
   - [Overclocking](https://www.youtube.com/watch?v=yyv9Y2miV64)
   - [Temperatures](https://www.youtube.com/watch?v=VuP6I0mOb1s)
@@ -81,7 +82,7 @@ First what I would do before choosing parts is find out what resolution and refr
 
 - [How to Make Sure All Your Computer Hardware Parts Are Compatible](https://www.youtube.com/watch?v=rwfjm7fSLWE) - _PCI gen 4 is out since this video was made B450 and x570 motherboards support it on AMD no intel boards support it but it is coming for intel._
 
-- [32GB of Ram vs 16](https://www.youtube.com/watch?v=x_QPQowp2UE&amp;t=28s)-|- [Does 32GB of Ram REALLY Make a Difference in Your PC ???](https://www.youtube.com/watch?v=JupBvOfoHjA&amp;t=396s) (_please watch both videos_) If you are planning to use your gaming PC for something else like your job and you work with Adobe software or engineering software like CAD or solid works then I would recommend 32 gigs as a minimum. (it may seem expensive but if you follow the pc hardware deals, I linked below you can get kits of ram cheap do not let the price scare you)
+- [32GB of Ram vs 16](https://www.youtube.com/watch?v=x_QPQowp2UE&amp;t=28s) -|- [Does 32GB of Ram REALLY Make a Difference in Your PC ???](https://www.youtube.com/watch?v=JupBvOfoHjA&amp;t=396s) (_please watch both videos_) If you are planning to use your gaming PC for something else like your job and you work with Adobe software or engineering software like CAD or solid works then I would recommend 32 gigs as a minimum. (it may seem expensive but if you follow the pc hardware deals, I linked below you can get kits of ram cheap do not let the price scare you)
 
 - [Don&#39;t Buy a 6 Core CPU in 2020!](https://www.youtube.com/watch?v=0WZAhsMDNZM)
 
@@ -93,52 +94,62 @@ First what I would do before choosing parts is find out what resolution and refr
 
   - [The Best B450 Motherboards for your AMD Ryzen Gaming PC! 2020](https://www.youtube.com/watch?v=lkyCmigcEcQ)
 
+  - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc) – This video will show the best CPU and GPU combos to prevent bottlenecking
+
   - [BEST POWER SUPPLIES! (2020)](https://www.youtube.com/watch?v=nz7qMd9x8vc)
 
   - [Best RAM For Gaming 2020](https://www.youtube.com/watch?v=GsgOOArQ5DQ)
 
   - [The Best PC Monitors for Gaming: 2020 Edition](https://www.youtube.com/watch?v=U15ASzPplbE)
 
-  - [GPU and CPU Pairs](https://www.youtube.com/watch?v=AihX9OjqnYc) – This video will show the best CPU and GPU combos to prevent bottlenecking
+  - [Who Actually Makes the Best PC Fans?](https://www.youtube.com/watch?v=QnBo9bTRsxk)
+
+  - [The Best Budget CPU Cooler](https://www.youtube.com/watch?v=2GSoaRsuke4)
 
 - PC Cases
   - When looking for a case I would always check out Gamers Nexus they have the best-case reviews, and they are not afraid to say something negative even if they were sent the case for review.
     - [PC cases playlist](https://www.youtube.com/watch?v=OupiPZybyBE&amp;list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)
       - You can also look at this [video](https://www.youtube.com/watch?v=aYYq1QXts_Y&amp;t=28s) to understand what makes a good PC case (Optional)
-        - Last thing about PC cases just because a case has fancy lighting does not mean it is good for airflow don&#39;t be fooled by fancy lighting there are a lot of cases on the market that have lighting and still don&#39;t compromise on airflow. Also just because one of your favorite streamers uses a specific case does not it mean it&#39;s a good case I know [nadeshot&#39;s cash app compound facility](https://www.youtube.com/watch?v=ui7tLhqWB2Q&amp;t=315s) for esports and streamers uses NZXT cases for every pc in the building those aren&#39;t bad cases but just because they use them doesn&#39;t mean you need to.
-
-- [Who Actually Makes the Best PC Fans?](https://www.youtube.com/watch?v=QnBo9bTRsxk)
-
-- [The Best Budget CPU Cooler](https://www.youtube.com/watch?v=2GSoaRsuke4)
+        - Last thing about PC cases just because a case has fancy lighting does not mean it is good for airflow don&#39;t be fooled by fancy lighting there are a lot of cases on the market that have lighting and still don&#39;t compromise on airflow. Also just because one of your favorite streamers uses a specific case does not it mean it&#39;s a good case I know [nadeshot&#39;s cash app compound facility](https://www.youtube.com/watch?v=ui7tLhqWB2Q&amp;t=315s) for esports and streamers uses NZXT cases for every pc in the building those aren&#39;t bad cases, but just because they use them doesn&#39;t mean you need to. _(Just do your research is the best advice I can give)_
 
 PC Peripherals
 
   - Mouse
+    - [Gaming Mice Buyers Guide 2020](https://www.youtube.com/watch?v=wkz5nQfD6gY)
+    - [What Gaming Mice Do We Actually Use?!?!](https://www.youtube.com/watch?v=YAA2i-hgw0M&amp;t=72s)
     - [The BEST Gaming Mice We Missed in 2020!](https://www.youtube.com/watch?v=NHfd-ZLddUs&amp;t=67s)
     - [Don&#39;t game with a generic mouse!](https://www.youtube.com/watch?v=ar-HKYkWlvw)
+    - [Unbeatable Budget Gaming Mice](https://www.youtube.com/watch?v=vwOaP3k3-K0)
     - [2020 BRUTALLY HONEST GAMING MICE TIER LIST](https://www.youtube.com/watch?v=B2RsbXgMCVY)
+    - I would also check out Dave2D his Reviews for gaming mice are some of the best out there
+      - [Razer Viper ultimate](https://www.youtube.com/watch?v=HEZqanWT27w)
+      - [NEW Razer DeathAdder Gaming Mouse](https://www.youtube.com/watch?v=8zdJ9qUZxUo)
   - Keyboard
-    - [The BEST Keyboards Under $75!](https://www.youtube.com/watch?v=9S-U5f140-U)
+    - [Gaming Keyboard Buyers Guide 2020](https://www.youtube.com/watch?v=BYdRlas5F-A&amp;t=19s)
+    - [Top 5 Gaming Keyboards of 2020!](https://www.youtube.com/watch?v=Of4siM5CIyg&amp;t=28s)
+    - [Our Favorite Gaming Keyboards](https://www.youtube.com/watch?v=alL1Br7rxOA)
     - [I Found the Perfect Keyboard](https://www.youtube.com/watch?v=ADEh9F0Lidc)
     - [2020 BRUTALLY HONEST KEYBOARD TIER LIST](https://www.youtube.com/watch?v=o8WOtOJz14E)
   - Headset
-    - [The Best Gaming Headset Right Now - PC38X Review](https://www.youtube.com/watch?v=zNjO98dZUGQ&amp;t=223s) - [The BEST Gaming Audio Setup I&#39;ve Used...So Far!](https://www.youtube.com/watch?v=-HLlmBtyYGw) - the second videos is if you pare this headset with a amp the fulla are great amps for the price. (I have the PC38X on a fulla 3 and it is god tier)
+    - [Gaming Headset Buyers Guide 2020](https://www.youtube.com/watch?v=yX7w88Zo5rU)
+    - [The Best Gaming Headset Right Now PC38X Review](https://www.youtube.com/watch?v=zNjO98dZUGQ&amp;t=223s)-|-[The BEST Gaming Audio Setup I&#39;ve Used...So Far!](https://www.youtube.com/watch?v=-HLlmBtyYGw) - The second video is if you pair PC38X headset with a amp the fulla amps are great amps for the price. (I have the PC38X on a fulla 3 and it is god tier for competitive gaming)
     - [The Best audiophile Gaming Headsets](https://www.youtube.com/watch?v=0k6M25mWUHk&amp;t=482s)
-    - [TOP 5: Best Gaming Headset 2020](https://www.youtube.com/watch?v=wnZ3PqgeXMc)
+    - [Top 5 Gaming Headsets 2019!](https://www.youtube.com/watch?v=WSh3cpiBLXY)– Yes, this video is from 2019 but not much changes in headsets from year to year. All the headsets in this video are a good choice and because they came out in 2019 you might be able to find them cheaper then when they first came out.
 
 - 2020 Part lists!
 
-One thing to remember is if you go with a really budget build ($700 or less) it may cost you more money down the line when you have you upgrade because your trying to play the newest games and you bought a 6 core chip or only16 gigs of ram because it was &quot;recommended&quot; but very soon the minimum and recommended specs for all games will go up and it may be better to buy the higher end part to future proof yourself instead of having to spend $200 on a CPU and in only 2 years found out that you need to spend another $200 to upgrade because you&#39;re not getting performance that is needed to play the game smoothly or at the settings you want to play the game at. ([this video explains it better)](https://www.youtube.com/watch?v=7EnRjlsvJ3Y&amp;t=517s)
+One thing to remember is if you go with a really budget build ($700 or less) it may cost you more money down the line when you have you upgrade because your trying to play the newest games and you bought a 6 core chip or only 16 gigs of ram because it was &quot;recommended&quot; but very soon the minimum and recommended specs for all games will go up and it may be better to buy the higher end part to future proof yourself instead of having to spend $200 on a CPU and in only 2 years found out that you need to spend another $200 to upgrade because you&#39;re not getting performance that is needed to play the game smoothly or at the settings you want to play the game at. ([this video explains it better)](https://www.youtube.com/watch?v=7EnRjlsvJ3Y&amp;t=517s)
 
-_As of September 2020 new graphics cars have come out and if you can find them in stock the 3070 is faster than the 2080ti and the 3080 is a 4k 60 fps beast and is above anything that has previously been released_
+Please check out PC Part Picker it is a Fantastic website to part out your build and you can also send the list to friends and on forms to see what their opinions are on your build. Also, this website checks to make sure all your parts are compatible so there is no need to worry about if something fits perfectly because the website checks it for you automatically. ([How to use PCPartPicker to Plan Your PC Build](https://www.youtube.com/watch?v=1NNjDwR1tME))
 
   - [High end 2020 Build](https://www.youtube.com/watch?v=a2PnPN8vVUo)
-  - [The Herd Mentality PC](https://www.youtube.com/watch?v=mODI4-cRhPE&amp;t=405s) - the case is a little unconventional, but this build has some of the best parts you can buy right now on new egg. (all of the parts come with warranties included with some parts having up to a 6 year warranty)
+  - [2020 Builds with the newest parts](https://www.youtube.com/watch?v=fP6TFUCMZqw)
+  - [The Herd Mentality PC](https://www.youtube.com/watch?v=mODI4-cRhPE&amp;t=405s) - the case is a little unconventional, but this build has some of the best parts you can buy right now on new egg. (all the parts come with warranties included with some parts having up to a 6-year warranty)
   - [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&amp;t=18s)
   - [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
-  - [I Built the Xbox Series X as a PC](https://www.youtube.com/watch?v=Cd2J_Mc0PJo) – I really like this build it is really compact and quiet I would definitely build this if I was looking for a Xbox killer.
+  - [I Built the Xbox Series X as a PC](https://www.youtube.com/watch?v=Cd2J_Mc0PJo) – I really like this build it is compact and quiet I would definitely build this if I was looking for an Xbox killer.
   - [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&amp;t=365s)- Consoles are not PC&#39;s even if they are using AMD parts. This PC part list is similarly priced to a PS5 that is why it is called a PS5 killer. ([This video explains the differences](https://www.youtube.com/watch?v=yWzf7jFwbQA&amp;t=171s))
-  - [1440p Gaming PC](https://www.youtube.com/watch?v=hpoxw_s9K8I&amp;t=24s)
+  - [1440p Gaming PC](https://www.youtube.com/watch?v=TZZMMv05S94&amp;list=PL5-PBA-wl9UukqxnPAbY_aCbgJGgmb_Ta) - Live Streaming, Content Creation, and Gaming.
   - [NZXT H1 Build Compact PC](https://www.youtube.com/watch?v=Sv3Pqb2F_xc)
   - [Best value Gaming PC](https://www.youtube.com/watch?v=SePnfkhMce0)
 
@@ -146,15 +157,16 @@ Active deals!!!
 
 - [Pc hardware Deals](https://www.youtube.com/channel/UCCss3QxegBkF8BAetIo0qXA) – This channel streams all the time some of the best deals you can currently find on the market and also is focused on what is the best value for your money I would check there channel if you have a question what is better for the money.
 - I would also check out [dealsource.tech](https://www.dealsource.tech/deals-1) this websites gets updated every day with deals they don&#39;t have as many pc hardware deals but they do post a lot of storage deals if you want to get good storage for cheap this is place to look. (_if you click a link and buy something it supports the people that make this website_)
+- I would also check out Reddit they have many threads on deals for pc hardware my favorite is [r/buildapcsales](https://www.reddit.com/r/buildapcsales/hot/) it is worth checking out because someone is always posting a deal I would filter by hot or new to get most popular and legit deals.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2.5 Prebuilt
 
-- If you don&#39;t want to build the pc yourself then I would look at [NZXT BLD](https://www.letsbld.com/) service. You can find all about the service in [this](https://www.youtube.com/watch?v=tSDpawYkqAo&amp;t=75s) video. (Building is always cheaper and better, but if for some reason you do not want to build it yourself then this is one of the best ways to go about a prebuilt.)
+- If you don&#39;t want to build the pc yourself then I would look at [NZXT BLD](https://www.letsbld.com/) service. You can find all about the [service in this video](https://www.youtube.com/watch?v=tSDpawYkqAo&amp;t=75s). (Building is always cheaper and better, but if for some reason you do not want to build it yourself then this is one of the best ways to go about a prebuilt.)
 - Another option for pre-built computers is if you have a Micro Center near you that is really good way to get help with your first PC. They offer pre-built computers from parts you pick out. [This video is review of the service](https://www.youtube.com/watch?v=1FEcewDnROg&amp;t=245s)
 
-- [Why most pre-builts suck](https://www.youtube.com/watch?v=P19r1LSNsiU) (Optional)
+- [Why most pre-builds suck](https://www.youtube.com/watch?v=P19r1LSNsiU) -|- [These Gaming PCs are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU) -|-[$1500 PC Secret Shopper 2](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&amp;t=316s) (Optional)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -164,7 +176,7 @@ This step is not as hard as it seems I would only start building when you have a
 
 - [Build](https://www.youtube.com/watch?v=FfbEcDff2Z0)
 - [Build](https://www.youtube.com/watch?v=Z-j9ILxpsCA)
-- I also have one build from another youtuber that is also good I would check it out if you have difficulty understanding Carey. _(BTW this video is in POV, so it is easy to see what to do)_
+- This build guide from Linus Tech Tips is also good I would check it out if you have difficulty with 2 other build guides. _(BTW this video is in POV, so it is easy to see what to do)_
   - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&amp;t=554s)
 - Here is a [beginners guide to gaming PC&#39;s](https://www.youtube.com/playlist?list=PLRnHcRQUxuoeQM4-llcMNXTakKZcAAyB6) playlist this will be another place to check when you come across something you may not know. _(these videos are optional)_
 - I will also include some tip videos from other Youtubers that are helpful to know before you build.
@@ -185,16 +197,13 @@ This step takes the longest and is the most important for making sure you get th
 
 - [Programs needed to continue](http://www.mediafire.com/file/e7l0k7d43swdxn8/Ninite_Chrome_Discord_Steam_VLC_WinRAR_Installer.exe/file)
 
-- [Windows settings](https://youtu.be/jCB1a1hokwg?t=5450) - what I recommend is if you click the link it will start the video near the end he shows some programs that make setting up windows really easy I would follow the settings he uses but just as a rule don&#39;t disable camera or microphone and also skip anything about windows apps a video further down covers windows apps everything else is up to you. (If your camera and microphone do not work after restarting than click [this link](http://www.mediafire.com/file/zn7wsne0s2l74ro/Fix_Microphone_%2526_Camera.reg/file) and run this file) (if you really want the best performance you can watch the whole video, but just to let you know the programs he shows will do most of what he shows for you in a nice simple menu, but if you really want to learn windows and how to use it watch the whole video)
+- [How to setup windows for gaming](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&amp;t=316s) – this video is 100% safe and will not cut into any of windows functionality. It will show you how to make sure windows is ready to play the latest games.
 
-- [Windows 10 advanced optimization guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&amp;t=457s) - this guide will slightly cut into windows functionality I would recommend skipping from 11:50 to 17:50 skipping this will still allow you to download apps from the Microsoft store. Also, for this video I would skip disabling services the overwatch A-Z video has a way of doing this. (skip anything about windows apps)
+- [Windows 10 advanced optimization guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&amp;t=457s) - this guide will slightly cut into windows functionality I would recommend skipping from 11:50 to 17:50 skipping this will still allow you to download apps from the Microsoft store. Also, for this video I would also skip disabling services with Nsudo that can cause problems down the road the overwatch A-Z video has a better way of disabling services. (skip anything about windows apps)
 
 - [Windows Apps the right way to remove them](https://www.youtube.com/watch?v=8E6OT_QcHaU) – this is how to remove windows app in the best way.
 
 - [Overwatch | A-Z, Boost FPS &amp; Optimization Guide](https://www.youtube.com/watch?v=cJrEQuylzOQ&amp;t=228s) - even if you don&#39;t play overwatch this guide is still really good it cover almost everything I would recommend without cutting into windows functionality at all so please if you want to make windows snapper for gaming and want a relatively short to the point tutorial then at lease watch this one. (skip anything about windows apps)
-
-- [Making and Editing Debloat Scripts for Windows 10](https://www.youtube.com/watch?v=y53p1d5P6LA) - this video will cover how to edit your own script that will optimize windows for you I would follow this video and make your script and then run the script once a month to make sure your settings are still set the way you want them (windows likes to reset them once and while)
-
 - [How to REALLY make Windows 10 Super Light for Gaming](https://www.youtube.com/watch?v=IU5F01oOzQQ&amp;t=2s) – this is another video that shows how you can use scrips to make windows light for gaming.
 
 - If you are looking to play a specific game and want the best settings than look for a guide by [Panjno](https://www.youtube.com/user/PanjnoTutorials)
