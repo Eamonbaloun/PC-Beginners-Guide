@@ -63,7 +63,7 @@ Power Supply&#39;s Explained
 
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
 - [Beginners Guide to Power Supplies... How to understand the ratings](https://www.youtube.com/watch?v=bUh2EZzJZRU&amp;t=142s)
-- [PSU](https://www.youtube.com/watch?v=lqThn3C-zg4) Explained
+- [PSU Explained](https://www.youtube.com/watch?v=lqThn3C-zg4)
 - [PSUs Explained](https://www.youtube.com/watch?v=yJ73fAJEMtk)
 - [How to Pick a Power Supply](https://www.youtube.com/watch?v=HSeIlzVxgJ4)
 - [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&amp;t=677s)– This video is a little advanced, but I wanted to include it because it is a current video on how much power is needed in 2020.
@@ -380,6 +380,6 @@ This step takes the longest and is the most important for making sure you get th
   - [CultOfMush](https://www.youtube.com/channel/UC7Cj7VhPm234Zclm0_rTGPg)
   - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA)
   - [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg)
-  - If you want to test your knowledge just watch this [video](https://www.youtube.com/watch?v=wXI9LhP-TPA&amp;t=134s) and see if you can understand everything he talks about. (if not watch the videos on part 1 again)
+  - If you want to test your knowledge just watch this [video](https://www.youtube.com/watch?v=wXI9LhP-TPA) and see if you can understand everything he talks about. (if not watch the videos on part 1 again)
 
 I really think that if you were to watch every video, I provided in this guide you should be more than capable of building and or upgrading your own computer.
