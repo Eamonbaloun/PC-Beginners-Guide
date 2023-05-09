@@ -117,6 +117,7 @@ In-Game settings explained
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU) - This video provides a very basic overview of what some of the settings in GTA V do. I like it because it is quick and short. I didn&#39;t place it first since the other video goes through a broader overview of all game options this video only covers GTA V, but it shows how each setting works in the game rather than just explaining it.
 - [An introduction to graphics settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&amp;t=73s)
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&amp;t=29s)
+- [Why is Frame rate is Important?](https://www.youtube.com/watch?v=wmmrIIZyapk)
 
 - If you don&#39;t understand a particular topic, the best place to look is [Techquickie](https://www.youtube.com/user/Techquickie). Below is a list of videos I would recommend starting with, but as you will see, there is always something new to learn in the world of PC technology. (This is why subscribing to any of the YouTubers listed at the end of the guide is critical.)
 
