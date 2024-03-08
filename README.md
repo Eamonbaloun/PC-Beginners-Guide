@@ -1,14 +1,34 @@
-If you're interested in building a gaming PC, this guide is your ultimate resource for all things related to gaming computers. I'm creating this guide to discourage the habit of simply turning to a tech-savvy friend or family member with the request, "Can you build me a gaming PC?" This bothers me because part of the allure of owning a gaming PC is the customization aspect; it's not as straightforward as plug-and-play consoles like the PS5 and Xbox Series X, which are powerful but require minimal setup.
+# Beginner's Guide to Building a Gaming PC
 
-So, if you've been directed to this guide, be prepared to set aside some time. Feel free to revisit the videos if needed. If you can spare the time, I recommend watching as many as possible because it enhances the overall experience when the computer you've built is truly your own, and you understand every component.
+If you're new to building gaming PCs, this guide is here to help you understand everything you need to know. 
 
-I have a deep passion for computers, having been an enthusiast for over a decade, building and configuring numerous systems. I want to share my love for this hobby and help newcomers navigate the world of PC gaming.
+## Why Build Your Own Gaming PC?
 
-Videos labeled as optional offer supplementary information that may not be relevant to everyone and can be skipped. However, for optimal results, watching as many as possible is advisable.
+Building a gaming PC is different from buying a ready-made console like a PS5 or Xbox Series X. With a gaming PC, you have the freedom to customize it according to your preferences. 
 
-- _Disclaimer: There may be significant overlap among most videos intentionally; initially, I didn't grasp every concept._
-- _All the videos I've linked are accurate, and I recommend sticking with creators I trust, as not all content on YouTube provides reliable information. Additionally, if a video is from 2019, keep in mind that there have been advancements in CPU and GPU technology since then, but the fundamental concepts remain relevant._
+## What to Expect
 
+Building a gaming PC takes time and effort, but it's worth it in the end. This guide will walk you through the process step by step. 
+
+## What You'll Find in This Guide
+
+This guide includes videos that cover various aspects of building a gaming PC. You don't have to watch all of them, but it's recommended to get the most out of your experience. 
+
+### Tips for Watching the Videos
+
+- Take your time to understand each step.
+- Feel free to rewatch any videos if needed.
+- Some videos are optional and may provide extra information. You can skip them if you want, but watching them can be helpful.
+
+## About Me
+
+I've been passionate about computers for over a decade and have built many systems myself. I want to share my knowledge and help newcomers navigate the world of PC gaming.
+
+## Disclaimer
+
+- Some concepts may overlap in the videos.
+- Stick to reliable creators for accurate information.
+- Keep in mind that technology may have advanced since some videos were made, but the basic principles remain relevant.
 ---
 
 ### 1. Preparing for Your Build (_Foundational Knowledge_)
