@@ -1,20 +1,14 @@
 # Beginner's Guide to Building a Gaming PC
 
-If you're new to building gaming PCs, this guide is here to help you understand everything you need to know. 
+If you're new to building gaming PCs, this guide will help you learn everything you need to know. 
 
 ## Why Build Your Own Gaming PC?
 
-Building your own gaming PC not only allows you to customize your setup and potentially save money compared to pre-built systems, but it also offers distinct advantages over gaming consoles like PS5 or Xbox Series X. With a gaming PC, you have greater flexibility in hardware selection, which can result in better performance and graphics. Additionally, PC gaming offers a wider range of titles, mods, and customization options. Plus, the versatility of a gaming PC extends beyond gaming, allowing you to use it for productivity tasks, multimedia entertainment, and more.
-
-## What to Expect
-
-Building a gaming PC takes time and effort, but it's worth it in the end. This guide will walk you through the process step by step. 
+Building your own gaming PC not only allows you to personalize your setup and potentially save money over pre-built systems, but it also has distinct advantages over gaming consoles such as the PS5 and Xbox Series X. A gaming PC allows for greater hardware selection, which can lead to improved performance and graphics. In addition, PC gaming provides a more diverse selection of titles, mods, and customization options. A gaming PC's versatility also extends beyond gaming, allowing you to use it for productivity, multimedia entertainment, and other purposes.
 
 ## What You'll Find in This Guide
 
-## What to Expect
-
-Building a gaming PC requires time and effort, but the end result is well worth it. This guide will carefully guide you through each step of the process, ensuring you create a personalized gaming setup that suits your needs perfectly. So, get ready for an exciting journey into the world of PC building!
+Building a gaming PC takes time and effort, but the results are well worth it. This guide will walk you through each step of the process, ensuring that you create a custom gaming setup that meets all of your needs. So prepare for an exciting journey into the world of PC building!
 
 ### Tips for Watching the Videos
 
@@ -24,7 +18,7 @@ Building a gaming PC requires time and effort, but the end result is well worth 
 
 ## About Me
 
-I've been passionate about computers for over a decade and have built many systems myself. I want to share my knowledge and help newcomers navigate the world of PC gaming.
+I've been passionate about computers for over a decade and have built multiple systems myself. I want to share my knowledge and guide newcomers through the world of PC gaming.
 
 ## Disclaimer
 
@@ -180,7 +174,7 @@ I've been passionate about computers for over a decade and have built many syste
 
 ### 1. Picking Parts
 
-Now that you have an idea of what you'll need to build a PC, it's time to pick some parts. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=imxVMrp9hdg))
+Now that you know what you'll need to build a PC, it's time to choose some parts. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=imxVMrp9hdg))
 
 - **Determining Gaming Resolution and Refresh Rate**
   - Before choosing parts, identify the resolution and refresh rate you aim to game at. ([Refer to this video for an explanation](https://www.youtube.com/watch?v=J50c82iC0PU))
@@ -263,9 +257,9 @@ Now that you have an idea of what you'll need to build a PC, it's time to pick s
 
 # 2020 Part lists!
 
-One thing to keep in mind is that if you go with a low-cost build ($700 or less), you may end up spending more money later on when you upgrade because you want to play the latest games and you bought a 6-core chip or only 16 gigs of RAM because it was "recommended," but the minimum and recommended specs for all games will rise, and it may be better to buy the higher-end part to avoid in the future having to replace parts due to the PC getting slow. ([This video explains it better](https://www.youtube.com/watch?v=7EnRjlsvJ3Y&t=517s))
+One thing to keep in mind is that if you go with a low-cost build ($700 or less), you may end up spending more money later on when you upgrade because you want to play the latest games and you bought a 6-core chip or only 16 gigs of RAM because it was "recommended," but the minimum and recommended specs for all games will rise, and it may be better to buy the higher-end part to avoid having to replace parts in the future because the PC is slowing down. ([This video explains it better](https://www.youtube.com/watch?v=7EnRjlsvJ3Y&t=517s))
 
-Please visit [PC Part Picker](https://pcpartpicker.com/), which is a fantastic website for parting out your build. You can also send the list to friends and on forums to see what their thoughts are on your build. Also, this website checks to ensure that all of your parts are compatible, so you don't have to worry about whether something fits perfectly because the website checks it for you automatically. ([How to use PCPartPicker to Plan Your PC Build](https://www.youtube.com/watch?v=1NNjDwR1tME))
+Please visit [PC Part Picker](https://pcpartpicker.com/), This is an excellent website for parting out your build. You can also send the list to friends and forums to get their feedback on your build. In addition, this website automatically checks to ensure that all of your parts are compatible, so you don't have to worry about whether something fits perfectly. ([How to use PCPartPicker to Plan Your PC Build](https://www.youtube.com/watch?v=1NNjDwR1tME))
 
 ## Part Lists:
 
@@ -285,15 +279,16 @@ Please visit [PC Part Picker](https://pcpartpicker.com/), which is a fantastic w
 
 ## Active Deals!!!
 
-- [PC Hardware Deals](https://www.youtube.com/channel/UCCss3QxegBkF8BAetIo0qXA) – This channel streams all the time some of the best deals you can currently find on the market and also is focused on what is the best value for your money I would check their channel if you have a question what is better for the money.
-- I would also check out [dealsource.tech](https://www.dealsource.tech/deals-1) this website gets updated every day with deals they don't have as many PC hardware deals but they do post a lot of storage deals if you want to get good storage for cheap this is the place to look. (_if you click a link and buy something it supports the people that make this website_)
-- I would also check out Reddit they have many threads on deals for PC hardware my favorite is [r/buildapcsales](https://www.reddit.com/r/buildapcsales/hot/) it is worth checking out because someone is always posting a deal I would filter by hot or new to get the most popular and legit deals.
+- [PC Hardware Deals](https://www.youtube.com/channel/UCCss3QxegBkF8BAetIo0qXA) – This channel continuously streams some of the best deals you can currently find on the market, as well as what is the best value for your money. If you're wondering which is better value for money, I'd recommend checking out their channel.
+- I would also check out [dealsource.tech](https://www.dealsource.tech/deals-1) This website is updated daily with deals. They don't have as many PC hardware deals, but they do post a lot of storage deals. If you want good storage for a low price, this is the place to go. (_if you click a link and buy something it supports the people that make this website_)
+- I would also check out Reddit, which has many threads on deals for PC hardware. My favorite is [r/buildapcsales](https://www.reddit.com/r/buildapcsales/hot/) It's worth checking out because someone's always posting a deal. To find the most popular and legitimate deals, filter by hot or new.
+
 
 ---
 
 ## 2.5 Prebuilt - (Optional)
 
-I really want people who are looking for a prebuilt PC to understand exactly what they are getting into, and if you are looking for a prebuilt PC, please watch these videos because it is very easy to spend a lot of money on these systems and not get anything worthwhile in return.
+I really want people who are looking for a prebuilt PC to understand exactly what they are getting into, so please watch these videos because it is very easy to spend a lot of money on these systems and not get anything worthwhile in return.
 
 - [Warnings About Pre-Built PCs: Proprietary Parts, Monthly Charges, & Components](https://www.youtube.com/watch?v=cKxBogvUe_c&t=340s)
 - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) did a series called Secret Shopper in which they went undercover and bought prebuilt computers to review; it's a really good series for understanding what makes a good prebuilt. [$1500 PC Secret Shopper 2 Part 1](https://www.youtube.com/watch?v=Gz7WMF4wWko) -|- [$1500 PC Secret Shopper 2 Part 2](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&t=439s) -|- [$1500 PC Secret Shopper 2 Part 3](https://www.youtube.com/watch?v=0ViO0ETvfEc&t=15s) -|- [$1500 PC Secret Shopper 2 Part 4](https://www.youtube.com/watch?v=Go5tLO6ipxw&t=1157s)
@@ -302,8 +297,8 @@ I really want people who are looking for a prebuilt PC to understand exactly wha
 - Dawid Does Tech Stuff reviews a lot of [prebuilt gaming PC's](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma); he is one of the best when it comes to prebuilt reviews. Please watch him before you buy a prebuilt.
 - [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
 - Good Prebuilds
-  - New Egg is one of the largest online retailers in the United States for anything PC-related, and they have their own brand of PC called ABS, which is made from off-the-shelf parts and is reasonably priced. Dawid Does Tech recently reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI) and found it to be adequate for the price. It ran a little hot due to the all-glass front panel, but he made a [follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) for $50 to address the temperature issues. After adding some fans and replacing the CPU cooler this prebuilt can run E-sports games (Warzone, Apex legends, Fortnite, Overwatch, League of Legends, etc…) over 60fps.
-  - A good option for pre-built computers is if you have a Micro Center near you that is really a good way to get help with your first PC. They offer pre-built computers from parts you pick out. [This video is a review of the service](https://www.youtube.com/watch?v=1FEcewDnROg&t=245s)
+  - New Egg is one of the largest online retailers in the United States for anything PC-related, and they have their own brand of PC called ABS, which is built with off-the-shelf parts and is reasonably priced. Dawid Does Tech recently reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI) and found it to be adequate for the price. It ran a little hot due to the all-glass front panel, but he made a [follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) for $50 to address the temperature issues. After adding some fans and replacing the CPU cooler this prebuilt can run E-sports games (Warzone, Apex legends, Fortnite, Overwatch, League of Legends, etc…) over 60fps.
+  - If you have a Micro Center nearby, it is a great place to get help with your first PC. They offer pre-built computers from parts you select. [This video is a review of the service](https://www.youtube.com/watch?v=1FEcewDnROg&t=245s)
 - [The BEST Pre-Built Gaming PC's of 2021?!](https://www.youtube.com/watch?v=hEE3s9QLfLE)
 
 
@@ -311,7 +306,7 @@ I really want people who are looking for a prebuilt PC to understand exactly wha
 
 ## 1. Building
 
-This step is not as difficult as it seems, but I would wait until you have all the parts before starting to build. [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos) is by far the best YouTuber for computer building. He is the best at demonstrating where things go and explaining why he placed something where it is. Please watch at least one of his build videos from beginning to end on your own before starting to build the computer. Then, when putting it together, use the video as a step-by-step guide.
+This step is not as difficult as it appears, but I recommend waiting until you have all of the parts before starting to build. [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos) is unquestionably the best YouTuber for computer building. He is the best at demonstrating where things go and explaining why he put them where they are. Please watch at least one of his build videos from start to finish before beginning to build the computer. Then, when putting it together, follow the video step-by-step.
 
 - [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)
 - [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)
@@ -336,7 +331,7 @@ This step is not as difficult as it seems, but I would wait until you have all t
 
 ***Please do not skip this step; it is so important.***
 
-This step takes the longest and is the most important for making sure you get the most out of what you pay for. I have helped friends who bought a 144Hz monitor and never went into the Nvidia control panel to swap it from 60Hz to 144Hz, so the entire time they owned that monitor, they were never using the 144Hz that they paid for. (Also, everything in this guide is not a virus even if your anti-virus detects it as a virus, it is not. I have checked every file with [Virus Total](https://www.youtube.com/watch?v=verKqNVshS4)).
+This is the most time-consuming and important step in ensuring that you get the most value for your money. I've helped friends who bought a 144Hz monitor but never went into the Nvidia control panel to change it from 60Hz to 144Hz, so they never used the 144Hz that they paid for. (Also, everything in this guide is not a virus even if your anti-virus detects it as a virus, it is not. I have checked every file with [Virus Total](https://www.youtube.com/watch?v=verKqNVshS4)).
 
 **Watch as many of these videos as you can:**
 
