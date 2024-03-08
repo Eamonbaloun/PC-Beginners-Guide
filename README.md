@@ -4,7 +4,7 @@ If you're new to building gaming PCs, this guide is here to help you understand 
 
 ## Why Build Your Own Gaming PC?
 
-Building a gaming PC is different from buying a ready-made console like a PS5 or Xbox Series X. With a gaming PC, you have the freedom to customize it according to your preferences. 
+Building your own gaming PC not only allows you to customize your setup and potentially save money compared to pre-built systems, but it also offers distinct advantages over gaming consoles like PS5 or Xbox Series X. With a gaming PC, you have greater flexibility in hardware selection, which can result in better performance and graphics. Additionally, PC gaming offers a wider range of titles, mods, and customization options. Plus, the versatility of a gaming PC extends beyond gaming, allowing you to use it for productivity tasks, multimedia entertainment, and more.
 
 ## What to Expect
 
@@ -12,7 +12,9 @@ Building a gaming PC takes time and effort, but it's worth it in the end. This g
 
 ## What You'll Find in This Guide
 
-This guide includes videos that cover various aspects of building a gaming PC. You don't have to watch all of them, but it's recommended to get the most out of your experience. 
+## What to Expect
+
+Building a gaming PC requires time and effort, but the end result is well worth it. This guide will carefully guide you through each step of the process, ensuring you create a personalized gaming setup that suits your needs perfectly. So, get ready for an exciting journey into the world of PC building!
 
 ### Tips for Watching the Videos
 
