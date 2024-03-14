@@ -1,6 +1,8 @@
 # Beginner's Guide to Building a Gaming PC
 
-If you're new to building gaming PCs, this guide will help you learn everything you need to know. 
+Welcome, fellow gamers! If you're new to the exciting world of constructing your own gaming PC, don't worry! This detailed guide was created specifically for you. Building your gaming rig may be difficult at first, but with the right direction, you'll soon be on your way to designing the perfect gaming setup for your needs and interests.
+
+In this guide, we will cover everything you need to know about building your first gaming PC. We've got you covered, from component selection to configuring a powerful gaming system. So, lets get started!
 
 ## Why Build Your Own Gaming PC?
 
