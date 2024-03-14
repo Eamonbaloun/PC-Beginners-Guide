@@ -202,15 +202,13 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
     - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
     - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)
 
-- **Best Individual Parts**
+- **Parts lists**
   - Recommendations for top-performing Builds:
-    -[Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)
-    
-    -[Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
-    
-    -[Building with Intel:Expert Tips,Full Build,and Component Alternatives](https://youtu.be/AV45GaSDh1k)
-    
-    -[Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) I really would recomned watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can it is really good know why he picked these parts 
+    - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)
+    - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
+    - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
+    - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
+      I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts. 
     
 - **PC Cases**
   - Gamers Nexus provides comprehensive reviews and recommendations for PC cases:
@@ -254,29 +252,6 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
     - [Top Gaming Headsets of 2019](https://www.youtube.com/watch?v=WSh3cpiBLXY)
     - [Recommended Gaming Headphone Amps / DACs](https://www.youtube.com/watch?v=DUJe6Dtn1Iw&amp;t=984s)
     - [Enhance Audio with Gaming Amps & DACs](https://www.youtube.com/watch?v=XoOxXBVNHso)
-
-
-# 2020 Part lists!
-
-One thing to keep in mind is that if you go with a low-cost build ($700 or less), you may end up spending more money later on when you upgrade because you want to play the latest games and you bought a 6-core chip or only 16 gigs of RAM because it was "recommended," but the minimum and recommended specs for all games will rise, and it may be better to buy the higher-end part to avoid having to replace parts in the future because the PC is slowing down. ([This video explains it better](https://www.youtube.com/watch?v=7EnRjlsvJ3Y&t=517s))
-
-Please visit [PC Part Picker](https://pcpartpicker.com/), This is an excellent website for parting out your build. You can also send the list to friends and forums to get their feedback on your build. In addition, this website automatically checks to ensure that all of your parts are compatible, so you don't have to worry about whether something fits perfectly. ([How to use PCPartPicker to Plan Your PC Build](https://www.youtube.com/watch?v=1NNjDwR1tME))
-
-## Part Lists:
-
-- [High end 2021 Build](http://youtube.com/watch?v=filG3hlN5Ok)
-- [Overpowered Gaming PC Build](https://www.youtube.com/watch?v=Za0kx7hBeHc)
-- [Ultra Airflow, Zero RGB - 1440p ITX Gaming Build](https://www.youtube.com/watch?v=TUO59lwdB9I&t=95s) - This is my recommended PC; it is an all-around great build that will play anything, and it is small and quiet.
-- [The ULTIMATE RTX 3060 Ti Gaming PC Build 2020!](https://www.youtube.com/watch?v=k7CVBb0W4nI&t=181s) – this is a great midrange esports gaming PC for games like Call of Duty, Fortnite, Overwatch, CS-GO, Rainbow 6, and Valorant.
-- [The Herd Mentality PC](https://www.youtube.com/watch?v=mODI4-cRhPE&t=405s) - the case is a little unconventional, but this build has some of the best parts you can buy right now on Newegg. (all the parts come with warranties included with some parts having up to a 6-year warranty)
-- [My STUNNING ITX RTX 3070 Gaming PC Build 2020!](https://www.youtube.com/watch?v=c3jx5LpgcZg&t=28s) – this is a really good small build; I really like the case. If you're looking for a small computer that will destroy everything you throw at it, this is it. I really think this is the perfect combo of parts right now: last-gen Ryzen paired with the new RTX 3000 gives one of the best gaming experiences out right now. For all this power to come in a console size is just the cherry on top.
-- [Budget builds](https://www.youtube.com/watch?v=I-316YvzhrQ&t=18s)
-- [More budget builds](https://www.youtube.com/watch?v=gbAq031smbs)
-- [PS5 Killer PC](https://www.youtube.com/watch?v=z3tJjb0g_hw&t=365s) - Consoles are not PCs even if they are using AMD parts. This PC part list is similarly priced to a PS5; that is why it is called a PS5 killer. ([This video explains the differences](https://www.youtube.com/watch?v=4z9bm81uuhg&t=218s))
-- [1440p Gaming PC](https://www.youtube.com/watch?v=TZZMMv05S94&list=PL5-PBA-wl9UukqxnPAbY_aCbgJGgmb_Ta) - Live Streaming, Content Creation, and Gaming.
-- [NZXT H1 Build Compact PC](https://www.youtube.com/watch?v=Sv3Pqb2F_xc)
-- [Best value Gaming PC](https://www.youtube.com/watch?v=SePnfkhMce0)
-- [$1200 gaming PC](https://www.youtube.com/watch?v=9fuVDQ9h6IU)
 
 ## Active Deals!!!
 
