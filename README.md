@@ -206,7 +206,7 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
   - Recommendations for top-performing Builds:
     -[Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)
     -[Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
-    -[Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
+    -[Building with Intel:Expert Tips,Full Build,and Component Alternatives](https://youtu.be/AV45GaSDh1k)
     -[Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) I really would recomned watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can it is really good know why he picked these parts 
     
 - **PC Cases**
