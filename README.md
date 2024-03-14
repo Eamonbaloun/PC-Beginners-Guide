@@ -178,7 +178,7 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
 
 - **Determining Gaming Resolution and Refresh Rate**
   - Before choosing parts, identify the resolution and refresh rate you aim to game at. ([Refer to this video for an explanation](https://www.youtube.com/watch?v=J50c82iC0PU))
-    - [How to Correctly Choose Parts](https://www.youtube.com/watch?v=j_DcWgxMZ3k)
+    - [How to Correctly Choose Parts](https://youtu.be/BQ308X5_xn4)
     - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
     - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
     - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
@@ -203,16 +203,12 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
     - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)
 
 - **Best Individual Parts**
-  - Recommendations for top-performing components:
-    - [Optimal Gaming PC Parts for 2021](https://www.youtube.com/watch?v=_Cg-MNGuYWY&amp;t=102s)
-    - Prioritize an 8-core or higher CPU and consider Nvidia's 70-series or 80-series GPUs for optimal performance.
-    - [Best Motherboards for AMD Ryzen 5000 CPUs](https://www.youtube.com/watch?v=S_FUe36jHaw) -|- [Top 5 Gaming Motherboards in 2021](https://www.youtube.com/watch?v=rtV54WsZz1s)
-    - [Optimal GPU and CPU Pairings](https://www.youtube.com/watch?v=AihX9OjqnYc)
-    - [Top Power Supplies](https://www.youtube.com/watch?v=nz7qMd9x8vc)
-    - [Recommended RAM for Gaming](https://www.youtube.com/watch?v=GsgOOArQ5DQ)
-    - [Best PC Fans](https://www.youtube.com/watch?v=QnBo9bTRsxk)
-    - [Budget-Friendly CPU Coolers](https://www.youtube.com/watch?v=2GSoaRsuke4)
-
+  - Recommendations for top-performing Builds:
+    -[Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)
+    -[Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
+    -[Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
+    -[Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) I really would recomned watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can it is really good know why he picked these parts 
+    
 - **PC Cases**
   - Gamers Nexus provides comprehensive reviews and recommendations for PC cases:
     - [Best PC Cases of 2021](https://www.youtube.com/watch?v=ffuAnwGivO8)
