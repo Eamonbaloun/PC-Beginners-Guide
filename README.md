@@ -110,12 +110,16 @@ I've been passionate about computers for over a decade and have built multiple s
 
 - [How to Pick a Gaming Monitor](https://www.youtube.com/watch?v=imxVMrp9hdg)
 - [Gaming Monitor Explained](https://www.youtube.com/watch?v=zH28Pp83xDc)
+- [Watch This BEFORE You Buy a Monitor!](https://youtu.be/nEAyY9dzAZ0)
 - [What is The BEST Monitor Explained - 240Hz 1080p Vs. 144hz 1440p Vs. 4K 60Hz](https://www.youtube.com/watch?v=TwMOVPxDCwQ&amp;t=236s)
-- [1080P vs 1440P 27-inch Gaming Monitors](https://www.youtube.com/watch?v=b12n-3wSJ8w)
+- [1080p vs 1440p vs 4K Gaming Monitors](https://youtu.be/pZi2V5C40_w)
+- [Fastest 1080p vs. 1440p Monitor](https://youtu.be/d7wTYfWvlPE)
 - [Ultrawide vs. 4K Gaming – Before You Buy!](https://www.youtube.com/watch?v=RZ0vnJ4B3cM&amp;t=58s)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
 - [FreeSync vs G SYNC](https://www.youtube.com/watch?v=NuFQtPJ-fIQ)
+- [What Are Response Times? Overshoot? Cumulative Deviation? - Performance Charts Explained](https://youtu.be/42IAbsMYxts)
+- [Monitor Colour Accuracy Explained - sRGB, DCI P3, DeltaE and more!](https://youtu.be/FW_y0oZd0NQ)
 - [Gaming Monitor](https://www.youtube.com/watch?v=zH28Pp83xDc)
 
 ### Peripherals: Mouse, Keyboard, and Headsets Explained
@@ -124,6 +128,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [How to Choose the RIGHT Keyboard Size (60%, 65%, TKL, 100%)](https://www.youtube.com/watch?v=DWYxofVGIB0)
 - [Choosing Gaming Headphones](https://www.youtube.com/watch?v=6JQSXf_npf8)
 - [Understanding Gaming Keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E)
+- [Importance of Using a Gaming Mouse](https://www.youtube.com/watch?v=gOQNRvJbpmk&amp;t=28s)
 
 ### PC Cases Explained
 
@@ -211,36 +216,28 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
       I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts. 
     
 - **PC Cases**
-  - Gamers Nexus provides comprehensive reviews and recommendations for PC cases:
-    - [Best PC Cases of 2021](https://www.youtube.com/watch?v=ffuAnwGivO8)
-    - [Top Picks for Gaming PC Cases](https://www.youtube.com/watch?v=P6vlOVwV49k)
-    - Consider airflow over flashy aesthetics when choosing a case. Research thoroughly before purchasing.
+  - [Gamers Nexus](https://www.youtube.com/playlist?list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn) provides comprehensive reviews and recommendations for PC cases:
+  - 
+  - Consider airflow over flashy aesthetics when choosing a case. Research thoroughly before purchasing.
 
 ### PC Peripherals
 
 - **Monitors**
-  - Guidance on selecting gaming monitors:
-    - [2020 Gaming Monitor Buyer's Guide](https://www.youtube.com/watch?v=HqxM_vCIoo4)
-    - [Best Gaming Monitors in 2021](https://www.youtube.com/watch?v=CWSMeZTyPRc)
-    - [Top PC Monitors for Gaming in 2021](https://www.youtube.com/watch?v=leaDHuKlke8)
-    - [Late 2020 Gaming Monitor Recommendations](https://www.youtube.com/watch?v=gjflp6NXvEI)
-    - [Budget-Friendly 144Hz Gaming Monitors](https://www.youtube.com/watch?v=4zdoR_A9tTc&amp;t=41s)
+    - [Monitors Unboxed](https://www.youtube.com/@monitorsunboxed) For the best monitor reviews, Monitors Unboxed is hands down the best reviewer for monitors.
+    - [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRotaPn3ljlX_dowIk_yG3LaN) He is just getting into gaming monitors, but he is really good too.
+    - [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOrgOHlAr4HvYeE-4Mlnl_aQ) For esports monitors, Optimum is also a great option.
 
 - **Mouse**
-  - Advice on choosing gaming mice:
-    - [Gaming Mouse Buying Guide 2021](https://www.youtube.com/watch?v=Wbo-KXv90OI)
-    - [Top Wireless Gaming Mice](https://www.youtube.com/watch?v=0flc3AOgooM)
-    - [2021 Gaming Mice Tier List](https://www.youtube.com/watch?v=ucioFLyGvRw&amp;t=998s)
-    - [Recommended Gaming Mice for 2020](https://www.youtube.com/watch?v=LMciM2Itjew)
-    - [Importance of Using a Gaming Mouse](https://www.youtube.com/watch?v=gOQNRvJbpmk&amp;t=28s)
+    - [boardzy](https://www.youtube.com/@boardzy) Boardzy is the best for mouse reviews.
+    - [Rocket Jump Ninja](https://www.youtube.com/@RocketJumpNinja/videos) If you need a second opinion, here is another really good reviewer for all things computer mouse related.
+    - [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRov7L_KBFicFO9e15Pa0gUFy) BadSeed Tech is a really good reviewer, providing in-depth reviews, which is great if you're trying to find a review for a specific mouse.
+    - [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOqhz0EK4YBQqO-yA1NVOn46) For esports mice reviews, Optimum is also really good for gaming mice too.
 
 - **Keyboard**
-  - Tips for selecting gaming keyboards:
-    - [Gaming Keyboard Buyer's Guide 2020](https://www.youtube.com/watch?v=BYdRlas5F-A&amp;t=19s)
-    - [Top Picks for 60% Gaming Keyboards](https://www.youtube.com/watch?v=jDqdbUiyDnw&amp;t=663s)
-    - [Best Mechanical Gaming Keyboards in 2021](https://www.youtube.com/watch?v=VerYR2Y-Hk8)
-    - [Top Gaming Keyboards of 2020](https://www.youtube.com/watch?v=Of4siM5CIyg&amp;t=28s)
-    - [2020 Keyboard Tier List](https://www.youtube.com/watch?v=o8WOtOJz14E)
+    - [Hipyo Tech](https://www.youtube.com/@HipyoTech/videos) is the best for keyboard reviews.
+    - [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRotrNQXeaMYaE7jU29u7Ef_W) He is one of my favorites for keyboard reviews.
+    - [Hardware Canucks](https://www.youtube.com/@HardwareCanucks) While they review all different kinds of tech, they have really good keyboard reviews.
+    - [Optimum](https://www.youtube.com/@optimumtech) Once again, for esports keyboards, Optimum has the best reviews. Though he doesn't do that many keyboard reviews, he still does some and they are really good.
 
 - **Headset**
   - Recommendations for gaming headsets:
