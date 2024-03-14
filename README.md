@@ -217,7 +217,7 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
     
 - **PC Cases**
   - [Gamers Nexus](https://www.youtube.com/playlist?list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn) provides comprehensive reviews and recommendations for PC cases:
-  - 
+  - [Hardware Canucks](https://www.youtube.com/@HardwareCanucks) they have great 
   - Consider airflow over flashy aesthetics when choosing a case. Research thoroughly before purchasing.
 
 ### PC Peripherals
