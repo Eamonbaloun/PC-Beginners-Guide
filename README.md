@@ -183,7 +183,7 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
 
 - **Determining Gaming Resolution and Refresh Rate**
   - Before choosing parts, identify the resolution and refresh rate you aim to game at. ([Refer to this video for an explanation](https://www.youtube.com/watch?v=J50c82iC0PU))
-    - [How to Correctly Choose Parts](https://youtu.be/BQ308X5_xn4)
+    - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)
     - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
     - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
     - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
