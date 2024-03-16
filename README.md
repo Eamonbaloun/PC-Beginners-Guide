@@ -275,6 +275,7 @@ I really want people who are looking for a prebuilt PC to understand exactly wha
   - New Egg is one of the largest online retailers in the United States for anything PC-related, and they have their own brand of PC called ABS, which is built with off-the-shelf parts and is reasonably priced. Dawid Does Tech recently reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI) and found it to be adequate for the price. It ran a little hot due to the all-glass front panel, but he made a [follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) for $50 to address the temperature issues. After adding some fans and replacing the CPU cooler this prebuilt can run E-sports games (Warzone, Apex legends, Fortnite, Overwatch, League of Legends, etc…) over 60fps.
   - If you have a Micro Center nearby, it is a great place to get help with your first PC. They offer pre-built computers from parts you select. [This video is a review of the service](https://www.youtube.com/watch?v=1FEcewDnROg&t=245s)
 - [The BEST Pre-Built Gaming PC's of 2021?!](https://www.youtube.com/watch?v=hEE3s9QLfLE)
+- [This upgrade DOUBLED our FPS and cost less than $100!](https://youtu.be/cKgCLDCFvYk)
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
