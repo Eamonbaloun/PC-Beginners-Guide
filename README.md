@@ -333,6 +333,7 @@ This is the most time-consuming and important step in ensuring that you get the 
   - [How to backup using Macrium Reflect](https://www.youtube.com/watch?v=7r_pknWeFlk) – This video is for the people who really want to know everything about this powerful program. Please I can't recommend this video enough. It has saved me so many times it is worth watching.
     - [Incremental vs Differential Backup, & Full - Explained](https://www.youtube.com/watch?v=7r_pknWeFlk)
 - **Bonus Videos!**
+  - [How To CORRECTLY Upgrade Your CPU, Motherboard, and Graphics Card]([https://www.youtube.com/watch?v=DW2m14vzFM8&t=48s](https://youtu.be/A24Rv3PBeuA)
   - [Tested: Graphics settings and how they affect performance](https://www.youtube.com/watch?v=DW2m14vzFM8&t=48s)
   - [Tech Focus: Ray Tracing - The Future of Gaming Graphics?](https://www.youtube.com/watch?v=moKV5_BpxjM)
   - [Is RTX a Total Waste of Money??](https://www.youtube.com/watch?v=2VGwHoSrIEU&t=740s)
