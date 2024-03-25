@@ -199,6 +199,7 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
     - Educate yourself before buying used PCs with guidance from Greg Salazar's [playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi).
 
 - **PC Advice**
+  - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)
   - Byte Size Tech offers valuable insights into selecting parts based on longevity and value:
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
@@ -290,6 +291,8 @@ This step is not as difficult as it appears, but I recommend waiting until you h
 
 - This build guide from Linus Tech Tips is also good. I would check it out if you have difficulty with 2 other build guides. _(By the way, this video is in POV, so it is easy to see what to do)_
   - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&t=554s)
+- Another fantastic channel to keep you entertained while waiting for all your parts to arrive is [Mr Matt Lee](https://www.youtube.com/@Mr_Matt_Lee). Despite being a silent PC builder, his content boasts some of the best camera angles and quality in the community.
+  - Check out his mesmerizing [DeepCool Morpheus Gaming PC Build](https://youtu.be/AAF9_4m0eFw)!
 - [How to Build a Gaming PC in 2021 - Easy 10-minute Build Guide!](https://www.youtube.com/watch?v=sLWXvNbJMpw&t=489s)
 - This build from Linus Tech Tips is a good [Beginner Build Guide](https://www.youtube.com/watch?v=p1t8YJvOWzo). In this video, he teaches an NBA player how to build his first computer.
 - Here is a [beginners guide to gaming PC's](https://www.youtube.com/playlist?list=PLRnHcRQUxuoeQM4-llcMNXTakKZcAAyB6) playlist. This will be another place to check when you come across something you may not know. _(These videos are optional)_
@@ -300,6 +303,7 @@ This step is not as difficult as it appears, but I recommend waiting until you h
   - [Fixing The Verge PC Build](https://www.youtube.com/watch?v=QKzmYsySGFQ&t=983s) – This video provided a lot of helpful advice on topics that new builders often have questions about. It's a little different in that they're correcting the problems from another build guide that made a major controversy when a large tech news website posted a video on how to build a PC. This was such a bad guide from the Verge that lawyers got involved.
   - [DON'T Do This When Building a PC! Our Common Mistakes](https://www.youtube.com/watch?v=tZiw4aVr_vE&t=41s)
   - [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&t=328s)
+    
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
