@@ -116,6 +116,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [What is The BEST Monitor Explained - 240Hz 1080p Vs. 144hz 1440p Vs. 4K 60Hz](https://www.youtube.com/watch?v=TwMOVPxDCwQ&amp;t=236s)
 - [1080p vs 1440p vs 4K Gaming Monitors](https://youtu.be/pZi2V5C40_w)
 - [Fastest 1080p vs. 1440p Monitor](https://youtu.be/d7wTYfWvlPE)
+- [Cheap Vs Expensive: Gaming Monitors](https://youtu.be/8LoZCtNKo48)
 - [Ultrawide vs. 4K Gaming – Before You Buy!](https://www.youtube.com/watch?v=RZ0vnJ4B3cM&amp;t=58s)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
