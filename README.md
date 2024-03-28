@@ -95,6 +95,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [What's Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)
 - [Hard Drives (HDD) vs Solid-State Drives (SDD)](https://www.youtube.com/watch?v=cjGEmRDM-e4)
 - [SSD vs Hard Drive vs Hybrid Drive](https://www.youtube.com/watch?v=1cyMTl_QXSc)
+- [So You Want A SUPER Fast NVMe Drive For Gaming?](https://youtu.be/ewygzQJtSNs)
 - [SSDs vs Hard Drives](https://www.youtube.com/watch?v=YQEjGKYXjw8)
 - [All SSD Types EXPLAINED](https://www.youtube.com/watch?v=kx0ynC8Thlw)
 - [Different Types of SSDs: You Need to Know!](https://www.youtube.com/watch?v=ppeSIaDupSQ)
