@@ -197,6 +197,7 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
   - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
     - [Should you buy used pc parts?](https://youtu.be/RKgo-DWEKeY)
     - [PC Parts you should NOT buy secondhand](https://youtu.be/uMTqUBJ4Iuw)
+    - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
     - [How to get the most for your money!](https://youtu.be/Qk8qVYAzOYA)
     - [You SHOULD buy Used GPUs - Testing Used Mining Cards](https://youtu.be/UFytB3bb1P8)
     - [I got a CRAZY deal on this USED PC!](https://youtu.be/B_m21njq_jo)
