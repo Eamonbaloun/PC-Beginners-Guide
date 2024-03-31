@@ -183,10 +183,9 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### 1. Picking Parts
 
-Now that you know what you'll need to build a PC, it's time to choose some parts. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=imxVMrp9hdg))
+Now that you know what you'll need to build a computer, it's time to select some components. The first thing is to find out what resolution and refresh rate you want to game at. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=imxVMrp9hdg))
 
-- **Determining Gaming Resolution and Refresh Rate**
-  - Before choosing parts, identify the resolution and refresh rate you aim to game at. ([Refer to this video for an explanation](https://www.youtube.com/watch?v=J50c82iC0PU))
+  - **How to Choose Parts**
     - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)
     - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
     - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
