@@ -142,6 +142,7 @@ I've been passionate about computers for over a decade and have built multiple s
 ### In-Game Settings Explained
 
 - [PC Graphics Settings Explained | Antialiasing, Vsync and More!](https://www.youtube.com/watch?v=793FHtSH8pg)
+- [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)
 - [An Introduction to Graphics Settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&amp;t=73s)
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&amp;t=29s)
@@ -189,20 +190,10 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
     - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)
     - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
     - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
+    - [What is Bottlenecking](https://youtu.be/zXthBwIgE08) - I really like this video; it is only 8 minutes long and goes over a really important topic.
     - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
     - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
-
-- **Used PC Parts**
-  - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
-    - [Should you buy used pc parts?](https://youtu.be/RKgo-DWEKeY)
-    - [PC Parts you should NOT buy secondhand](https://youtu.be/uMTqUBJ4Iuw)
-    - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
-    - [How to get the most for your money!](https://youtu.be/Qk8qVYAzOYA)
-    - [You SHOULD buy Used GPUs - Testing Used Mining Cards](https://youtu.be/UFytB3bb1P8)
-    - [I got a CRAZY deal on this USED PC!](https://youtu.be/B_m21njq_jo)
-    - [A Truly Bizarre Gaming PC Ad](https://youtu.be/OaTgUOKZYSM)
-    - Educate yourself before buying used PCs with guidance from Greg Salazar's [playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi).
-
+      
 - **PC Advice**
   - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)
   - Byte Size Tech offers valuable insights into selecting parts based on longevity and value:
@@ -214,6 +205,17 @@ Now that you know what you'll need to build a PC, it's time to choose some parts
     - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
     - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
     - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)
+      
+- **Used PC Parts**
+  - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
+    - [Should you buy used pc parts?](https://youtu.be/RKgo-DWEKeY)
+    - [PC Parts you should NOT buy secondhand](https://youtu.be/uMTqUBJ4Iuw)
+    - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
+    - [How to get the most for your money!](https://youtu.be/Qk8qVYAzOYA)
+    - [You SHOULD buy Used GPUs - Testing Used Mining Cards](https://youtu.be/UFytB3bb1P8)
+    - [I got a CRAZY deal on this USED PC!](https://youtu.be/B_m21njq_jo)
+    - [A Truly Bizarre Gaming PC Ad](https://youtu.be/OaTgUOKZYSM)
+    - Educate yourself before buying used PCs with guidance from Greg Salazar's [playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi).
 
 - **Parts lists**
   - Recommendations for top-performing Builds:
