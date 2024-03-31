@@ -1,16 +1,15 @@
 # Beginner's Guide to Building a Gaming PC
 
-Welcome, fellow gamers! If you're new to the exciting world of constructing your own gaming PC, don't worry! This detailed guide was created specifically for you. Building your gaming rig may be difficult at first, but with the right direction, you'll soon be on your way to designing the perfect gaming setup for your needs and interests.
+Hello, fellow gamers! If you're new to the exciting world of building your own gaming PC, don't worry! This detailed guide was created specifically for you. Building your gaming PC may seem difficult at first, but with the right guidance, you'll soon be on your way to designing your perfect gaming setup for your needs and interests.
 
-In this guide, we will cover everything you need to know about building your first gaming PC. We've got you covered, from component selection to configuring a powerful gaming system. So, lets get started!
 
 ## Why Build Your Own Gaming PC?
 
-Building your own gaming PC not only allows you to personalize your setup and potentially save money over pre-built systems, but it also has distinct advantages over gaming consoles such as the PS5 and Xbox Series X. A gaming PC allows for greater hardware selection, which can lead to improved performance and graphics. In addition, PC gaming provides a more diverse selection of titles, mods, and customization options. A gaming PC's versatility also extends beyond gaming, allowing you to use it for productivity, multimedia entertainment, and other purposes.
+Building your own gaming PC not only allows you to customize your setup and potentially save money over pre-built systems, but it also offers distinct advantages over gaming consoles such as the PS5 and Xbox Series X. A gaming PC allows for more hardware options, which can lead to better performance and graphics. In addition, PC gaming offers a wider range of titles, mods, and customization options. A gaming PC's versatility extends beyond gaming, allowing it to be used for productivity, multimedia entertainment, and other applications.
 
 ## What You'll Find in This Guide
 
-Building a gaming PC takes time and effort, but the results are well worth it. This guide will walk you through each step of the process, ensuring that you create a custom gaming setup that meets all of your needs. So prepare for an exciting journey into the world of PC building!
+In this guide, we'll go over everything you need to know about building your first gaming PC. We've got you covered, from component selection to assembling a powerful gaming system. So let's get started!
 
 ### Tips for Watching the Videos
 
@@ -26,7 +25,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 - Some concepts may overlap in the videos.
 - Stick to reliable creators for accurate information.
-- Keep in mind that technology may have advanced since some videos were made, but the basic principles remain relevant.
+- Keep in mind that while technology has advanced since some videos were created, the fundamental principles remain unchanged.
 ---
 
 ### 1. Preparing for Your Build (_Foundational Knowledge_)
@@ -73,7 +72,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 - [GPUs and Graphics Cards Explained](https://www.youtube.com/watch?v=Kgcfj_KV-mo)
 - [Graphics Card Specs: The Basics](https://www.youtube.com/watch?v=IR0e9hdSkI0)
-- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk) – A visually appealing video explaining the internal components of a graphics card.
+- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk) – A visually appealing video that describes the internal components of a graphics card.
 - [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)
 - [Graphics Card](https://www.youtube.com/watch?v=S1xkLWaMWxQ)
 - [How Much GPU Memory Do You REALLY Need?](https://www.youtube.com/watch?v=6vuFU_EF-38)
@@ -87,7 +86,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [PSU Explained](https://www.youtube.com/watch?v=lqThn3C-zg4)
 - [PSUs Explained](https://www.youtube.com/watch?v=yJ73fAJEMtk)
 - [How to Pick a Power Supply](https://www.youtube.com/watch?v=HSeIlzVxgJ4)
-- [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&amp;t=677s) – An advanced video discussing power requirements in 2020.
+- [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&amp;t=677s) – An advanced video discussing power requirements for 2020. (Still relevant in 2024.)
 
 ### Storage Solutions 
 
