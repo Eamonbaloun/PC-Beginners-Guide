@@ -149,7 +149,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### Additional Learning Resources
 
-- If you need further clarification on specific topics, Techquickie is an excellent resource. Below are some recommended videos to start with:
+- If you need further clarification on specific topics, [Techquickie](https://www.youtube.com/@techquickie) is an excellent resource. Below are some recommended videos to start with:
 
   - [Thermal Throttling](https://www.youtube.com/watch?v=kUyuKqIfMN0)
   - [What is Overclocking](https://www.youtube.com/watch?v=RPmDSYRKnXM)
