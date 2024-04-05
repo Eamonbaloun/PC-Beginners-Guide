@@ -82,6 +82,7 @@ I've been passionate about computers for over a decade and have built multiple s
 ### Power Supply Units (PSUs)
 
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
+- [Guide to Buying a Power Supply](https://youtu.be/51oo3ROtVOE)
 - [Beginner's Guide to Power Supplies... Understanding the Ratings](https://www.youtube.com/watch?v=bUh2EZzJZRU&amp;t=142s)
 - [PSU Explained](https://www.youtube.com/watch?v=lqThn3C-zg4)
 - [PSUs Explained](https://www.youtube.com/watch?v=yJ73fAJEMtk)
