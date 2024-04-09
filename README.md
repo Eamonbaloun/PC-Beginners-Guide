@@ -208,7 +208,7 @@ Now that you know what you'll need to build a computer, it's time to select some
       
 - **Used PC Parts**
   - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
-    - [Should you buy used pc parts?](https://youtu.be/RKgo-DWEKeY)
+    - [Don’t Get Ripped Off](https://youtu.be/QOTZyhxO_yk)
     - [PC Parts you should NOT buy secondhand](https://youtu.be/uMTqUBJ4Iuw)
     - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
     - [How to get the most for your money!](https://youtu.be/Qk8qVYAzOYA)
