@@ -214,6 +214,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [How to get the most for your money!](https://youtu.be/Qk8qVYAzOYA)
     - [You SHOULD buy Used GPUs - Testing Used Mining Cards](https://youtu.be/UFytB3bb1P8)
     - [I got a CRAZY deal on this USED PC!](https://youtu.be/B_m21njq_jo)
+    - [Guessing Prices for Custom PC Builds' Listings](https://youtu.be/gIMOtNzjHL4_https://youtu.be/gIMOtNzjHL4)
     - [A Truly Bizarre Gaming PC Ad](https://youtu.be/OaTgUOKZYSM)
     - Educate yourself before buying used PCs with guidance from Greg Salazar's [playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi).
 
