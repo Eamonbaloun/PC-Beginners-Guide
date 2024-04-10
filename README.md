@@ -235,8 +235,8 @@ Now that you know what you'll need to build a computer, it's time to select some
 
 - **Monitors**
     - [Monitors Unboxed](https://www.youtube.com/@monitorsunboxed) For the best monitor reviews, Monitors Unboxed is hands down the best reviewer for monitors.
-    - [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRotaPn3ljlX_dowIk_yG3LaN) He is just getting into gaming monitors, but he is really good too.
-    - [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOrgOHlAr4HvYeE-4Mlnl_aQ) For esports monitors, Optimum is also a great option.
+    - [ShortCircuit](https://www.youtube.com/watch?v=e6GFbegm5Uw&list=PL5mCfMLcc_thM_bOuKMRVZ7NKR842zp1Z) ShortCircuit is a side channel for Linus Tech Tips that focuses on simple tech unboxings and overviews. They provide straightforward first impressions on products, making them a good starting point to determine a product's quality.
+    - [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOrgOHlAr4HvYeE-4Mlnl_aQ) For esports monitors, Optimum is one of the best.
 
 - **Mouse**
     - [boardzy](https://www.youtube.com/@boardzy) Boardzy is the best for mouse reviews.
