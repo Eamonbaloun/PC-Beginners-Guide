@@ -85,6 +85,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [Guide to Buying a Power Supply](https://youtu.be/51oo3ROtVOE)
 - [Beginner's Guide to Power Supplies... Understanding the Ratings](https://www.youtube.com/watch?v=bUh2EZzJZRU&amp;t=142s)
 - [PSU Explained](https://www.youtube.com/watch?v=lqThn3C-zg4)
+- [PSU Buying Guide for Creators - It's Slightly Different](https://youtu.be/xMSdmD3C50E)
 - [PSUs Explained](https://www.youtube.com/watch?v=yJ73fAJEMtk)
 - [How to Pick a Power Supply](https://www.youtube.com/watch?v=HSeIlzVxgJ4)
 - [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&amp;t=677s) – An advanced video discussing power requirements for 2020. (Still relevant in 2024.)
