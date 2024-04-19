@@ -30,6 +30,10 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### 1. Preparing for Your Build (_Foundational Knowledge_)
 
+#### Anyone Can build a Gaming PC
+
+- [Anyone Can Build a Gaming]
+
 #### Why Choose PC Gaming? (_Advantages Over Consoles and Their Limitations_)
 
 - [Switching to PC Gaming From Console: PS5 and Xbox Series X Edition | My Experience 2 Years Later](https://www.youtube.com/watch?v=9rn2btJWszI)
@@ -210,6 +214,7 @@ Now that you know what you'll need to build a computer, it's time to select some
 - **Used PC Parts**
   - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
     - [Don’t Get Ripped Off](https://youtu.be/QOTZyhxO_yk)
+    - [The Ultimate Guide - How to Build Budget Gaming PCs](https://www.youtube.com/watch?v=h0URlGf4BrM)
     - [PC Parts you should NOT buy secondhand](https://youtu.be/uMTqUBJ4Iuw)
     - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
     - [How to get the most for your money!](https://youtu.be/Qk8qVYAzOYA)
