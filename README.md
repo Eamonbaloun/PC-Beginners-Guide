@@ -339,6 +339,7 @@ This is the most time-consuming and important step in ensuring that you get the 
 **Watch as many of these videos as you can:**
 
 - [Guide: What to do AFTER building your computer...](https://www.youtube.com/watch?v=RYYoCXh2gtw)
+- [Chris Titus Tech's Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ - This is a super simple tool that I use on almost every PC I setup. if you don't want to watch any of the other windows in step 4, this scrip will do almost everything you need. Please run it once. ([here is a another video going over the tool if that one is not enough](https://youtu.be/OBPreMucWf0))
 - [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)
 - [A-Z 20H2 v2 Windows 10 Optimization Guide FPS BOOST](https://www.youtube.com/watch?v=cJrEQuylzOQ&t=228s)
 - [How to Optimize Windows 10 For GAMING & Performance](https://www.youtube.com/watch?v=wkJBDEDDS5o&t=369s) – This video is 100% safe and will not cut into any of Windows' functionality. It will show you how to make sure Windows is ready to play the latest games.
