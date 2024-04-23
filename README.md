@@ -204,7 +204,7 @@ Now that you know what you'll need to build a computer, it's time to select some
       
 - **PC Build Advice**
   - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)
-  - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part**)
+  - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part❗**)
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
     - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
