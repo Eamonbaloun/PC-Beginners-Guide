@@ -187,7 +187,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 1. Picking Parts
+### 2. Picking Parts
 
 Now that you know what you'll need to build a computer, it's time to select some components. The first thing is to find out what resolution and refresh rate you want to game at. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=imxVMrp9hdg))
 
@@ -302,7 +302,7 @@ I really want people who are looking for a prebuilt PC to understand exactly wha
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## 1. Building
+## 3. Building
 
 This step is not as difficult as it appears, but I recommend waiting until you have all of the parts before starting to build. [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos) is unquestionably the best YouTuber for computer building. He is the best at demonstrating where things go and explaining why he put them where they are. Please watch at least one of his build videos from start to finish before beginning to build the computer. Then, when putting it together, follow the video step-by-step.
 
@@ -328,7 +328,7 @@ This step is not as difficult as it appears, but I recommend waiting until you h
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## 1. Optimizing Windows
+## 4. Optimizing Windows
 
 ***Please do not skip this step; it is so important.***
 
@@ -369,14 +369,14 @@ This is the most time-consuming and important step in ensuring that you get the 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## 1. Gaming time!!!!!!
+## 5. Gaming time!!!!!!
 
 - [Using EVERY GAME LAUNCHER to get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
 - [Game Launchers - Which one?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## 1. More videos and channels I would recommend watching and subscribing to:
+## 6. More videos and channels I would recommend watching and subscribing to:
 
 - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) – must!!!!
