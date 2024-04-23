@@ -32,7 +32,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 #### Anyone Can build a Gaming PC
 
-- **[Anyone Can Build a Gaming PC](https://youtu.be/jU-N9Mc6wuA)**
+- [Anyone Can Build a Gaming PC](https://youtu.be/jU-N9Mc6wuA)
 
 #### Why Choose PC Gaming? (_Advantages Over Consoles and Their Limitations_)
 
@@ -191,8 +191,8 @@ I've been passionate about computers for over a decade and have built multiple s
 
 Now that you know what you'll need to build a computer, it's time to select some components. The first thing is to find out what resolution and refresh rate you want to game at. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=imxVMrp9hdg))
 
-- **MUST WATCH!!!!**
-  - [Life Is Too Short to Use a Crappy Computer!](https://youtu.be/NZ86k3B73mQ)
+**🚨🚨🚨 MUST WATCH!!!! 🚨🚨🚨**
+- [**Life Is Too Short to Use a Crappy Computer!**](https://youtu.be/NZ86k3B73mQ)
 
   - **How to Choose Parts**
     - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)
