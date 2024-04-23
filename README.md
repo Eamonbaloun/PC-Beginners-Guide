@@ -23,6 +23,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ## Disclaimer
 
+- Videos marked with ❗ are not optional at all must watch
 - Some concepts may overlap in the videos.
 - Stick to reliable creators for accurate information.
 - Keep in mind that while technology has advanced since some videos were created, the fundamental principles remain unchanged.
