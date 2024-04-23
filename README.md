@@ -201,11 +201,12 @@ Now that you know what you'll need to build a computer, it's time to select some
       
 - **PC Advice**
   - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)
-  - Byte Size Tech offers valuable insights into selecting parts based on longevity and value:
+  - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (really important part)
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
     - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
     - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)
+    - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)
     - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&amp;t=346s)
     - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
     - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
