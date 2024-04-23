@@ -207,6 +207,7 @@ Now that you know what you'll need to build a computer, it's time to select some
   - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part❗**)
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
     - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)
+    - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
     - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)
     - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
