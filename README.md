@@ -195,7 +195,6 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [**❗Life Is Too Short to Use a Crappy Computer❗**](https://youtu.be/NZ86k3B73mQ)
 
   - **How to Choose Parts**
-    - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)
     - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)
     - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
     - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
@@ -203,10 +202,11 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
     - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
       
-- **PC Advice**
+- **PC Build Advice**
   - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)
   - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part**)
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
+    - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
     - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)
     - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
