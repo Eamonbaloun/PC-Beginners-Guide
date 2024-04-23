@@ -32,7 +32,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 #### Anyone Can build a Gaming PC
 
-- [Anyone Can Build a Gaming PC](https://youtu.be/jU-N9Mc6wuA)
+- **[Anyone Can Build a Gaming PC](https://youtu.be/jU-N9Mc6wuA)**
 
 #### Why Choose PC Gaming? (_Advantages Over Consoles and Their Limitations_)
 
