@@ -97,7 +97,7 @@ I've been passionate about computers for over a decade and have built multiple s
 ### Storage Solutions 
 
 - [SSD vs HDD - Which One Should You Choose?](https://www.youtube.com/watch?v=PKRB6umzeAg)
-- [What's Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)
+- [What's Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)❗
 - [Hard Drives (HDD) vs Solid-State Drives (SDD)](https://www.youtube.com/watch?v=cjGEmRDM-e4)
 - [SSD vs Hard Drive vs Hybrid Drive](https://www.youtube.com/watch?v=1cyMTl_QXSc)
 - [So You Want A SUPER Fast NVMe Drive For Gaming?](https://youtu.be/ewygzQJtSNs)
@@ -107,7 +107,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### Computer Cooling 
 
-- [CPU Cooling Explained](https://www.youtube.com/watch?v=pzsPWY-ofQg)
+- [CPU Cooling Explained](https://www.youtube.com/watch?v=pzsPWY-ofQg)❗
 - [CPU Air Cooling vs Watercooling... Which is Right for You?](https://www.youtube.com/watch?v=RQ3c0kspOb8&amp;t=347s)
 - [How To Choose The BEST Fans For Your PC Build](https://www.youtube.com/watch?v=tGenFt-m7Zk)
 - [How Many Case Fans Do You REALLY Need?](https://www.youtube.com/watch?v=KTDZpYkEonY)
@@ -116,7 +116,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### Gaming Monitors Explained
 
-- [How to Pick a Gaming Monitor](https://www.youtube.com/watch?v=imxVMrp9hdg)
+- [How to Pick a Gaming Monitor](https://www.youtube.com/watch?v=imxVMrp9hdg)❗
 - [Gaming Monitor Explained](https://www.youtube.com/watch?v=zH28Pp83xDc)
 - [Watch This BEFORE You Buy a Monitor!](https://youtu.be/nEAyY9dzAZ0)
 - [What is The BEST Monitor Explained - 240Hz 1080p Vs. 144hz 1440p Vs. 4K 60Hz](https://www.youtube.com/watch?v=TwMOVPxDCwQ&amp;t=236s)
@@ -133,7 +133,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### Peripherals: Mouse, Keyboard, and Headsets Explained
 
-- [What to Look for in a Gaming Mouse](https://www.youtube.com/watch?v=EYoFzaAjLsQ)
+- [What to Look for in a Gaming Mouse](https://www.youtube.com/watch?v=EYoFzaAjLsQ)❗
 - [How to Choose the RIGHT Keyboard Size (60%, 65%, TKL, 100%)](https://www.youtube.com/watch?v=DWYxofVGIB0)
 - [Choosing Gaming Headphones](https://www.youtube.com/watch?v=6JQSXf_npf8)
 - [Understanding Gaming Keyboards](https://www.youtube.com/watch?v=B8jX2DpHA5E)
@@ -141,7 +141,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### PC Cases Explained
 
-- [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)
+- [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)❗
 - [Case Airflow](https://www.youtube.com/watch?v=qGYr2fgBB-s)
 - [How to Choose Your Next Case](https://www.youtube.com/watch?v=sDqOUfqcLY0)
 
@@ -149,7 +149,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 - [PC Graphics Settings Explained | Antialiasing, Vsync and More!](https://www.youtube.com/watch?v=793FHtSH8pg)
 - [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
-- [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)
+- [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)❗
 - [An Introduction to Graphics Settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&amp;t=73s)
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&amp;t=29s)
 - [Why Is Frame Rate Important?](https://www.youtube.com/watch?v=wmmrIIZyapk)
@@ -158,25 +158,25 @@ I've been passionate about computers for over a decade and have built multiple s
 
 - If you need further clarification on specific topics, [Techquickie](https://www.youtube.com/@techquickie) is an excellent resource. Below are some recommended videos to start with:
 
-  - [Thermal Throttling](https://www.youtube.com/watch?v=kUyuKqIfMN0)
+  - [Thermal Throttling](https://www.youtube.com/watch?v=kUyuKqIfMN0)❗
   - [What is Overclocking](https://www.youtube.com/watch?v=RPmDSYRKnXM)
   - [Overclocking](https://www.youtube.com/watch?v=yyv9Y2miV64)
-  - [Temperatures](https://www.youtube.com/watch?v=VuP6I0mOb1s)
-  - [CPU and GPU](https://www.youtube.com/watch?v=1kypaBjJ-pg&amp;t=147s)
-  - [LCD Monitor Panels Types - TN vs IPS vs VA](https://www.youtube.com/watch?v=zNc2fKuVnGU)
-  - [Resolution](https://www.youtube.com/watch?v=XqdPciq2yJs)
-  - [What Computer Case Should You Buy?](https://www.youtube.com/watch?v=aEHDTJMqmpc&amp;t=28s)
-  - [Refresh Rate](https://www.youtube.com/watch?v=YCWZ_kWTB9w)
+  - [Temperatures](https://www.youtube.com/watch?v=VuP6I0mOb1s)❗
+  - [CPU and GPU](https://www.youtube.com/watch?v=1kypaBjJ-pg&amp;t=147s)❗
+  - [LCD Monitor Panels Types - TN vs IPS vs VA](https://www.youtube.com/watch?v=zNc2fKuVnGU)❗
+  - [Resolution](https://www.youtube.com/watch?v=XqdPciq2yJs)❗
+  - [What Computer Case Should You Buy?](https://www.youtube.com/watch?v=aEHDTJMqmpc&amp;t=28s)❗
+  - [Refresh Rate](https://www.youtube.com/watch?v=YCWZ_kWTB9w)❗
   - [GPU Settings](https://www.youtube.com/watch?v=QDpsVVJXYAs&amp;t=194s)
-  - [Mouse Acceleration](https://www.youtube.com/watch?v=16diwK6HWbI)
-  - [BIOS](https://www.youtube.com/watch?v=zIYkol851dU)
-  - [BIOS](https://www.youtube.com/watch?v=D1R2ttrvbdI)
+  - [Mouse Acceleration](https://www.youtube.com/watch?v=16diwK6HWbI)❗
+  - [BIOS](https://www.youtube.com/watch?v=zIYkol851dU)❗
+  - [BIOS](https://www.youtube.com/watch?v=D1R2ttrvbdI)❗
   - [PSU](https://www.youtube.com/watch?v=RUk8CUu30X0)
   - [SSD vs Hard Drive](https://www.youtube.com/watch?v=YQEjGKYXjw8)
   - [PSU](https://www.youtube.com/watch?v=dOXTZizoknc)
   - [What SSD To Buy As Fast As Possible](https://www.youtube.com/watch?v=RzHp_IBbYYY)
-  - [Keyboard Switches Part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) -|- [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)
-  - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)
+  - [Keyboard Switches Part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) -|- [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)❗
+  - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)❗
 
 ### Extra Tips
 
@@ -198,7 +198,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)
     - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
     - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
-    - [What is Bottlenecking](https://youtu.be/zXthBwIgE08) - I really like this video; it is only 8 minutes long and goes over a really important topic.
+    - [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ - I really like this video; it is only 8 minutes long and goes over a really important topic.
     - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
     - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
       
@@ -210,14 +210,14 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)❗
     - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
-    - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)
+    - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)❗
     - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
-    - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)
+    - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
     - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)❗
     - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&amp;t=346s)
     - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
     - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
-    - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)
+    - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)❗
       
 - **Used PC Parts**
   - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
@@ -234,7 +234,7 @@ Now that you know what you'll need to build a computer, it's time to select some
 
 - **Parts lists**
   - Recommendations for top-performing Builds:
-    - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)
+    - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
     - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
     - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
     - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
@@ -278,7 +278,7 @@ Now that you know what you'll need to build a computer, it's time to select some
 ## Active Deals!!!
 
 - [PC Hardware Deals](https://www.youtube.com/channel/UCCss3QxegBkF8BAetIo0qXA) – This channel continuously streams some of the best deals you can currently find on the market, as well as what is the best value for your money. If you're wondering which is better value for money, I'd recommend checking out their channel.
-- I would also check out [dealsource.tech](https://www.dealsource.tech/deals-1) This website is updated daily with deals. They don't have as many PC hardware deals, but they do post a lot of storage deals. If you want good storage for a low price, this is the place to go. (_if you click a link and buy something it supports the people that make this website_)
+- I would also check out [dealsource.tech](https://www.dealsource.tech/deals-1)❗ This website is updated daily with deals. They don't have as many PC hardware deals, but they do post a lot of storage deals. If you want good storage for a low price, this is the place to go. (_if you click a link and buy something it supports the people that make this website_)
 - I would also check out Reddit, which has many threads on deals for PC hardware. My favorite is [r/buildapcsales](https://www.reddit.com/r/buildapcsales/hot/) It's worth checking out because someone's always posting a deal. To find the most popular and legitimate deals, filter by hot or new.
 
 
@@ -306,11 +306,11 @@ I really want people who are looking for a prebuilt PC to understand exactly wha
 
 ## 3. Building
 
-This step is not as difficult as it appears, but I recommend waiting until you have all of the parts before starting to build. [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos) is unquestionably the best YouTuber for computer building. He is the best at demonstrating where things go and explaining why he put them where they are. Please watch at least one of his build videos from start to finish before beginning to build the computer. Then, when putting it together, follow the video step-by-step.
+This step is not as difficult as it appears, but I recommend waiting until you have all of the parts before starting to build. [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos)❗ is unquestionably the best YouTuber for computer building. He is the best at demonstrating where things go and explaining why he put them where they are. Please watch at least one of his build videos from start to finish before beginning to build the computer. Then, when putting it together, follow the video step-by-step.
 
-- [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)
-- [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)
-- [A PC Build That Just Works Even If It is Your First Time.](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)
+- [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)❗
+- [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)❗
+- [A PC Build That Just Works Even If It is Your First Time.](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)❗
 
 - This build guide from Linus Tech Tips is also good. I would check it out if you have difficulty with 2 other build guides. _(By the way, this video is in POV, so it is easy to see what to do)_
   - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&t=554s)
@@ -345,7 +345,7 @@ This is the most time-consuming and important step in ensuring that you get the 
 - [Windows Apps the right way to remove them](https://www.youtube.com/watch?v=8E6OT_QcHaU) – This is an easy video on removing all the bloat software that gets installed with Windows. It will speed up Windows and save you space.
 - [How to REALLY make Windows 10 Super Light for Gaming](https://www.youtube.com/watch?v=IU5F01oOzQQ&t=2s) – This is another video that shows how you can use scripts to make Windows light for gaming.
 - [Windows 10 advanced optimization guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&t=457s) - this guide will slightly cut into Windows functionality. I would recommend when he talks about Windows apps skip from 11:50 to 17:50; skipping this will still allow you to download apps from the Microsoft store. Also, for this video, I would skip disabling services with Nsudo that can cause problems down the road; the Overwatch A-Z video has a better way of disabling services. (Skip anything about Windows apps)
-- [Overwatch | A-Z, Boost FPS & Optimization Guide](https://www.youtube.com/watch?v=cJrEQuylzOQ&t=228s) - even if you don't play Overwatch, this guide is still really good; it covers almost everything. I would recommend without cutting into Windows functionality at all, so please if you want to make Windows snappier for gaming and want a relatively short to the point tutorial this is it please watch this one. (Skip anything about Windows apps)
+- [Overwatch | A-Z, Boost FPS & Optimization Guide](https://www.youtube.com/watch?v=cJrEQuylzOQ&t=228s)❗ - even if you don't play Overwatch, this guide is still really good; it covers almost everything. I would recommend without cutting into Windows functionality at all, so please if you want to make Windows snappier for gaming and want a relatively short to the point tutorial this is it please watch this one. (Skip anything about Windows apps)
 - If you are looking to play a specific game and want the best settings than look for a guide by [Panjno](https://www.youtube.com/user/PanjnoTutorials):
   - [Call of Duty Warzone](https://www.youtube.com/watch?v=FU8S3srYtbg)
   - [Rainbow six siege](https://www.youtube.com/watch?v=Q5psNE7nGCg)
@@ -355,7 +355,7 @@ This is the most time-consuming and important step in ensuring that you get the 
   - [Nvidia settings](https://www.youtube.com/watch?v=jZrnfWpENTo&t=464s)
   - [AMD settings](https://www.youtube.com/watch?v=K1N4vV5BSoI)
   - [WIFI settings](https://www.youtube.com/watch?v=bAke9R-k3so&t=181s)
-- [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)
+- [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
 - Backing up Windows – here is how would go about making sure you never lose data in the event of a crash or hardware failure:
   - [Easy System Backup Clone Or Disk Imaging With Macrium Free](https://www.youtube.com/watch?v=uFOyDtJ5FuY) – This is a short, easy, and to the point video of how to make a backup of your computer. I would watch this first to get a good understanding of how to use Macrium Reflect.
   - [How to backup using Macrium Reflect](https://www.youtube.com/watch?v=7r_pknWeFlk) – This video is for the people who really want to know everything about this powerful program. Please I can't recommend this video enough. It has saved me so many times it is worth watching.
