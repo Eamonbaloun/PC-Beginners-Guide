@@ -43,21 +43,21 @@ I've been passionate about computers for over a decade and have built multiple s
 
 #### Understanding PC Components
 
-- [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
+- [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)❗
 - [Gaming PC Parts Explained! A Beginner's Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
 - [101 Guide to Getting Into PC Gaming](https://www.youtube.com/watch?v=ZBoxnspdNMc)
 - [What You MUST Know Before Buying A Computer](https://www.youtube.com/watch?v=EhvJRDJaofQ)
 
 #### Motherboard Specifications
 
-- [Motherboards Explained](https://www.youtube.com/watch?v=b2pd3Y6aBag&amp;t=119s) - Beginner-friendly with helpful animations
+- [Motherboards Explained](https://www.youtube.com/watch?v=b2pd3Y6aBag&amp;t=119s) - Beginner-friendly with helpful animations❗
 - [Motherboard Specs Explained](https://www.youtube.com/watch?v=TbGjYumO_aw)
 - [Motherboard Explained - Chipsets, Sockets, and Ports!](https://www.youtube.com/watch?v=3ZHeEOPpFLU)
 - [How to Choose a Motherboard: 3 Levels of Skill](https://www.youtube.com/watch?v=lP-pinlU-Ko)
 
 #### CPU Specifications
 
-- [CPU Specs Explained](https://www.youtube.com/watch?v=xJNkEzy3-O4)
+- [CPU Specs Explained](https://www.youtube.com/watch?v=xJNkEzy3-O4)❗
 - [Understanding CPU Specs](https://www.youtube.com/watch?v=Wry_LxDba1M)
 - [CPU Names Explained](https://www.youtube.com/watch?v=JUXwl-W2az0)
 - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
@@ -67,7 +67,7 @@ I've been passionate about computers for over a decade and have built multiple s
 ### RAM Specifications
 
 - [How to Choose RAM](https://www.youtube.com/watch?v=mkpCvaBBo-c)
-- [Understanding RAM for Beginners](https://www.youtube.com/watch?v=GtEbrY4nDIQ)
+- [Understanding RAM for Beginners](https://www.youtube.com/watch?v=GtEbrY4nDIQ)❗
 - [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo&amp;t=310s)
 - [How Much RAM Do You Need in 2020](https://www.youtube.com/watch?v=OT-qAQLGkGo)
 - [XMP or DOCP Settings for RAM](https://www.youtube.com/watch?v=vc8G5_sW8lk)
@@ -76,7 +76,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 - [GPUs and Graphics Cards Explained](https://www.youtube.com/watch?v=Kgcfj_KV-mo)
 - [Graphics Card Specs: The Basics](https://www.youtube.com/watch?v=IR0e9hdSkI0)
-- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk) – A visually appealing video that describes the internal components of a graphics card.
+- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk)❗ – A visually appealing video that describes the internal components of a graphics card.
 - [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)
 - [Graphics Card](https://www.youtube.com/watch?v=S1xkLWaMWxQ)
 - [How Much GPU Memory Do You REALLY Need?](https://www.youtube.com/watch?v=6vuFU_EF-38)
@@ -85,7 +85,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 ### Power Supply Units (PSUs)
 
-- [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)
+- [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)❗
 - [Guide to Buying a Power Supply](https://youtu.be/51oo3ROtVOE)
 - [Beginner's Guide to Power Supplies... Understanding the Ratings](https://www.youtube.com/watch?v=bUh2EZzJZRU&amp;t=142s)
 - [PSU Explained](https://www.youtube.com/watch?v=lqThn3C-zg4)
@@ -206,13 +206,14 @@ Now that you know what you'll need to build a computer, it's time to select some
   - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)
   - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part❗**)
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
-    - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)
-    - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)
+    - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗
+    - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)❗
+    - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
     - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)
     - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
     - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)
-    - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)
+    - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)❗
     - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&amp;t=346s)
     - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
     - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
