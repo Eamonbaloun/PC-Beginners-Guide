@@ -239,7 +239,9 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
     - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
       I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts. 
-    
+    -[super quiet rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
+
+
 - **PC Cases**
   - [Gamers Nexus](https://www.youtube.com/playlist?list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn) provides comprehensive reviews and recommendations for PC cases:
   - [Hardware Canucks](https://www.youtube.com/@HardwareCanucks) they have great 
