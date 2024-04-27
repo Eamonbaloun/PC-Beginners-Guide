@@ -39,6 +39,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [Switching to PC Gaming From Console: PS5 and Xbox Series X Edition | My Experience 2 Years Later](https://www.youtube.com/watch?v=9rn2btJWszI)
 - [PC GAMING vs CONSOLE GAMING](https://www.youtube.com/watch?v=VAHHJQOlvgw)
 - [The Many Advantages of PC Gaming](https://www.youtube.com/watch?v=4wacl55qEGI)
+- [Tiny 3D-printed PC vs. Fastest Xbox](https://youtu.be/BB9w8O7Ne8w)
 - [Should You Build Your Own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&amp;t=488s)
 
 #### Understanding PC Components
