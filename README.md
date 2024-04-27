@@ -240,6 +240,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
       I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts. 
     - [super quiet rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
+    - I wanna recommend 2 channels that post builds regularly are [ScatterVolt](https://youtube.com/@ScatterVolt) and [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
 
 
 - **PC Cases**
