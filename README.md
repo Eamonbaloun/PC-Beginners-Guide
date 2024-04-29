@@ -196,7 +196,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [**❗Life Is Too Short to Use a Crappy Computer❗**](https://youtu.be/NZ86k3B73mQ)
 
   - **How to Choose Parts**
-    - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)
+    - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)❗
     - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
     - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
     - [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ - I really like this video; it is only 8 minutes long and goes over a really important topic.
@@ -204,11 +204,12 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
       
 - **PC Build Advice**
-  - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)
+  - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)❗
   - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part❗**)
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
     - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗
     - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)❗
+    - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard](https://youtu.be/-Kn3zYIdGts)❗
     - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
     - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)❗
@@ -245,19 +246,19 @@ Now that you know what you'll need to build a computer, it's time to select some
 
 
 - **PC Cases**
-  - [Gamers Nexus](https://www.youtube.com/playlist?list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn) provides comprehensive reviews and recommendations for PC cases:
+  - [Gamers Nexus](https://www.youtube.com/playlist?list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)❗ provides comprehensive reviews and recommendations for PC cases:
   - [Hardware Canucks](https://www.youtube.com/@HardwareCanucks) they have great 
   - Consider airflow over flashy aesthetics when choosing a case. Research thoroughly before purchasing.
 
 ### PC Peripherals
 
 - **Monitors**
-    - [Monitors Unboxed](https://www.youtube.com/@monitorsunboxed) For the best monitor reviews, Monitors Unboxed is hands down the best reviewer for monitors.
+    - [Monitors Unboxed](https://www.youtube.com/@monitorsunboxed)❗ For the best monitor reviews, Monitors Unboxed is hands down the best reviewer for monitors.
     - [ShortCircuit](https://www.youtube.com/watch?v=e6GFbegm5Uw&list=PL5mCfMLcc_thM_bOuKMRVZ7NKR842zp1Z) ShortCircuit is a side channel for Linus Tech Tips that focuses on simple tech unboxings and overviews. They provide straightforward first impressions on products, making them a good starting point to determine a product's quality.
     - [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOrgOHlAr4HvYeE-4Mlnl_aQ) For esports monitors, Optimum is one of the best.
 
 - **Mouse**
-    - [boardzy](https://www.youtube.com/@boardzy) Boardzy is the best for mouse reviews.
+    - [boardzy](https://www.youtube.com/@boardzy)❗ Boardzy is the best for mouse reviews.
     - [Rocket Jump Ninja](https://www.youtube.com/@RocketJumpNinja/videos) If you need a second opinion, here is another really good reviewer for all things computer mouse related.
     - [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRov7L_KBFicFO9e15Pa0gUFy) BadSeed Tech is a really good reviewer, providing in-depth reviews, which is great if you're trying to find a review for a specific mouse.
     - [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOqhz0EK4YBQqO-yA1NVOn46) For esports mice reviews, Optimum is also really good for gaming mice too.
@@ -327,7 +328,7 @@ This step is not as difficult as it appears, but I recommend waiting until you h
   - [What To Do AFTER You've Built Your Gaming PC!](https://www.youtube.com/watch?v=1tdhgcOLjZw&t=85s)
   - [15 Things You NEED to Know When Building a PC!](https://www.youtube.com/watch?v=b5Fq47jC_VM)
   - [Things not to do when building a PC](https://www.youtube.com/watch?v=CDUZRNp4pxg)
-  - [Fixing The Verge PC Build](https://www.youtube.com/watch?v=QKzmYsySGFQ&t=983s) – This video provided a lot of helpful advice on topics that new builders often have questions about. It's a little different in that they're correcting the problems from another build guide that made a major controversy when a large tech news website posted a video on how to build a PC. This was such a bad guide from the Verge that lawyers got involved.
+  - [Fixing The Verge PC Build](https://www.youtube.com/watch?v=QKzmYsySGFQ&t=983s)❗ – This video provided a lot of helpful advice on topics that new builders often have questions about. It's a little different in that they're correcting the problems from another build guide that made a major controversy when a large tech news website posted a video on how to build a PC. This was such a bad guide from the Verge that lawyers got involved.
   - [DON'T Do This When Building a PC! Our Common Mistakes](https://www.youtube.com/watch?v=tZiw4aVr_vE&t=41s)
   - [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&t=328s)
     
@@ -344,7 +345,7 @@ This is the most time-consuming and important step in ensuring that you get the 
 
 - [Guide: What to do AFTER building your computer...](https://www.youtube.com/watch?v=RYYoCXh2gtw)
 - [Chris Titus Tech's Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ - This is a super simple tool that I use on almost every PC I setup. if you don't want to watch any of the other windows in step 4, this scrip will do almost everything you need. Please run it once. ([here is a another video going over the tool if that one is not enough](https://youtu.be/OBPreMucWf0))
-- [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)
+- [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)❗
 - [A-Z 20H2 v2 Windows 10 Optimization Guide FPS BOOST](https://www.youtube.com/watch?v=cJrEQuylzOQ&t=228s)
 - [How to Optimize Windows 10 For GAMING & Performance](https://www.youtube.com/watch?v=wkJBDEDDS5o&t=369s) – This video is 100% safe and will not cut into any of Windows' functionality. It will show you how to make sure Windows is ready to play the latest games.
 - [Windows Apps the right way to remove them](https://www.youtube.com/watch?v=8E6OT_QcHaU) – This is an easy video on removing all the bloat software that gets installed with Windows. It will speed up Windows and save you space.
