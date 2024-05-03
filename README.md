@@ -36,8 +36,9 @@ I've been passionate about computers for over a decade and have built multiple s
 
 #### Why Choose PC Gaming? (_Advantages Over Consoles and Their Limitations_)
 
-- [Switching to PC Gaming From Console: PS5 and Xbox Series X Edition | My Experience 2 Years Later](https://www.youtube.com/watch?v=9rn2btJWszI)
+- [Switching to PC Gaming From Console: PS5 and Xbox Series X Edition | My Experience 2 Years Later](https://www.youtube.com/watch?v=9rn2btJWszI)❗
 - [PC GAMING vs CONSOLE GAMING](https://www.youtube.com/watch?v=VAHHJQOlvgw)
+- [PC Gaming vs. Consoles: Why You Can't Play Like Xbox Series X or PS5](https://www.youtube.com/watch?v=s7J4Pn86zj8&t=600s) I really like this video it is longer but it a good conversation about PC VS Consoles
 - [The Many Advantages of PC Gaming](https://www.youtube.com/watch?v=4wacl55qEGI)
 - [Tiny 3D-printed PC vs. Fastest Xbox](https://youtu.be/BB9w8O7Ne8w)
 - [Should You Build Your Own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&amp;t=488s)
