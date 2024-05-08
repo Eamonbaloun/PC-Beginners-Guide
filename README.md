@@ -216,7 +216,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)❗
     - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
     - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
-    - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)❗
+    - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)❗ - TLDR Buy name brand (Samsung,Crucial,Sk hynix) and make sure it has a D-Ram buffer
     - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&amp;t=346s)
     - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
     - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
