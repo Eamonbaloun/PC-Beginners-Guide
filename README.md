@@ -213,6 +213,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard](https://youtu.be/-Kn3zYIdGts)❗
     - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
+    - [4 vs 6 vs 8 Cores — Ryzen 3 vs 5 vs 7](https://m.youtube.com/watch?v=cctgXijj--k&feature=youtu.be) this is a older video but it is still a good video to show how CPU core count can change FPS
     - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)❗
     - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
     - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
