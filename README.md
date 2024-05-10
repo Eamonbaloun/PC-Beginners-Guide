@@ -316,10 +316,11 @@ I really want people who are looking for a prebuilt PC to understand exactly wha
 This step is not as difficult as it appears, but I recommend waiting until you have all of the parts before starting to build. [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos)❗ is unquestionably the best YouTuber for computer building. He is the best at demonstrating where things go and explaining why he put them where they are. Please watch at least one of his build videos from start to finish before beginning to build the computer. Then, when putting it together, follow the video step-by-step.
 
 - [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)❗
-- [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)❗
-- [A PC Build That Just Works Even If It is Your First Time.](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)❗
+- [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)
+- [A PC Build That Just Works Even If It is Your First Time.](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)
 
-- [Detailed Build Video](https://youtu.be/PWCCHiDGPjQ) I like how effectively this video demonstrates and explains each step of the PC building process. It covers everything from unpacking components to managing cables with great detail. The explanations are clear and the visuals are top-notch, making it easy for viewers of all levels to follow along and learn.
+  
+- [Detailed Build Video](https://youtu.be/PWCCHiDGPjQ)❗ I like how effectively this video demonstrates and explains each step of the PC building process. It covers everything from unpacking components to managing cables with great detail. The explanations are clear and the visuals are top-notch, making it easy for viewers of all levels to follow along and learn.
 
 - This build guide from Linus Tech Tips is also good. I would check it out if you have difficulty with 2 other build guides. _(By the way, this video is in POV, so it is easy to see what to do)_
   - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&t=554s)
