@@ -324,8 +324,9 @@ This step is not as difficult as it appears, but I recommend waiting until you h
 
 - This build guide from Linus Tech Tips is also good. I would check it out if you have difficulty with 2 other build guides. _(By the way, this video is in POV, so it is easy to see what to do)_
   - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&t=554s)
-- Another fantastic channel to keep you entertained while waiting for all your parts to arrive is [Mr Matt Lee](https://www.youtube.com/@Mr_Matt_Lee). Despite being a silent PC builder, his content boasts some of the best camera angles and quality in the community.
-  - Check out his mesmerizing [DeepCool Morpheus Gaming PC Build](https://youtu.be/AAF9_4m0eFw)!
+- Another fantastic channel to keep you entertained while waiting for all your parts to arrive is [Mr Matt Lee](https://www.youtube.com/@Mr_Matt_Lee). Despite being a silent PC builder, his content has some of the best camera angles and quality in the community.
+  - [DeepCool Morpheus Gaming PC Build](https://youtu.be/AAF9_4m0eFw)!
+  - [An Ideal 1440p Beginners Gaming PC Build](https://youtu.be/dyKnhvYZ66k)
 - [How to Build a Gaming PC in 2021 - Easy 10-minute Build Guide!](https://www.youtube.com/watch?v=sLWXvNbJMpw&t=489s)
 - This build from Linus Tech Tips is a good [Beginner Build Guide](https://www.youtube.com/watch?v=p1t8YJvOWzo). In this video, he teaches an NBA player how to build his first computer.
 - Here is a [beginners guide to gaming PC's](https://www.youtube.com/playlist?list=PLRnHcRQUxuoeQM4-llcMNXTakKZcAAyB6) playlist. This will be another place to check when you come across something you may not know. _(These videos are optional)_
