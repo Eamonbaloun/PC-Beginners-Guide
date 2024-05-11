@@ -320,7 +320,7 @@ This step is not as difficult as it appears, but I recommend waiting until you h
 - [A PC Build That Just Works Even If It is Your First Time.](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)
 
   
-- [Detailed Build Video](https://youtu.be/KGPXKgT1SEo)❗ I like how effectively this video demonstrates and explains each step of the PC building process. It covers everything from unpacking components to managing cables with great detail. The explanations are clear and the visuals are top-notch, making it easy for viewers of all levels to follow along and learn.
+- [Detailed Build Video](https://youtu.be/KGPXKgT1SEo)❗ I like how effectively this video demonstrates and explains each step of the PC building process. this video is long but worth the time to learn how to build the PC onece you have all the parts. 
 
 - This build guide from Linus Tech Tips is also good. I would check it out if you have difficulty with 2 other build guides. _(By the way, this video is in POV, so it is easy to see what to do)_
   - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&t=554s)
