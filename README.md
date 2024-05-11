@@ -315,10 +315,12 @@ I really want people who are looking for a prebuilt PC to understand exactly wha
 
 This step is not as difficult as it appears, but I recommend waiting until you have all of the parts before starting to build. [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos)❗ is unquestionably the best YouTuber for computer building. He is the best at demonstrating where things go and explaining why he put them where they are. Please watch at least one of his build videos from start to finish before beginning to build the computer. Then, when putting it together, follow the video step-by-step.
 
+Here are my 3 favorite Carey Holzman build guides any of them are good no need to watch them all
 - [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)❗
 - [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)
 - [A PC Build That Just Works Even If It is Your First Time.](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)
 
+Other Build Videos
   
 - [Detailed Build Video](https://youtu.be/KGPXKgT1SEo)❗ I like how effectively this video demonstrates and explains each step of the PC building process. this video is long but worth the time to learn how to build the PC onece you have all the parts. 
 
