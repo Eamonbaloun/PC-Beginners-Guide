@@ -325,7 +325,7 @@ Other Build Videos
 - [Detailed Build Video](https://youtu.be/KGPXKgT1SEo)❗ I like how effectively this video demonstrates and explains each step of the PC building process. this video is long but worth the time to learn how to build the PC onece you have all the parts. 
 
 - This build guide from Linus Tech Tips is also good. I would check it out if you have difficulty with 2 other build guides. _(By the way, this video is in POV, so it is easy to see what to do)_
-  - [How to build a PC (POV)](https://www.youtube.com/watch?v=v7MYOpFONCU&t=554s)
+  - [How to build a PC (POV)]([https://www.youtube.com/watch?v=v7MYOpFONCU&t=554s](https://youtu.be/DC-Xn2C_L1U))
 - Another fantastic channel to keep you entertained while waiting for all your parts to arrive is [Mr Matt Lee](https://www.youtube.com/@Mr_Matt_Lee). Despite being a silent PC builder, his content has some of the best camera angles and quality in the community.
   - [DeepCool Morpheus Gaming PC Build](https://youtu.be/AAF9_4m0eFw)!
   - [An Ideal 1440p Beginners Gaming PC Build](https://youtu.be/dyKnhvYZ66k)
