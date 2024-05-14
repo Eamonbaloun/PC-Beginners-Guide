@@ -205,7 +205,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
       
 - **PC Build Advice**
-  - [CPU usage isn't all about FPS](https://youtu.be/i0VdGZdtyjk)❗❗❗this is a really short video on why a higher CPU is better for more than FPS
+  - [CPU usage isn't all about FPS](https://youtu.be/i0VdGZdtyjk)❗❗❗this is a really short video on why more CPU cores do than what you can show in a benchmark 
   - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)❗
   - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part❗**)
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
