@@ -41,7 +41,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [PC Gaming vs. Consoles: Why You Can't Play Like Xbox Series X or PS5](https://www.youtube.com/watch?v=s7J4Pn86zj8&t=600s) I really like this video it is longer but it a good conversation about PC VS Consoles
 - [The Many Advantages of PC Gaming](https://www.youtube.com/watch?v=4wacl55qEGI)
 - [Tiny 3D-printed PC vs. Fastest Xbox](https://youtu.be/BB9w8O7Ne8w)
-- [Should You Build Your Own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&amp;t=488s)
+- [Should You Build Your Own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&t=488s)
 
 #### Understanding PC Components
 
@@ -52,7 +52,7 @@ I've been passionate about computers for over a decade and have built multiple s
 
 #### Motherboard Specifications
 
-- [Motherboards Explained](https://www.youtube.com/watch?v=b2pd3Y6aBag&amp;t=119s) - Beginner-friendly with helpful animations❗
+- [Motherboards Explained](https://www.youtube.com/watch?v=b2pd3Y6aBag&t=119s) - Beginner-friendly with helpful animations❗
 - [Motherboard Specs Explained](https://www.youtube.com/watch?v=TbGjYumO_aw)
 - [Motherboard Explained - Chipsets, Sockets, and Ports!](https://www.youtube.com/watch?v=3ZHeEOPpFLU)
 - [How to Choose a Motherboard: 3 Levels of Skill](https://www.youtube.com/watch?v=lP-pinlU-Ko)
@@ -63,14 +63,14 @@ I've been passionate about computers for over a decade and have built multiple s
 - [Understanding CPU Specs](https://www.youtube.com/watch?v=Wry_LxDba1M)
 - [CPU Names Explained](https://www.youtube.com/watch?v=JUXwl-W2az0)
 - [CPU](https://www.youtube.com/watch?v=wnS50lJicXc)
-- [CPU Cores VS Threads - Explained](https://www.youtube.com/watch?v=hwTYDQ0zZOw&amp;t=51s)
+- [CPU Cores VS Threads - Explained](https://www.youtube.com/watch?v=hwTYDQ0zZOw&t=51s)
 
 
 ### RAM Specifications
 
 - [How to Choose RAM](https://www.youtube.com/watch?v=mkpCvaBBo-c)
 - [Understanding RAM for Beginners](https://www.youtube.com/watch?v=GtEbrY4nDIQ)❗
-- [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo&amp;t=310s)
+- [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo&t=310s)
 - [How Much RAM Do You Need in 2020](https://www.youtube.com/watch?v=OT-qAQLGkGo)
 - [XMP or DOCP Settings for RAM](https://www.youtube.com/watch?v=vc8G5_sW8lk)
 
@@ -82,19 +82,19 @@ I've been passionate about computers for over a decade and have built multiple s
 - [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)
 - [Graphics Card](https://www.youtube.com/watch?v=S1xkLWaMWxQ)
 - [How Much GPU Memory Do You REALLY Need?](https://www.youtube.com/watch?v=6vuFU_EF-38)
-- [GPU Names Explained](https://www.youtube.com/watch?v=vjr0HcXl7Lc&amp;t=27s)
+- [GPU Names Explained](https://www.youtube.com/watch?v=vjr0HcXl7Lc&t=27s)
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
 
 ### Power Supply Units (PSUs)
 
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)❗
 - [Guide to Buying a Power Supply](https://youtu.be/51oo3ROtVOE)
-- [Beginner's Guide to Power Supplies... Understanding the Ratings](https://www.youtube.com/watch?v=bUh2EZzJZRU&amp;t=142s)
+- [Beginner's Guide to Power Supplies... Understanding the Ratings](https://www.youtube.com/watch?v=bUh2EZzJZRU&t=142s)
 - [PSU Explained](https://www.youtube.com/watch?v=lqThn3C-zg4)
 - [PSU Buying Guide for Creators - It's Slightly Different](https://youtu.be/xMSdmD3C50E)
 - [PSUs Explained](https://www.youtube.com/watch?v=yJ73fAJEMtk)
 - [How to Pick a Power Supply](https://www.youtube.com/watch?v=HSeIlzVxgJ4)
-- [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&amp;t=677s) – An advanced video discussing power requirements for 2020. (Still relevant in 2024.)
+- [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&t=677s) – An advanced video discussing power requirements for 2020. (Still relevant in 2024.)
 
 ### Storage Solutions 
 
@@ -110,7 +110,7 @@ I've been passionate about computers for over a decade and have built multiple s
 ### Computer Cooling 
 
 - [CPU Cooling Explained](https://www.youtube.com/watch?v=pzsPWY-ofQg)❗
-- [CPU Air Cooling vs Watercooling... Which is Right for You?](https://www.youtube.com/watch?v=RQ3c0kspOb8&amp;t=347s)
+- [CPU Air Cooling vs Watercooling... Which is Right for You?](https://www.youtube.com/watch?v=RQ3c0kspOb8&t=347s)
 - [How To Choose The BEST Fans For Your PC Build](https://www.youtube.com/watch?v=tGenFt-m7Zk)
 - [How Many Case Fans Do You REALLY Need?](https://www.youtube.com/watch?v=KTDZpYkEonY)
 - [Positive vs Negative Air Pressure](https://www.youtube.com/watch?v=g8EN3K-eaVA)
@@ -227,6 +227,7 @@ Now that you know what you'll need to build a computer, it's time to select some
 - **Used PC Parts**
   - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
     - [Don’t Get Ripped Off](https://youtu.be/QOTZyhxO_yk)
+    - [I Bought This Used Gaming PC for Cheap. Did I Get Scammed?](https://www.youtube.com/watch?v=Hfu5MmGb3cc)
     - [The Ultimate Guide - How to Build Budget Gaming PCs](https://www.youtube.com/watch?v=h0URlGf4BrM)
     - [PC Parts you should NOT buy secondhand](https://youtu.be/uMTqUBJ4Iuw)
     - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
