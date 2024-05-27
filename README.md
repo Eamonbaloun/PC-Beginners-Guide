@@ -193,8 +193,10 @@ I've been passionate about computers for over a decade and have built multiple s
 
 Now that you know what you'll need to build a computer, it's time to select some components. The first thing is to find out what resolution and refresh rate you want to game at. ([Refer to this video if you need a quick refresher](https://www.youtube.com/watch?v=imxVMrp9hdg))
 
-- **🚨🚨🚨 MUST WATCH!!!! 🚨🚨🚨**⬇️⬇️⬇️⬇️⬇️⬇️
-    - [**❗Life Is Too Short to Use a Crappy Computer❗**](https://youtu.be/NZ86k3B73mQ)
+# 🚨🚨🚨 MUST WATCH❗❗❗❗ 🚨🚨🚨⬇️⬇️⬇️⬇️⬇️⬇️
+    - ## [**❗Life Is Too Short to Use a Crappy Computer❗**](https://youtu.be/NZ86k3B73mQ) ❗❗❗❗❗❗❗
+    - ## [Give the Poor Man More CPU Cores Please](https://www.youtube.com/watch?v=wYbxcg_Ul38) ❗❗❗❗❗❗❗
+
 
   - **How to Choose Parts**
     - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)❗
@@ -211,7 +213,6 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
     - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗
     - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)❗
-    - [Give the Poor Man More CPU Cores Please](https://www.youtube.com/watch?v=wYbxcg_Ul38)
     - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard](https://youtu.be/-Kn3zYIdGts)❗
     - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
