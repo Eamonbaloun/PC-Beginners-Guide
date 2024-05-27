@@ -211,6 +211,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
     - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗
     - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)❗
+    - [Give the Poor Man More CPU Cores Please](https://www.youtube.com/watch?v=wYbxcg_Ul38)
     - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard](https://youtu.be/-Kn3zYIdGts)❗
     - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
     - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
