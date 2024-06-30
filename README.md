@@ -394,6 +394,7 @@ This is the most time-consuming and important step in ensuring that you get the 
 
 - [Using EVERY GAME LAUNCHER to get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
 - [Game Launchers - Which one?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
+- [So Steam Got More Overpowered](https://www.youtube.com/watch?v=JZYt1gCFjtI)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
