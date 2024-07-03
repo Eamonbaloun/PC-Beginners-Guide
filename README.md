@@ -241,7 +241,7 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [A Truly Bizarre Gaming PC Ad](https://youtu.be/OaTgUOKZYSM)
     - Educate yourself before buying used PCs with guidance from Greg Salazar's [playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi).
 
-- **Parts lists**
+- 🚨**Parts lists**🚨
   - Recommendations for top-performing Builds:
     - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
     - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
