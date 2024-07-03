@@ -197,45 +197,44 @@ Now that you know what you'll need to build a computer, it's time to select some
 - ## [**❗Life Is Too Short to Use a Crappy Computer❗**](https://youtu.be/NZ86k3B73mQ) 
 - ## [**❗Give the Poor Man More CPU Cores Please❗**](https://www.youtube.com/watch?v=wYbxcg_Ul38)
 
+### How to Choose Parts
+- [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)❗
+- [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
+- [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
+- [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ - I really like this video; it is only 8 minutes long and goes over a really important topic.
+- [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
+- [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
 
-  - **How to Choose Parts**
-    - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)❗
-    - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
-    - [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
-    - [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ - I really like this video; it is only 8 minutes long and goes over a really important topic.
-    - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
-    - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
-      
-- **PC Build Advice**
-  - [CPU usage isn't all about FPS](https://youtu.be/i0VdGZdtyjk)❗❗❗this is a really short video on why more CPU cores do than what you can show in a benchmark 
-  - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)❗
-  - Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part❗**)
-    - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
-    - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗
-    - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)❗
-    - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard](https://youtu.be/-Kn3zYIdGts)❗
-    - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
-    - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
-    - [4 vs 6 vs 8 Cores — Ryzen 3 vs 5 vs 7](https://m.youtube.com/watch?v=cctgXijj--k&feature=youtu.be) this is a older video but it is still a good video to show how CPU core count can change FPS. 8 cores is starting to get phased out so I would say if you wanna future proof your PC go with 12 cores.
-    - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)❗
-    - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
-    - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
-    - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)❗ - TLDR Buy name brand (Samsung,Crucial,Sk hynix) and make sure it has a D-Ram buffer
-    - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&amp;t=346s)
-    - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
-    - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
-    - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)❗
-  
-  - 🚨**Parts lists**🚨
-    - Recommendations for top-performing Builds:
-      - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
-      - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
-      - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
-      - [$600 Gaming PC Build Guide (All New Parts)](https://www.youtube.com/watch?v=9hman7NikdI)
-      - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
-      I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts. 
-      - [super quiet rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
-      - I wanna recommend 2 channels that post builds regularly are [ScatterVolt](https://youtube.com/@ScatterVolt) and [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
+### PC Build Advice
+- [CPU usage isn't all about FPS](https://youtu.be/i0VdGZdtyjk)❗❗❗this is a really short video on why more CPU cores do than what you can show in a benchmark 
+- [PC Case AIRFLOW; A Visual Guide for Optimal Cooling.](https://youtu.be/YNcd-IGMj2c)❗
+- Byte Size Tech offers valuable insights into selecting parts based on longevity and value: (**really important part❗**)
+  - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
+  - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗
+  - [Balancing Your Budget: CPU Edition](https://youtu.be/A8qy93rMaEs)❗
+  - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard](https://youtu.be/-Kn3zYIdGts)❗
+  - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
+  - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&amp;t=136s)
+  - [4 vs 6 vs 8 Cores — Ryzen 3 vs 5 vs 7](https://m.youtube.com/watch?v=cctgXijj--k&feature=youtu.be) this is a older video but it is still a good video to show how CPU core count can change FPS. 8 cores is starting to get phased out so I would say if you wanna future proof your PC go with 12 cores.
+  - [Is It OK to Use a B-Series Motherboard](https://youtu.be/1udxd2i-XDM)❗
+  - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
+  - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
+  - [What SSD Should You Buy](https://youtu.be/3RC5S2xANZA)❗ - TLDR Buy name brand (Samsung,Crucial,Sk hynix) and make sure it has a D-Ram buffer
+  - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&amp;t=346s)
+  - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
+  - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
+  - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)❗
+
+### Parts lists
+- 🚨Recommendations for top-performing Builds🚨
+  - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
+  - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
+  - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
+  - [$600 Gaming PC Build Guide (All New Parts)](https://www.youtube.com/watch?v=9hman7NikdI)
+  - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
+    - I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts.
+  - [super quiet rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
+  - I wanna recommend 2 channels that post builds regularly are [ScatterVolt](https://youtube.com/@ScatterVolt) and [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
         
 - **Used PC Parts**
   - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
