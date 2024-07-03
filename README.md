@@ -225,7 +225,18 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&amp;t=82s)
     - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
     - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&amp;t=270s)❗
-      
+  
+  - 🚨**Parts lists**🚨
+    - Recommendations for top-performing Builds:
+      - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
+      - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
+      - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
+      - [$600 Gaming PC Build Guide (All New Parts)](https://www.youtube.com/watch?v=9hman7NikdI)
+      - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
+      I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts. 
+      - [super quiet rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
+      - I wanna recommend 2 channels that post builds regularly are [ScatterVolt](https://youtube.com/@ScatterVolt) and [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
+        
 - **Used PC Parts**
   - Purchasing used parts can be risky unless you know the seller personally. Here are some cautionary videos:
     - [Don’t Get Ripped Off](https://youtu.be/QOTZyhxO_yk)
@@ -240,18 +251,6 @@ Now that you know what you'll need to build a computer, it's time to select some
     - [Good Used PC ADs](https://youtu.be/ZEgWVm5MRPA)
     - [A Truly Bizarre Gaming PC Ad](https://youtu.be/OaTgUOKZYSM)
     - Educate yourself before buying used PCs with guidance from Greg Salazar's [playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi).
-
-- 🚨**Parts lists**🚨
-  - Recommendations for top-performing Builds:
-    - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
-    - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
-    - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
-    - [$600 Gaming PC Build Guide (All New Parts)](https://www.youtube.com/watch?v=9hman7NikdI)
-    - [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
-      I really would recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) if you can. It is really good to know why he picked these parts. 
-    - [super quiet rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
-    - I wanna recommend 2 channels that post builds regularly are [ScatterVolt](https://youtube.com/@ScatterVolt) and [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
-
 
 - **PC Cases**
   - [Gamers Nexus](https://www.youtube.com/playlist?list=PLsuVSmND84QtrMP_niRTD2zIa3uUhxIvn)❗ provides comprehensive reviews and recommendations for PC cases:
