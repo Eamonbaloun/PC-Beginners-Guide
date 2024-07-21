@@ -312,7 +312,7 @@ I want anyone considering a prebuilt PC to fully understand what they are gettin
   - [Dell G5 5000 PC's Review](https://www.youtube.com/watch?v=4DMg6hUudHE)
   - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s) - This video is a review of a graphics card included with a Dell prebuilt computer.
 
-- Here is a collection of videos that will be useful if you are looking for a prebuilt computer:
+- Here is a collection of videos that will be useful if you are looking for a prebuilt computer they really show how shady some Prbuilt PC's can be.
   - [Why most pre-builds suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
   - [So We Called Dell's Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
   - [These Gaming PCs are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
