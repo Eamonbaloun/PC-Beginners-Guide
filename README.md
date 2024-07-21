@@ -297,35 +297,36 @@ Now that you know what you'll need to build a computer, it's time to select some
 
 ## 2.5 Prebuilt - (Optional)
 
-I want anyone considering a prebuilt PC to fully understand what they are getting into. Please watch these videos, as it's easy to spend a lot of money on these systems and end up with a computer that cannot even play the game you want. Prebuilt gaming PCs are often criticized for using lower-quality components, offering limited upgrade options, and having poor thermal management. Additionally, they can be more expensive than custom-built PCs with better parts.
+I want anyone considering a prebuilt PC to fully understand what they are getting into. Please watch these videos, as it's easy to spend a lot of money on these systems and end up with a computer that cannot even play the games you want. Prebuilt gaming PCs are often criticized for using lower-quality components, offering limited upgrade options, and having poor thermal management. Additionally, they can be more expensive than custom-built PCs with better parts.
 
 - [Warnings About Pre-Built PCs: Proprietary Parts, Monthly Charges, & Components](https://www.youtube.com/watch?v=cKxBogvUe_c&t=340s)
-- [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) did a series called Secret Shopper in which they went undercover and bought prebuilt computers to review; it's a really good series for understanding what makes a good prebuilt.
+- [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) did a series called Secret Shopper, in which they went undercover and bought prebuilt computers to review; it's a really good series for understanding what makes a good prebuilt.
   - [$1500 PC Secret Shopper 2 Part 1](https://www.youtube.com/watch?v=Gz7WMF4wWko)
   - [$1500 PC Secret Shopper 2 Part 2](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&t=439s)
   - [$1500 PC Secret Shopper 2 Part 3](https://www.youtube.com/watch?v=0ViO0ETvfEc&t=15s)
   - [$1500 PC Secret Shopper 2 Part 4](https://www.youtube.com/watch?v=Go5tLO6ipxw&t=1157s)
-- [Gamers Nexus](https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA) has been working on a series to find a prebuilt gaming computer that a person who knows nothing about computers can turn on and start playing games.
+- [Gamers Nexus](https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA) has been working on a series to find a prebuilt gaming computer that someone who knows nothing about computers can turn on and start playing games.
   - [NZXT BLD Review](https://www.youtube.com/watch?v=iY-SEPGvqxY&t=831s)
+  - [Starforge Review](https://youtu.be/W9YiOLX5uQU) - This is, in my opinion, the best prebuilt reviewed by Gamers Nexus. If you bought a Starforge PC, I think you would really like it.
   - [Cyberpower $1000 Pre-Built Gaming PC Review](https://www.youtube.com/watch?v=M68aE1za_Ak&t=268s)
   - [iBUYPOWER Pre-Built Gaming PC Slate MR1004 Review](https://www.youtube.com/watch?v=9sDRiakWcIM&t=1280s)
   - [Dell G5 5000 PC's Review](https://www.youtube.com/watch?v=4DMg6hUudHE)
-  - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s) - This video is a review of a graphics card included with a Dell prebuilt computer.
+  - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s) - This video reviews a graphics card included with a Dell prebuilt computer.
 
-- Here is a collection of videos that will be useful if you are looking for a prebuilt computer they really show how shady some Prbuilt PC's can be.
-  - [Why most pre-builds suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
+- Here is a collection of videos that will be useful if you are looking for a prebuilt computer; they really show how shady some prebuilt PCs can be:
+  - [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
   - [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
   - [So We Called Dell's Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
-  - [These Gaming PCs are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
+  - [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
   - [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
 
 - Dawid Does Tech Stuff reviews a lot of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma); he is one of the best when it comes to prebuilt reviews. Please watch him before you buy a prebuilt.
 - Good Prebuilds:
-  - New Egg is one of the largest online retailers in the United States for anything PC-related, and they have their own brand of PC called ABS, which is built with off-the-shelf parts and is reasonably priced. Dawid Does Tech recently reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI) and found it to be adequate for the price. It ran a little hot due to the all-glass front panel, but he made a [follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) for $50 to address the temperature issues. After adding some fans and replacing the CPU cooler this prebuilt can run E-sports games (Warzone, Apex Legends, Fortnite, Overwatch, League of Legends, etc…) over 60fps.
+  - Starforge PC has gained attention for its high-quality prebuilt systems. What sets Starforge apart is its ownership by [streamers](https://starforgesystems.com/pages/our-creators) who truly understand the gaming community's needs. Their commitment to quality is evident in their responsiveness to feedback. For instance, after receiving constructive criticism from Gamers Nexus, one of the owners addressed the issues in this [video](https://www.youtube.com/watch?v=RY4au05ukho). This level of engagement shows a genuine effort to improve their products. If you're looking for a reliable, low to high-performance gaming PC, Starforge PC is a solid option in my mind. (also a few years ago the most of owners reacted to what Linus Tech Tips had to say about Starforge [video}(https://youtu.be/1QNqpgAFjwA)
+  - New Egg is one of the largest online retailers in the United States for anything PC-related, and they have their own brand of PC called ABS, which is built with off-the-shelf parts and is reasonably priced. Dawid Does Tech recently reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI) and found it to be adequate for the price. It ran a little hot due to the all-glass front panel, but he made a [follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) for $50 to address the temperature issues. After adding some fans and replacing the CPU cooler, this prebuilt can run E-sports games (Warzone, Apex Legends, Fortnite, Overwatch, League of Legends, etc…) over 60fps.
   - If you have a Micro Center nearby, it is a great place to get help with your first PC. They offer pre-built computers from parts you select. [This video is a review of the service](https://www.youtube.com/watch?v=1FEcewDnROg&t=245s)
 - [The BEST Pre-Built Gaming PCs of 2021?!](https://www.youtube.com/watch?v=hEE3s9QLfLE)
-- [This upgrade DOUBLED our FPS and cost less than $100!](https://youtu.be/cKgCLDCFvYk)
-
+- [This Upgrade DOUBLED Our FPS and Cost Less Than $100!](https://youtu.be/cKgCLDCFvYk)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
