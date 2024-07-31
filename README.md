@@ -228,6 +228,7 @@ Now that you know what you'll need to build a computer, it's time to select some
 ### Parts lists
 - 🚨Recommendations for top-performing Builds🚨
   - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
+  - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
   - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
   - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
   - [$600 Gaming PC Build Guide (All New Parts)](https://www.youtube.com/watch?v=9hman7NikdI)
