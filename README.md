@@ -48,7 +48,8 @@ I've been passionate about computers for over a decade and have built multiple s
 - [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)❗
 - [Gaming PC Parts Explained! A Beginner's Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
 - [101 Guide to Getting Into PC Gaming](https://www.youtube.com/watch?v=ZBoxnspdNMc)
-- [What You MUST Know Before Buying A Computer](https://www.youtube.com/watch?v=EhvJRDJaofQ)
+- [What You MUST Know Before Buying A Computer](https://www.youtube.com/watch?v=EhvJRDJaofQ)\
+- [How Crash Bandicoot's Developers Used Clever Workarounds on the PS1 - War Stories - Ars Technica](https://youtu.be/izxXGuVL21o) - tust me this does have a lot info about computers it is a really fun video
 
 #### Motherboard Specifications
 
