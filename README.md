@@ -49,7 +49,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [Gaming PC Parts Explained! A Beginner's Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
 - [101 Guide to Getting Into PC Gaming](https://www.youtube.com/watch?v=ZBoxnspdNMc)
 - [What You MUST Know Before Buying A Computer](https://www.youtube.com/watch?v=EhvJRDJaofQ)\
-- [How Crash Bandicoot's Developers Used Clever Workarounds on the PS1 - War Stories - Ars Technica](https://youtu.be/izxXGuVL21o) - tust me this does have a lot info about computers it is a really fun video
+- [How Crash Bandicoot's Developers Used Clever Workarounds on the PS1 - War Stories - Ars Technica](https://youtu.be/izxXGuVL21o) - Trust me this does have a lot of information about computers. It is a really fun video and kind of a history of how games are made.
 
 #### Motherboard Specifications
 
