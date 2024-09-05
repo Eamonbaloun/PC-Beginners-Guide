@@ -155,6 +155,7 @@ I've been passionate about computers for over a decade and have built multiple s
 - [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)❗
 - [An Introduction to Graphics Settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&amp;t=73s)
+- [Star Wars Outlaws: GPU Tests, Bugs, Artifacts and more](https://youtu.be/wY7TqoVIiyw)❗- I really like this video because he shows you what each setting does in realtime and explains them too. also this is a new game so it should have most of the settings you will find in modern titles 
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&amp;t=29s)
 - [Why Is Frame Rate Important?](https://www.youtube.com/watch?v=wmmrIIZyapk)
 
