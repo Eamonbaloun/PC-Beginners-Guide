@@ -301,9 +301,10 @@ Now that you know what you'll need to build a computer, it's time to select some
 
 ## 2.5 Prebuilt - (Optional)
 
-I want anyone considering a prebuilt PC to fully understand what they are getting into. Please watch these videos, as it's easy to spend a lot of money on these systems and end up with a computer that cannot even play the games you want. Prebuilt gaming PCs are often criticized for using lower-quality components, offering limited upgrade options, and having poor thermal management. Additionally, they can be more expensive than custom-built PCs with better parts.
+I want anyone considering a prebuilt PC to fully understand what they are getting into. Please watch these videos, as it's easy to spend a lot of money on these systems and end up with a computer that cannot even play the games you want. Prebuilt gaming PCs are often criticized for using lower-quality components, offering limited upgrade options,and having poor thermal management. Additionally, they can be more expensive than custom-built PCs with better parts.
 
 - [Warnings About Pre-Built PCs: Proprietary Parts, Monthly Charges, & Components](https://www.youtube.com/watch?v=cKxBogvUe_c&t=340s)
+- [Are Pre-Built Gaming PCs Better In 2024?](https://youtu.be/9h8d8mrPSuY)- really good video on why pre-built PCs are not the best 
 - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) did a series called Secret Shopper, in which they went undercover and bought prebuilt computers to review; it's a really good series for understanding what makes a good prebuilt.
   - [$1500 PC Secret Shopper 2 Part 1](https://www.youtube.com/watch?v=Gz7WMF4wWko)
   - [$1500 PC Secret Shopper 2 Part 2](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&t=439s)
