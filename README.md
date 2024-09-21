@@ -43,6 +43,7 @@ I've been messing with computers for over a decade and have built quite a few. I
 - [The Many Advantages of PC Gaming](https://www.youtube.com/watch?v=4wacl55qEGI)
 - [Tiny 3D-printed PC vs. Fastest Xbox](https://youtu.be/BB9w8O7Ne8w)
 - [Should You Build Your Own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&t=488s)
+- [Are console gamers delusional?](https://youtu.be/YeLmUS6Q9jw) 
 
 #### Understanding PC Components
 
