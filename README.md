@@ -31,6 +31,8 @@ I've been messing with computers for over a decade and have built quite a few. I
 
 ### 1. Preparing for Your Build (_Foundational Knowledge_)
 
+- [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)❗
+
 #### Anyone Can Build a Gaming PC
 
 - [Anyone Can Build a Gaming PC](https://youtu.be/jU-N9Mc6wuA)
@@ -47,7 +49,6 @@ I've been messing with computers for over a decade and have built quite a few. I
 
 #### Understanding PC Components
 
-- [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)❗
 - [Gaming PC Parts Explained! A Beginner's Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
 - [101 Guide to Getting Into PC Gaming](https://www.youtube.com/watch?v=ZBoxnspdNMc)
 - [What You MUST Know Before Buying A Computer](https://www.youtube.com/watch?v=EhvJRDJaofQ)
