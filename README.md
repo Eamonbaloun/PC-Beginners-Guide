@@ -327,6 +327,7 @@ If you’re thinking about going the prebuilt route, it’s important to know wh
 
 A bunch of other videos show how shady some prebuilt PC companies can be:
   - [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
+  - [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
   - [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
   - [So We Called Dell’s Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
   - [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
