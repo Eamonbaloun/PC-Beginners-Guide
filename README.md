@@ -241,6 +241,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
+- [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
 - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
 - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
 - [$600 Gaming PC Build Guide (All New Parts)](https://www.youtube.com/watch?v=9hman7NikdI)
