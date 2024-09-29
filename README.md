@@ -320,6 +320,7 @@ If you’re thinking about going the prebuilt route, it’s important to know wh
   - [$1500 PC Secret Shopper 2 Part 3](https://www.youtube.com/watch?v=0ViO0ETvfEc&t=15s)
   - [$1500 PC Secret Shopper 2 Part 4](https://www.youtube.com/watch?v=Go5tLO6ipxw&t=1157s)
 - [Gamers Nexus](https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA) also has a series of videos to help find a solid prebuilt. Here are a few of my favorites:
+  - [Corsair | $4,700 Pre-Built Gaming PC Review (Corsair One I500)](https://youtu.be/Gqm4V-8F-7k)
   - [NZXT BLD Review](https://www.youtube.com/watch?v=iY-SEPGvqxY&t=831s)
   - [Starforge Review](https://youtu.be/W9YiOLX5uQU) – If you want a good prebuilt, this one is probably the best reviewed by Gamers Nexus.
   - [Cyberpower $1000 Pre-Built Gaming PC Review](https://www.youtube.com/watch?v=M68aE1za_Ak&t=268s)
