@@ -384,15 +384,10 @@ Don’t skip this step! It's super important if you want to get the most out of 
 All of the guides below are legit, even if your antivirus thinks otherwise (I’ve scanned them all on [Virus Total](https://www.youtube.com/watch?v=verKqNVshS4)):
 
 ### Windows Optimization Guides:
-- [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)
-- [Chris Titus Tech’s Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ – This is an easy-to-use tool I use on almost every PC I set up. If you only watch one of these, let it be this one! ([Here’s another vid if you need more info](https://youtu.be/OBPreMucWf0)).
+- [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
+- [Chris Titus Tech’s Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ – This is an easy-to-use tool I use on almost every PC I set up. If you only watch one of these, let it be this one! I’d definitely recommend everyone at least apply the standard settings and turn on the Ultimate Performance plan. It makes a big difference! ([Here’s another vid if you need more info](https://youtu.be/OBPreMucWf0)). 
 - [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)❗
-- [A-Z 20H2 v2 Windows 10 Optimization Guide FPS BOOST](https://www.youtube.com/watch?v=cJrEQuylzOQ&t=228s)
-- [How to Optimize Windows 10 For GAMING & Performance](https://www.youtube.com/watch?v=wkJBDEDDS5o&t=369s)
-- [Windows Apps: How to Remove Bloatware](https://www.youtube.com/watch?v=8E6OT_QcHaU) – This will help speed up your PC and free up some space.
-- [How to REALLY Make Windows 10 Super Light for Gaming](https://www.youtube.com/watch?v=IU5F01oOzQQ&t=2s)
-- [Windows 10 Advanced Optimization Guide](https://www.youtube.com/watch?v=l6uQR_aBYxg&t=457s) – This one's a bit more advanced and cuts into Windows functionality slightly. You can skip the apps part to keep Windows functional if you’re worried. Also, skip disabling services with Nsudo—it can cause issues.
-- [Overwatch | A-Z, Boost FPS & Optimization Guide](https://www.youtube.com/watch?v=cJrEQuylzOQ&t=228s)❗ – Even if you don’t play Overwatch, this guide is excellent for boosting performance without compromising functionality.
+- [https://youtu.be/PlACZ9Gp1xo](https://youtu.be/PlACZ9Gp1xo) - this is a very advaced guide on how to optimize your pc but this is the best guide bar none if you want the best of best watch this. 
 
 If you’re playing specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials) has great FPS guides:
   - [Call of Duty Warzone](https://www.youtube.com/watch?v=FU8S3srYtbg)
