@@ -325,7 +325,7 @@ If you’re thinking about going the prebuilt route, it’s important to know wh
   - [Starforge Review](https://youtu.be/W9YiOLX5uQU) – If you want a good prebuilt, this one is probably the best reviewed by Gamers Nexus.
   - [Cyberpower $1000 Pre-Built Gaming PC Review](https://www.youtube.com/watch?v=M68aE1za_Ak&t=268s)
   - [iBUYPOWER Pre-Built Gaming PC Slate MR1004 Review](https://www.youtube.com/watch?v=9sDRiakWcIM&t=1280s)
-  - [Dell G5 5000 PC's Review](https://www.youtube.com/watch?v=4DMg6hUudHE)
+  - [Dell G5 5000 PC's Review](https://www.youtube.com/watch?v=4DMg6hUudHE) -|- [Dell's Dumpster Fire: Bloatware Uses 30% Gpu (G5 5000 Review & Benchmarks)](https://youtu.be/5N7aYtkzKJc)
   - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s) – This is a review of a really bad graphics card included with a Dell prebuilt PC.
 
 A bunch of other videos show how shady some prebuilt PC companies can be:
@@ -385,6 +385,7 @@ All of the guides below are legit, even if your antivirus thinks otherwise (I’
 
 ### Windows Optimization Guides:
 - [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
+- - [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗ If you play FPS games make sure you do this
 - [Chris Titus Tech’s Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ – This is an easy-to-use tool I use on almost every PC I set up. If you only watch one of these, let it be this one! I’d definitely recommend everyone at least apply the standard settings and turn on the Ultimate Performance plan. It makes a big difference! ([Here’s another vid if you need more info](https://youtu.be/OBPreMucWf0)). 
 - [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)❗
 - [https://youtu.be/PlACZ9Gp1xo](https://youtu.be/PlACZ9Gp1xo) - this is a very advaced guide on how to optimize your pc but this is the best guide bar none if you want the best of best watch this. 
@@ -398,7 +399,14 @@ If you’re playing specific games, [Panjno](https://www.youtube.com/user/Panjno
   - [Nvidia Settings](https://www.youtube.com/watch?v=jZrnfWpENTo&t=464s)
   - [AMD Settings](https://www.youtube.com/watch?v=K1N4vV5BSoI)
   - [WIFI Settings](https://www.youtube.com/watch?v=bAke9R-k3so&t=181s)
-- [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗
+
+
+Bloatware (This is how to fix this issue [I Think You Need Revo Uninstaller](https://youtu.be/0LPZYX5UPvM))
+  - [Bloatware Benchmark: RGB Software vs. Performance (iCUE, CAM, & More)](https://youtu.be/NzAeAFudylI)
+  - [Destroying My Gaming PC with Bloatware](https://youtu.be/ziWCFkwMfSk)
+  - [BLOAT is killing your FPS](https://youtu.be/yVNkMNVv4Y4)
+
+
 
 ---
 
