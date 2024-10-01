@@ -233,6 +233,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
   - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&t=270s)❗
   
  Here are some other really good part advice from other youtubers to watch.
+ -  [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
  -  [4 Core vs. 6 Core vs. 8 Cores, Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – This is an older video, but it’s still relevant for understanding how CPU cores affect FPS. Just note, 8 cores are starting to phase out, so go for 12 cores minimum if you want to play new AAA games. (i.e ELden Ring)
  -  [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) - this video is really good for showing what makes a case bad. 
 
