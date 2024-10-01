@@ -259,8 +259,6 @@ I wanted to make a quick guide on what I think makes a solid build. This isn’t
 
 - **PSU**: This one’s straightforward, thanks to the [PSU Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just get one in the **A Tier**. 1000W PSUs are getting more affordable, so wait for a sale and go with a trusted brand. **Seasonic** is my favorite—they’re reliable and top quality.
 
----
-
 One last thing: After you’ve put together a part list, share it on [PC Part Picker](https://pcpartpicker.com) and forums. People will help you fine-tune your build—I help people all the time on Reddit. Just make sure you mention what you plan to do with the computer, like which games or programs you’ll be using, so people can give you the best advice.
 
 - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
