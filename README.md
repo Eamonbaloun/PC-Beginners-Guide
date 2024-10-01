@@ -241,7 +241,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 🚨 **Top Recommendations for Builds** 🚨
 
-I wanted to make a quick guide on what I think makes a solid build. This isn’t about specific parts, but more of a general outline of what you should aim for. *[More of anything is always better—it keeps you from buying twice!]*
+I wanted to make a quick guide on what I think makes a solid build. The key to a good build is smart spending. This isn’t about specific parts, but more of a general outline of what you should aim for. *[More of anything is always better—it keeps you from buying twice!]* Make sure to put together a part list on [PC Part Picker](https://pcpartpicker.com) and share it on forums. People will help you fine-tune your build—I help people with their part lists all the time on Reddit. Just be clear about what you want to do with your computer and the games or programs you plan to use.
 
 - **CPU**: Go for at least 8 cores, but I recommend 12 if you can. It’ll give you more headroom for multitasking and gaming.
 
@@ -258,8 +258,6 @@ I wanted to make a quick guide on what I think makes a solid build. This isn’t
 - **Case**: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets good reviews for airflow (check out Gamers Nexus or Hardware Canucks for that), you’re good. Personally, I’d recommend **Fractal Design** or **Lian Li**—both offer great airflow options. Tho If I had to recomend one case [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww) this case it as strait forward as they get 
 
 - **PSU**: This one’s straightforward, thanks to the [PSU Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just get one in the **A Tier**. 1000W PSUs are getting more affordable, so wait for a sale and go with a trusted brand. **Seasonic** is my favorite—they’re reliable and top quality.
-
-One last thing: After you’ve put together a part list, share it on [PC Part Picker](https://pcpartpicker.com) and forums. People will help you fine-tune your build—I help people all the time on Reddit. Just make sure you mention what you plan to do with the computer, like which games or programs you’ll be using, so people can give you the best advice.
 
 - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
