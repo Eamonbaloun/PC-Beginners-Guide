@@ -255,6 +255,8 @@ Case: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets
 
 PSU: This one’s straightforward, thanks to the PSU [Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just buy one in the A Tier. As for wattage, 1000W PSUs are becoming more affordable, so wait for a sale and go with a trusted brand. Seasonic is by far my favorite PSU brand—they’re reliable and top quality.
 
+One last thing: I’m not sure where this fits, but after you’ve put together a part list, on [PC Part Picker](https://pcpartpicker.com) share it on forums. People will help you fine-tune your build—I help people all the time on Reddit. Just make sure you mention what you’re trying to do with the computer, like which games or programs you’ll be using, so people can give the best advice.
+
 - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
