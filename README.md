@@ -241,21 +241,27 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 🚨 **Top Recommendations for Builds** 🚨
 
-I wanted to make a quick guide on what I think makes a solid build. This isn’t about specific parts, but more of a general outline of what you should aim for.
+I wanted to make a quick guide on what I think makes a solid build. This isn’t about specific parts, but more of a general outline of what you should aim for. *[More of anything is always better—it keeps you from buying twice!]*
 
-CPU: Go for at least 8 cores, but I recommend 12 if you can. It’ll give you more headroom for multitasking and gaming.
+- **CPU**: Go for at least 8 cores, but I recommend 12 if you can. It’ll give you more headroom for multitasking and gaming.
 
-Cooler: For air cooling, just grab the most expensive Noctua cooler (like the NH-D15) that fits your budget. If you prefer an AIO, I’d suggest the ARCTIC Liquid Freezer—solid performance for the price.
+- **GPU**: The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (DLSS). That said, I respect what AMD is doing with better specs at lower prices. For a recommendation, 12GB of VRAM is the minimum, but 16GB is ideal. Just get the best card you can afford with at least 12GB or 16GB VRAM.
 
-Motherboard: Never skimp on the motherboard. A decent $220-$350 range board will cover your needs, but if you’re going with AMD, investing in a better board is smart. AMD tends to support boards for a longer time, so you could potentially upgrade the CPU in a few years without changing your board.
+- **Cooler**: For air cooling, grab the most expensive Noctua cooler (like the NH-D15) that fits your budget. If you prefer an AIO, the **ARCTIC Liquid Freezer** offers solid performance at a good price.
 
-RAM: Pretty simple here—more is better. I wouldn’t go below 32GB, but 48GB would be ideal, especially for gaming and productivity.
+- **Motherboard**: Never skimp on the motherboard. A decent board in the $220–$350 range will cover your needs, but if you’re going with AMD, investing in a better board is a smart move. AMD tends to support boards longer, so you could upgrade the CPU in a few years without changing the board.
 
-Case: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets good reviews for airflow (check out Gamers Nexus or Hardware Canucks for that), you’re good. Personally, I’d recommend Fractal Design or Lian Li for cases—they both offer great airflow options.
+- **Storage**: An **NVMe SSD** is the only thing I’d consider these days since they’re so affordable. For storage size, 1TB drives are really cheap now. I can’t stress enough how important a DRAM buffer is—if a drive has one, it’ll say so. I recommend brands like **Samsung, SK Hynix, or Crucial**—they’re all reliable.
 
-PSU: This one’s straightforward, thanks to the PSU [Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just buy one in the A Tier. As for wattage, 1000W PSUs are becoming more affordable, so wait for a sale and go with a trusted brand. Seasonic is by far my favorite PSU brand—they’re reliable and top quality.
+- **RAM**: Simple—more is always better. I wouldn’t go below 32GB, but 48GB is ideal, especially for gaming and productivity.
 
-One last thing: I’m not sure where this fits, but after you’ve put together a part list, on [PC Part Picker](https://pcpartpicker.com) share it on forums. People will help you fine-tune your build—I help people all the time on Reddit. Just make sure you mention what you’re trying to do with the computer, like which games or programs you’ll be using, so people can give the best advice.
+- **Case**: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets good reviews for airflow (check out Gamers Nexus or Hardware Canucks for that), you’re good. Personally, I’d recommend **Fractal Design** or **Lian Li**—both offer great airflow options.
+
+- **PSU**: This one’s straightforward, thanks to the [PSU Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just get one in the **A Tier**. 1000W PSUs are getting more affordable, so wait for a sale and go with a trusted brand. **Seasonic** is my favorite—they’re reliable and top quality.
+
+---
+
+One last thing: After you’ve put together a part list, share it on [PC Part Picker](https://pcpartpicker.com) and forums. People will help you fine-tune your build—I help people all the time on Reddit. Just make sure you mention what you plan to do with the computer, like which games or programs you’ll be using, so people can give you the best advice.
 
 - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
