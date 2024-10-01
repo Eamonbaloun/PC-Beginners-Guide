@@ -241,6 +241,20 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 🚨 **Top Recommendations for Builds** 🚨
 
+I wanted to make a quick guide on what I think makes a solid build. This isn’t about specific parts, but more of a general outline of what you should aim for.
+
+CPU: Go for at least 8 cores, but I recommend 12 if you can. It’ll give you more headroom for multitasking and gaming.
+
+Cooler: For air cooling, just grab the most expensive Noctua cooler (like the NH-D15) that fits your budget. If you prefer an AIO, I’d suggest the ARCTIC Liquid Freezer—solid performance for the price.
+
+Motherboard: Never skimp on the motherboard. A decent $220-$350 range board will cover your needs, but if you’re going with AMD, investing in a better board is smart. AMD tends to support boards for a longer time, so you could potentially upgrade the CPU in a few years without changing your board.
+
+RAM: Pretty simple here—more is better. I wouldn’t go below 32GB, but 48GB would be ideal, especially for gaming and productivity.
+
+Case: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets good reviews for airflow (check out Gamers Nexus or Hardware Canucks for that), you’re good. Personally, I’d recommend Fractal Design or Lian Li for cases—they both offer great airflow options.
+
+PSU: This one’s straightforward, thanks to the PSU [Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just buy one in the A Tier. As for wattage, 1000W PSUs are becoming more affordable, so wait for a sale and go with a trusted brand. Seasonic is by far my favorite PSU brand—they’re reliable and top quality.
+
 - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
