@@ -255,7 +255,7 @@ I wanted to make a quick guide on what I think makes a solid build. This isn’t
 
 - **RAM**: Simple—more is always better. I wouldn’t go below 32GB, but 48GB is ideal, especially for gaming and productivity.
 
-- **Case**: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets good reviews for airflow (check out Gamers Nexus or Hardware Canucks for that), you’re good. Personally, I’d recommend **Fractal Design** or **Lian Li**—both offer great airflow options.
+- **Case**: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets good reviews for airflow (check out Gamers Nexus or Hardware Canucks for that), you’re good. Personally, I’d recommend **Fractal Design** or **Lian Li**—both offer great airflow options. Tho If I had to recomend one case [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww) this case it as strait forward as they get 
 
 - **PSU**: This one’s straightforward, thanks to the [PSU Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just get one in the **A Tier**. 1000W PSUs are getting more affordable, so wait for a sale and go with a trusted brand. **Seasonic** is my favorite—they’re reliable and top quality.
 
