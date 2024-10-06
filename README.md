@@ -245,13 +245,13 @@ I wanted to make a quick guide on what I think makes a solid build. The key to a
 
 - **CPU**: Go for at least 8 cores, but I recommend 12 if you can. It’ll give you more headroom for multitasking and gaming.
 
-- **GPU**: The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (DLSS). That said, I respect what AMD is doing with better specs at lower prices. For a recommendation, [12GB of VRAM is the minimum, but 16GB is ideal](https://youtu.be/dx4En-2PzOU). Just get the best card you can afford with at least 12GB or 16GB VRAM. *(Side note: if you do things other than gaming, Nvidia’s CUDA cores have been supported on most creative programs for years and this means most creative apps get a big boost to rendering and encoding thanks to the many years of updates he explains this in the video I linked really well.)*
+- **GPU**: The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (DLSS). That said, I respect what AMD is doing with better specs at lower prices. For a recommendation, [12GB of VRAM is the minimum, but 16GB is ideal](https://youtu.be/tiH-HE8wzgM). Just get the best card you can afford with at least 12GB or 16GB VRAM. *(Side note: if you do things other than gaming, Nvidia’s CUDA cores have been supported on most creative programs for years and this means most creative apps get a big boost to rendering and encoding thanks to the many years of updates he explains this in the video I linked really well.)*
 
 - **Cooler**: For air cooling, grab the most expensive Noctua cooler (like the NH-D15) that fits your budget. If you prefer an AIO, the **ARCTIC Liquid Freezer** offers solid performance at a good price.
 
 - **Motherboard**: Never skimp on the motherboard. A decent board in the $220–$350 range will cover your needs, but if you’re going with AMD, investing in a better board is a smart move. AMD tends to support boards longer, so you could upgrade the CPU in a few years without changing the board.
 
-- **Storage**: An **NVMe SSD** is the only thing I’d consider these days since they’re so affordable. For storage size, 1TB drives are really cheap now. I can’t stress enough how important a DRAM buffer is—if a drive has one, it’ll say so. I recommend brands like **Samsung, SK Hynix, or Crucial**—they’re all reliable.
+- **Storage**: An **NVMe SSD** is the only thing I’d consider these days since they’re so affordable. For storage size, 1TB drives are really cheap now. I can’t stress enough how important a DRAM buffer is—if a drive has one, it’ll say so. I recommend brands like **Samsung, SK Hynix, or Crucial**—they’re all eliable.
 
 - **RAM**: Simple—more is always better. I wouldn’t go below 32GB, but 48GB is ideal, especially for gaming and productivity.
 
