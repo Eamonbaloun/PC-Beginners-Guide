@@ -234,7 +234,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
   
  Here are some other really good part advice from other youtubers to watch.
  -  [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
- -  [How Bad Is 8GB of VRAM in 2023? The Newest Games, RT On/off, Ultra, High, 1080p, 1440p, 4K](https://youtu.be/_-j1vdMV1Cc) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024? Newest Games Tested](https://youtu.be/P2qs2lLdWHY) these 2 videos show how VRAM impacts gaming preformence really good watch when looking for what gpu to buy
+ -  [How Bad Is 8GB of VRAM in 2024? The Newest Games, RT On/off, Ultra, High, 1080p, 1440p, 4K](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024? Newest Games Tested](https://youtu.be/P2qs2lLdWHY) these 2 videos show how VRAM impacts gaming preformence really good watch when looking for what gpu to buy
  -  [4 Core vs. 6 Core vs. 8 Cores, Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – This is an older video, but it’s still relevant for understanding how CPU cores affect FPS. Just note, 8 cores are starting to phase out, so go for 12 cores minimum if you want to play new AAA games. (i.e ELden Ring)
  -  [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) - this video is really good for showing what makes a case bad. 
 
