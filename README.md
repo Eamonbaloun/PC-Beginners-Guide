@@ -242,23 +242,41 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 🚨 **Top Recommendations for Builds** 🚨
 
-I wanted to make a quick guide on what I think makes a solid build. The key to a good build is smart spending. This isn’t about specific parts, but more of a general outline of what you should aim for. *[More of anything is always better—it keeps you from buying twice!]* Make sure to put together a part list on [PC Part Picker](https://pcpartpicker.com) and share it on forums. People will help you fine-tune your build—I help people with their part lists all the time on Reddit. Just be clear about what you want to do with your computer and the games or programs you plan to use.
+# Guide to Building a Solid PC
 
-- **CPU**: Go for at least 8 cores, but I recommend 12 if you can. It’ll give you more headroom for multitasking and gaming.
+I wanted to make a quick guide on what I think makes a solid build. The key to a good build is smart spending. This isn’t about specific parts, but more of a general outline of what you should aim for. **It’s important to invest wisely now so you don’t end up paying twice later.** Skimping on parts might seem like a good idea in the short term, but you’ll likely have to upgrade sooner than expected when performance starts to lag. Paying a little more upfront ensures that your system remains relevant longer, which saves you the cost (and headache) of having to replace parts prematurely.
 
-- **GPU**: The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (DLSS). That said, I respect what AMD is doing with better specs at lower prices. For a recommendation, [12GB of VRAM is the minimum, but 16GB is ideal](https://youtu.be/tiH-HE8wzgM). Just get the best card you can afford with at least 12GB or 16GB VRAM. *(Side note: if you do things other than gaming, Nvidia’s CUDA cores have been supported on most creative programs for years and this means most creative apps get a big boost to rendering and encoding thanks to the many years of updates he explains this in the video I linked really well.)*
+Make sure to put together a part list on [PC Part Picker](https://pcpartpicker.com) and share it on forums. People will help you fine-tune your build—I help people with their part lists all the time on Reddit. Just be clear about what you want to do with your computer and the games or programs you plan to use.
 
-- **Cooler**: For air cooling, grab the most expensive Noctua cooler (like the NH-D15) that fits your budget. If you prefer an AIO, the **ARCTIC Liquid Freezer** offers solid performance at a good price.
+### CPU
+Go for at least 8 cores, but I recommend 12 if you can. This gives you more headroom for multitasking and gaming. Spending a little more here means your CPU won’t bottleneck your GPU or slow down under heavier workloads a few years down the line. More cores provide better performance longevity.
 
-- **Motherboard**: Never skimp on the motherboard. A decent board in the $220–$350 range will cover your needs, but if you’re going with AMD, investing in a better board is a smart move. AMD tends to support boards longer, so you could upgrade the CPU in a few years without changing the board.
+### GPU
+The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (like DLSS). That said, AMD offers great specs at lower prices. My advice: **12GB of VRAM is the minimum, but 16GB is ideal**. Spend more if you can—going for a higher-end GPU upfront prevents you from needing an upgrade when newer games demand more power.  
+*(Side note: if you do creative work, Nvidia’s CUDA cores have been supported on most creative programs for years, offering a huge boost to rendering and encoding. Check out the video I linked for more detail.)*
 
-- **Storage**: An **NVMe SSD** is the only thing I’d consider these days since they’re so affordable. For storage size, 1TB drives are really cheap now. I can’t stress enough how important a DRAM buffer is—if a drive has one, it’ll say so. I recommend brands like **Samsung, SK Hynix, or Crucial**—they’re all eliable.
+### Cooler
+Cooling is crucial to your system’s performance and longevity. Whether you’re choosing air or liquid, **go for the best cooler you can afford**. Better cooling will let your system run faster for longer without throttling, meaning you won’t need to upgrade as often. For air, I recommend Noctua’s NH-D15. For AIO, the **ARCTIC Liquid Freezer** is a great choice.
 
-- **RAM**: Simple—more is always better. I wouldn’t go below 32GB, but 48GB is ideal, especially for gaming and productivity.
+### Motherboard
+Never skimp on the motherboard. A solid motherboard in the $220–$350 range will cover your needs and give you better longevity. If you’re going with AMD, investing in a higher-end board can extend the life of your system since AMD tends to support their platforms longer. This means you can upgrade your CPU down the line without needing to replace the motherboard too.
 
-- **Case**: Go for airflow, airflow, airflow! A mesh design is key. As long as it gets good reviews for airflow (check out Gamers Nexus or Hardware Canucks for that), you’re good. Personally, I’d recommend **Fractal Design**, **Lian Li**, or **Be Quiet** they all offer great airflow options. Tho If I had to recomend one case [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww) this case is as strait forward as they get 
+### Storage
+An **NVMe SSD** is essential these days, especially since prices have dropped. Go for at least 1TB with a DRAM buffer for better performance. **Samsung, SK Hynix, or Crucial** are reliable brands. Higher-quality drives ensure better performance over time and prevent the need for an early upgrade.
 
-- **PSU**: This one’s straightforward, thanks to the [PSU Tier List](https://cultists.network/140/psu-tier-list/). Finding a good power supply is easy—just get one in the **A Tier**. 1000W PSUs are getting more affordable, so wait for a sale and go with a trusted brand. **Seasonic** is my favorite—they’re reliable and top quality.
+### RAM
+Don’t cheap out here either. More RAM is always better for both gaming and productivity. I wouldn’t go below 32GB, but 48GB is ideal for future-proofing. **Spending a bit more now on RAM ensures smoother multitasking and gaming as newer applications demand more.**
+
+### Case
+Airflow is king! A mesh case design with great airflow is essential for keeping your system cool and running optimally. A hot system reduces performance over time and can cause parts to wear out faster. **Fractal Design**, **Lian Li**, and **Be Quiet** make excellent cases, but the [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww) is a solid, no-nonsense option I highly recommend.
+
+### PSU
+A good PSU can last you through several builds. Stick with the [PSU Tier List](https://cultists.network/140/psu-tier-list/) and aim for **A Tier**. Don’t settle for lower-rated PSUs that could fail under load and risk damaging your parts. Spending more here on a high-quality PSU, like a **Seasonic** 1000W, ensures stable power delivery and room for future upgrades, saving you money on replacements later.
+
+---
+
+By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
+
 
 - [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
