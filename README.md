@@ -242,7 +242,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 🚨 **Top Recommendations for Builds** 🚨
 
-# Guide to Building a Solid PC
+Guide to Building a Solid PC
 
 I wanted to make a quick guide on what I think makes a solid build. The key to a good build is smart spending. This isn’t about specific parts, but more of a general outline of what you should aim for. **It’s important to invest wisely now so you don’t end up paying twice later.** Skimping on parts might seem like a good idea in the short term, but you’ll likely have to upgrade sooner than expected when performance starts to lag. Paying a little more upfront ensures that your system remains relevant longer, which saves you the cost (and headache) of having to replace parts prematurely.
 
