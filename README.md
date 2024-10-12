@@ -256,7 +256,7 @@ The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I�
 *(Side note: if you do creative work, Nvidia’s CUDA cores have been supported on most creative programs for years, offering a huge boost to rendering and encoding. Check out the video I linked for more detail.)*
 
 ### Cooler
-Cooling is crucial to your system’s performance and longevity. Whether you’re choosing air or liquid, **go for the best cooler you can afford**. Better cooling will let your system run faster for longer without throttling, meaning you won’t need to upgrade as often. For air, I recommend Noctua’s NH-D15. For AIO, the **ARCTIC Liquid Freezer** is a great choice.
+Cooling is crucial to your system’s performance and longevity. Whether you’re choosing air or liquid, **Noctua is my go too company for air cooling. go for the best cooler you can afford**. Better cooling will let your system run faster for longer without throttling, meaning you won’t need to upgrade as often. For air, I recommend Noctua’s NH-D15. For AIO, the **ARCTIC Liquid Freezer** is a great choice.
 
 ### Motherboard
 Never skimp on the motherboard. A solid motherboard in the $220–$350 range will cover your needs and give you better longevity. If you’re going with AMD, investing in a higher-end board can extend the life of your system since AMD tends to support their platforms longer. This means you can upgrade your CPU down the line without needing to replace the motherboard too.
