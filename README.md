@@ -254,7 +254,7 @@ Go for at least 8 cores, but I recommend 12 if you can. This gives you more head
 
 ### GPU
 The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (like DLSS). That said, AMD offers great specs at lower prices. My advice: **12GB of VRAM is the minimum, but 16GB is ideal**. Spend more if you can—going for a higher-end GPU upfront prevents you from needing an upgrade when newer games demand more power. As to which brand to buy I would refer to this video [Which Brand of GPU Should You Buy in 2024?](https://youtu.be/LBbU7yBQ9qo)
-*(Side note: if you do creative work, Nvidia’s CUDA cores have been supported on most creative programs for years, offering a huge boost to rendering and encoding. Check out the video I linked for more detail.)*
+*(Side note: if you do creative work, Nvidia’s CUDA cores have been supported on most creative programs for years, offering a huge boost to rendering and encoding. Check out the first video called NVIDA or AMD for more detail.)*
 
 ### Cooler
 Cooling is crucial to your system’s performance and longevity. Whether you’re choosing air or liquid, **Noctua is my go too company for air cooling. go for the best cooler you can afford**. Better cooling will let your system run faster for longer without throttling, meaning you won’t need to upgrade as often. For air, I recommend Noctua’s NH-D15. For AIO, the **ARCTIC Liquid Freezer** is a great choice.
