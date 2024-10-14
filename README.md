@@ -253,7 +253,7 @@ Make sure to put together a part list on [PC Part Picker](https://pcpartpicker.c
 Go for at least 8 cores, but I recommend 12 if you can. This gives you more headroom for multitasking and gaming. Spending a little more here means your CPU won’t bottleneck your GPU or slow down under heavier workloads a few years down the line. More cores provide better performance longevity.
 
 ### GPU
-The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (like DLSS). That said, AMD offers great specs at lower prices. My advice: **12GB of VRAM is the minimum, but 16GB is ideal**. Spend more if you can—going for a higher-end GPU upfront prevents you from needing an upgrade when newer games demand more power.  
+The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I’ve never bought an AMD GPU because I find Nvidia’s price premium worth it for better drivers, stability, and features (like DLSS). That said, AMD offers great specs at lower prices. My advice: **12GB of VRAM is the minimum, but 16GB is ideal**. Spend more if you can—going for a higher-end GPU upfront prevents you from needing an upgrade when newer games demand more power. As to which brand to buy I would refer to this video [Which Brand of GPU Should You Buy in 2024?](https://youtu.be/LBbU7yBQ9qo)
 *(Side note: if you do creative work, Nvidia’s CUDA cores have been supported on most creative programs for years, offering a huge boost to rendering and encoding. Check out the video I linked for more detail.)*
 
 ### Cooler
