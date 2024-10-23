@@ -154,10 +154,12 @@ I've been messing with computers for over a decade and have built quite a few. I
 - [PC Graphics Settings Explained | Antialiasing, Vsync and More!](https://www.youtube.com/watch?v=793FHtSH8pg)
 - [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)❗
+- [Real-Time Ray Tracing Explained](https://youtu.be/lFnWy0Odsh8)❗
 - [An Introduction to Graphics Settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&t=73s)
 - [Star Wars Outlaws: GPU Tests, Bugs, Artifacts and more](https://youtu.be/wY7TqoVIiyw)❗ – This is a newer video that’s great for seeing modern graphics settings in action.
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&t=29s)
 - [Why Is Frame Rate Important?](https://www.youtube.com/watch?v=wmmrIIZyapk)
+- [Is Ray Tracing Good?](https://youtu.be/DBNH0NyN8K8)
 
 ### Additional Learning Resources
 
