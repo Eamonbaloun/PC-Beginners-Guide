@@ -1,3 +1,5 @@
+**AT THE MOMENT I CAN"T RECOMEND INTEL CPU'S 13TH and 14TH GEN** *([click here to find out why](https://youtu.be/IcUMQQr6oBc))*
+
 # Beginner's Guide to Building a Gaming PC
 
 Hey! So you're new to building your own gaming PC? No worries, I got you! This guide is made just for you. Building can feel a bit overwhelming at first, but trust me, with the right help, you'll have your dream gaming setup running in no time.
