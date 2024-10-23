@@ -242,7 +242,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
  -  [How Bad Is 8GB of VRAM in 2024? The Newest Games, RT On/off, Ultra, High, 1080p, 1440p, 4K](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024? Newest Games Tested](https://youtu.be/P2qs2lLdWHY) these 2 videos show how VRAM impacts gaming preformence really good watch when looking for what gpu to buy
  -  [4 Core vs. 6 Core vs. 8 Cores, Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – This is an older video, but it’s still relevant for understanding how CPU cores affect FPS. Just note, 8 cores are starting to phase out, so go for 12 cores minimum if you want to play new AAA games. (i.e ELden Ring) really focaus on how more cores affect preformece this would be same thing going from 8 to 12 to 16 what really matters is the core scalling
  -  [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) - this video is really good for showing what makes a case bad.
- -  
+ -  [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) In this video, he explains why ultra settings aren’t worth it for most gamers, as the performance hit is significant with minimal visual improvement over high settings. He breaks down how you can get way better FPS without losing noticeable visual quality. this is something to think about when putting a build together. 
 
 ### Parts Lists
 
@@ -262,7 +262,7 @@ The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I�
 *(Side note: if you do creative work, Nvidia’s CUDA cores have been supported on most creative programs for years, offering a huge boost to rendering and encoding. Check out the first video called NVIDA or AMD for more detail.)*
 
 ### Cooler
-Cooling is important part to your system’s performance and longevity. Whether you’re choosing air or liquid, **Noctua is my go too company for CPU cooling. go for the most expensive Noctua cooler you can afford**. Better cooling will let your system run faster for longer without throttling, meaning you won’t need to upgrade as often. For air, I recommend Noctua’s NH-D15. For AIO, the **ARCTIC Liquid Freezer** is a great choice. TLDR get a Noctua cooler.
+Cooling is important part to your system’s performance and longevity. Whether you’re choosing air or liquid, [**Noctua is my go too company for CPU cooling. go for the most expensive Noctua cooler you can afford**](https://noctua.at/en/products/cpu-cooler-retail/buying-guide-cpu-coolers). Better cooling will let your system run faster for longer without throttling, meaning you won’t need to upgrade as often. For air, I recommend Noctua’s NH-D15. For AIO, the **ARCTIC Liquid Freezer** is a great choice. TLDR get a Noctua cooler.
 
 ### Motherboard
 Never skimp on the motherboard. A solid motherboard in the $220–$350 range will cover your needs and give you better longevity. If you’re going with AMD, investing in a higher-end board can extend the life of your system since AMD tends to support their platforms longer. This means you can upgrade your CPU down the line without needing to replace the motherboard too.
