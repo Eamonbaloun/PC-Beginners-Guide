@@ -153,6 +153,7 @@ I've been messing with computers for over a decade and have built quite a few. I
 
 - [PC Graphics Settings Explained | Antialiasing, Vsync and More!](https://www.youtube.com/watch?v=793FHtSH8pg)
 - [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
+- [What Is Ray Tracing?](https://www.youtube.com/watch?v=0FMlPUEAZfs)❗
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)❗
 - [Real-Time Ray Tracing Explained](https://youtu.be/lFnWy0Odsh8)❗
 - [An Introduction to Graphics Settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&t=73s)
