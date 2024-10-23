@@ -155,7 +155,7 @@ I've been messing with computers for over a decade and have built quite a few. I
 - [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
 - [What Is Ray Tracing?](https://www.youtube.com/watch?v=0FMlPUEAZfs)❗
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)❗
-- [Real-Time Ray Tracing Explained](https://youtu.be/lFnWy0Odsh8)❗
+- [Real-Time Ray Tracing Explained](https://youtu.be/lFnWy0Odsh8)❗ - this is a really good video but I would watch after watching the Techquickie video What is Ray Tracing?
 - [An Introduction to Graphics Settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&t=73s)
 - [Star Wars Outlaws: GPU Tests, Bugs, Artifacts and more](https://youtu.be/wY7TqoVIiyw)❗ – This is a newer video that’s great for seeing modern graphics settings in action.
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&t=29s)
