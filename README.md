@@ -432,6 +432,7 @@ Don’t skip this step! It's super important if you want to get the most out of 
 All of the guides below are legit, even if your antivirus thinks otherwise (I’ve scanned them all on [Virus Total](https://www.youtube.com/watch?v=verKqNVshS4)):
 
 ### Windows Optimization Guides:
+- [Always Do THIS with a new Gaming PC!](https://youtu.be/Hk1N18LBizg)
 - [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
 - - [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗ If you play FPS games make sure you do this
 - [Chris Titus Tech’s Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ – This is an easy-to-use tool I use on almost every PC I set up. If you only watch one of these, let it be this one! I’d definitely recommend everyone at least apply the standard settings and turn on the Ultimate Performance plan. It makes a big difference! ([Here’s another vid if you need more info](https://youtu.be/OBPreMucWf0)). 
