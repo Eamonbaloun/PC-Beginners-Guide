@@ -438,24 +438,24 @@ All of the guides below are legit, even if your antivirus thinks otherwise (I’
 - [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)❗
 - [https://youtu.be/PlACZ9Gp1xo](https://youtu.be/PlACZ9Gp1xo) - this is a very advaced guide on how to optimize your pc but this is the best guide bar none if you want the best of best watch this. 
 
-If you’re playing specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials) has great FPS guides:
-  - [Call of Duty Warzone](https://www.youtube.com/watch?v=FU8S3srYtbg)
-  - [Rainbow Six Siege](https://www.youtube.com/watch?v=Q5psNE7nGCg)
-  - [Valorant](https://www.youtube.com/watch?v=OWFnl2dZfQo)
-  - [Apex Legends](https://www.youtube.com/watch?v=SdqvkbDP4Dc)
-  - [GPU Overclock](https://www.youtube.com/watch?v=k1dGwFOdFLI&t=646s)
-  - [Nvidia Settings](https://www.youtube.com/watch?v=jZrnfWpENTo&t=464s)
-  - [AMD Settings](https://www.youtube.com/watch?v=K1N4vV5BSoI)
-  - [WIFI Settings](https://www.youtube.com/watch?v=bAke9R-k3so&t=181s)
-
+If you’re playing specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials)❗ has great FPS guides
 
 Bloatware (This is how to fix this issue [I Think You Need Revo Uninstaller](https://youtu.be/0LPZYX5UPvM))
   - [Bloatware Benchmark: RGB Software vs. Performance (iCUE, CAM, & More)](https://youtu.be/NzAeAFudylI)
   - [Destroying My Gaming PC with Bloatware](https://youtu.be/ziWCFkwMfSk)
   - [BLOAT is killing your FPS](https://youtu.be/yVNkMNVv4Y4)
 
+Bloatware (This is how to fix this issue [I Think You Need Revo Uninstaller](https://youtu.be/0LPZYX5UPvM))
+  - [Bloatware Benchmark: RGB Software vs. Performance (iCUE, CAM, & More)](https://youtu.be/NzAeAFudylI)
+  - [Destroying My Gaming PC with Bloatware](https://youtu.be/ziWCFkwMfSk)
+  - [BLOAT is killing your FPS](https://youtu.be/yVNkMNVv4Y4)
 
-
+Good software (Most free some paid)
+  - [Free Programs that EVERY PC should have!](https://youtu.be/xyPY9_h4vZs)
+  - [The Free Software I Install on Every Gaming PC](https://youtu.be/XCIJWLCFRb4)
+  - [How to Set Up Your Fans](https://www.youtube.com/watch?v=aJ0rp2d6Voc)
+  - [PC Antivirus Tier List by Chris Titus Tech](https://youtu.be/xKrHWM1VeFQ)
+  - 
 ---
 
 ## 5. Gaming Time!!!!!
