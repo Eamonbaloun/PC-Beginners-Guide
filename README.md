@@ -283,7 +283,6 @@ Don’t cheap out here either. More RAM is always better for both gaming and pro
 ### PSU
 A good PSU can last you through several builds. Stick with the [PSU Tier List](https://cultists.network/140/psu-tier-list/) and aim for **A Tier**. Don’t settle for lower-rated PSUs that could fail under load and risk damaging your parts. Spending more here on a high-quality PSU, like a **Seasonic** 1000W, ensures stable power delivery and room for future upgrades, saving you money on replacements later.
 
----
 
 By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
 
