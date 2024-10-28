@@ -81,18 +81,28 @@ I've been messing with computers for over a decade and have built quite a few. I
 
 ### GPU Specifications
 
-the GPU is the most important component when looking at a gaming PC. For this reason, this section of the tutorial is longer than the others. Please make sure you fully grasp a GPU before continuing. 
+The GPU is the most important component when looking at a gaming PC. For this reason, this section of the tutorial is longer than the others. Please make sure you fully grasp a GPU before continuing. 
 - [GPUs and Graphics Cards Explained](https://www.youtube.com/watch?v=Kgcfj_KV-mo)❗
 - [Graphics Processing Unit (GPU)](https://youtu.be/bZdxcHEM-uc)❗ - This video has really good visuals that illustrate how a gpu works
-- [Graphics Card Specs: The Basics](https://www.youtube.com/watch?v=IR0e9hdSkI0)
+- [GPU Terms Explained: Compute Units, Vram, Clock Speeds & Much More](https://youtu.be/g_L8MqzIkZI?list=PLJw2-YrAPHYFOHFa7bxFMyyu80l72SCUF)
 - [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk)❗ – This one also has good animations and explains the inside of a GPU really well!
 - [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)❗ - this is old video just the guy explains everything really well I really like this video
 - [How to Choose a Graphics Card for Beginners](https://youtu.be/8hyWXJe_wts)❗ - this explains things you find when you go to buy a gpu good to know if you choose to but your own pc instead of pre-built
 - [VRAM Explained: How It Works & How Much You Need for Gaming](https://youtu.be/rTG1tziWF-A)
+- [Upscaling Explained: Dlss vs XeSS vs FSR & More](https://youtu.be/Chpb3yNypxY)
 - [GPU Names Explained](https://www.youtube.com/watch?v=vjr0HcXl7Lc&t=27s)
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
 - [Gpu Names Explained - Rtx, Gtx, Rx](https://youtu.be/vjr0HcXl7Lc) - Really short video that will clear up a lot of confusion when looking at all the names there are for GPU'S
 - [What Actually Uses Your VRAM?](https://youtu.be/ehUbCsNLSrI)
+- Nvidia and AMD have different features that make them uniquie not all features will work on different brands GPUS like DLSS is only on Nvidia GPU
+  - Nvidia 
+    - [What Is RTX?](https://youtu.be/kp-VfBb5zzw)
+    - [What Is Nvidia Reflex? - Measuring & Optimizing Latency for PC Games](https://youtu.be/BSH225-FqTo)
+    - [Double Your FPS for Free with AI Upscaling!- Nvidia Dlss 3.0](https://youtu.be/PUTsE1q1bYI)
+    - [What Is Dlss in Games?](https://youtu.be/jx9RmxVG6EQ)
+    - [Explaining Nvidia Dlss so You Can Actually Understand It](https://youtu.be/1Elti_jUqhc)
+  - AMD
+    - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
 
 ### Power Supply Units (PSUs)
 
