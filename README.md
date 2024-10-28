@@ -90,7 +90,6 @@ The GPU is the most important component when looking at a gaming PC. For this re
 - [How to Choose a Graphics Card for Beginners](https://youtu.be/8hyWXJe_wts)❗ - this explains things you find when you go to buy a gpu good to know if you choose to but your own pc instead of pre-built
 - [VRAM Explained: How It Works & How Much You Need for Gaming](https://youtu.be/rTG1tziWF-A)
 - [Upscaling Explained: Dlss vs XeSS vs FSR & More](https://youtu.be/Chpb3yNypxY)
-- [GPU Names Explained](https://www.youtube.com/watch?v=vjr0HcXl7Lc&t=27s)
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
 - [Gpu Names Explained - Rtx, Gtx, Rx](https://youtu.be/vjr0HcXl7Lc) - Really short video that will clear up a lot of confusion when looking at all the names there are for GPU'S
 - [What Actually Uses Your VRAM?](https://youtu.be/ehUbCsNLSrI)
