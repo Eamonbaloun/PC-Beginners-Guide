@@ -81,14 +81,18 @@ I've been messing with computers for over a decade and have built quite a few. I
 
 ### GPU Specifications
 
-- [GPUs and Graphics Cards Explained](https://www.youtube.com/watch?v=Kgcfj_KV-mo)
+the GPU is the most important component when looking at a gaming PC. For this reason, this section of the tutorial is longer than the others. Please make sure you fully grasp a GPU before continuing. 
+- [GPUs and Graphics Cards Explained](https://www.youtube.com/watch?v=Kgcfj_KV-mo)❗
+- [Graphics Processing Unit (GPU)](https://youtu.be/bZdxcHEM-uc)❗ - This video has really good visuals that illustrate how a gpu works
 - [Graphics Card Specs: The Basics](https://www.youtube.com/watch?v=IR0e9hdSkI0)
-- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk)❗ – This one looks cool and explains the guts of a GPU!
-- [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)
-- [Graphics Card](https://www.youtube.com/watch?v=S1xkLWaMWxQ)
-- [How Much GPU Memory Do You REALLY Need?](https://www.youtube.com/watch?v=6vuFU_EF-38)
+- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk)❗ – This one also has good animations and explains the inside of a GPU really well!
+- [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)❗ - this is old video just the guy explains everything really well I really like this video
+- [How to Choose a Graphics Card for Beginners](https://youtu.be/8hyWXJe_wts)❗ - this explains things you find when you go to buy a gpu good to know if you choose to but your own pc instead of pre-built
+- [VRAM Explained: How It Works & How Much You Need for Gaming](https://youtu.be/rTG1tziWF-A)
 - [GPU Names Explained](https://www.youtube.com/watch?v=vjr0HcXl7Lc&t=27s)
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
+- [Gpu Names Explained - Rtx, Gtx, Rx](https://youtu.be/vjr0HcXl7Lc) - Really short video that will clear up a lot of confusion when looking at all the names there are for GPU'S
+- [What Actually Uses Your VRAM?](https://youtu.be/ehUbCsNLSrI)
 
 ### Power Supply Units (PSUs)
 
