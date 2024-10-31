@@ -322,6 +322,7 @@ If you’re thinking about buying **used PC parts**, make sure to check these ca
 - [The Ultimate Guide - How to Build Budget Gaming PCs](https://www.youtube.com/watch?v=h0URlGf4BrM)
 - [PC Parts You Should NOT Buy Secondhand](https://youtu.be/uMTqUBJ4Iuw)
 - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
+- [These Gaming PC Ads Are Clinically Insane](https://youtu.be/C1kungIywpQ)
 - [How to Get the Most for Your Money!](https://youtu.be/Qk8qVYAzOYA)
 - [You SHOULD Buy Used GPUs - Testing Used Mining Cards](https://youtu.be/UFytB3bb1P8)
 - [I Got a CRAZY Deal on This USED PC!](https://youtu.be/B_m21njq_jo)
