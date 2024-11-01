@@ -300,7 +300,7 @@ A good PSU can last you through several builds. Stick with the [PSU Tier List](h
 By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
 
 Here are some good builds from youtubers that show full part lists so if that is something your looking for here are some good choices. 
-- [Best & Budget Peripheral & PC Builds](https://youtu.be/E8ZGw9FmRMw)❗
+- [Best PC Part Picker lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ - These are really good builds Fr33thy is hands down the best fps tester on youtube. here is the video he did on the [builds](https://youtu.be/E8ZGw9FmRMw)
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
