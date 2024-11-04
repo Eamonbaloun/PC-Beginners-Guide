@@ -108,6 +108,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
     - [Explaining Nvidia Dlss so You Can Actually Understand It](https://youtu.be/1Elti_jUqhc)
   - AMD
     - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
+    - [Is Ray Tracing Useable at 1440p? Rx 6800Xt 6 Games Tested](https://www.youtube.com/watch?v=MEXtG2JE5D4)
 
 ### Power Supply Units (PSUs)
 
