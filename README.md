@@ -10,7 +10,7 @@ Building your own gaming PC isn't just about saving money (though, that's a nice
 
 ## What You'll Find in This Guide
 
-I’ve got you covered from start to finish—choosing the right parts to actually putting your rig together. Ready? Let’s dive in!
+I’ve got you covered from start to finish—choosing the right parts to actually putting your rig together. 
 
 ### Tips for Watching the Videos
 
@@ -25,6 +25,7 @@ I've been messing with computers for over a decade and have built quite a few. I
 ## Disclaimer
 
 - Videos marked with ❗ are **must-watch**, no skipping!
+- **No single source has all the answers, which is why you'll find multiple videos from different creators included here.**
 - You might notice some overlap between videos—don’t sweat it, repetition is good!
 - Stick to trustworthy content creators so you’re getting accurate info.
 - Some videos might be a bit older, but the core principles don’t change much. So don’t worry!
@@ -267,7 +268,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 Guide to Building a Solid PC
 
-I wanted to make a quick guide on what I think makes a solid build. The key to a good build is smart spending. This isn’t about specific parts, but more of a general outline of what you should aim for. It’s important to invest wisely now so you don’t end up paying twice later. Skimping on parts might seem like a good idea in the short term, but you’ll likely have to upgrade sooner than expected when performance starts to lag. Paying a little more upfront ensures that your system remains relevant longer, which saves you the cost (and headache) of having to replace parts prematurely. One last thing: always research what your game or program best benefits from in terms of hardware. Different applications and games have unique demands, so knowing what components they rely on most—whether it's CPU power, GPU performance, or more RAM—will help you allocate your budget more effectively.
+I wanted to make a quick guide on what I think makes a solid build. The key to a good build is smart spending. This isn’t about specific parts, but more of a general outline of what you should aim for. It’s important to invest wisely now so you don’t end up paying twice later. Skimping on parts might seem like a good idea in the short term, but you’ll likely have to upgrade sooner than expected when performance starts to lag. Paying a little more upfront ensures that your system remains relevant longer, which saves you the cost (and headache) of having to replace parts prematurely. One last thing: always research what your game or program best benefits from in terms of hardware. Different applications and games have unique demands, so knowing what components they rely on most—whether it's CPU power, GPU performance, or more RAM—will help you allocate your budget more effectively. No single source has all the answers, which is why you'll find multiple videos from different creators included here. 
 
 Make sure to put together a part list on [PC Part Picker](https://pcpartpicker.com) and share it on forums. People will help you fine-tune your build—I help people with their part lists all the time on Reddit. Just be clear about what you want to do with your computer and the games or programs you plan to use.
 
@@ -461,17 +462,12 @@ Bloatware (This is how to fix this issue [I Think You Need Revo Uninstaller](htt
   - [Destroying My Gaming PC with Bloatware](https://youtu.be/ziWCFkwMfSk)
   - [BLOAT is killing your FPS](https://youtu.be/yVNkMNVv4Y4)
 
-Bloatware (This is how to fix this issue [I Think You Need Revo Uninstaller](https://youtu.be/0LPZYX5UPvM))
-  - [Bloatware Benchmark: RGB Software vs. Performance (iCUE, CAM, & More)](https://youtu.be/NzAeAFudylI)
-  - [Destroying My Gaming PC with Bloatware](https://youtu.be/ziWCFkwMfSk)
-  - [BLOAT is killing your FPS](https://youtu.be/yVNkMNVv4Y4)
-
 Good software (Most free some paid)
   - [Free Programs that EVERY PC should have!](https://youtu.be/xyPY9_h4vZs)
   - [The Free Software I Install on Every Gaming PC](https://youtu.be/XCIJWLCFRb4)
   - [How to Set Up Your Fans](https://www.youtube.com/watch?v=aJ0rp2d6Voc)
   - [PC Antivirus Tier List by Chris Titus Tech](https://youtu.be/xKrHWM1VeFQ)
-  - 
+  - [How to Install ICC Profiles in Windows - The Right Way](https://youtu.be/65VVCXBmnbs)
 ---
 
 ## 5. Gaming Time!!!!!
