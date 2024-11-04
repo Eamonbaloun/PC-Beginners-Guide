@@ -92,6 +92,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
 - [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)❗ - this is old video just the guy explains everything really well I really like this video
 - [How to Choose a Graphics Card for Beginners](https://youtu.be/8hyWXJe_wts)❗ - this explains things you find when you go to buy a gpu good to know if you choose to but your own pc instead of pre-built
 - [VRAM Explained: How It Works & How Much You Need for Gaming](https://youtu.be/rTG1tziWF-A)
+- [What Is an Nvidia Founders Edition GPU?](https://youtu.be/iR5e5fiUhwo)
 - [Upscaling Explained: Dlss vs XeSS vs FSR & More](https://youtu.be/Chpb3yNypxY)
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
 - [Gpu Names Explained - Rtx, Gtx, Rx](https://youtu.be/vjr0HcXl7Lc) - Really short video that will clear up a lot of confusion when looking at all the names there are for GPU'S
