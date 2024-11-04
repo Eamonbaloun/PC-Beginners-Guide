@@ -227,7 +227,6 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)❗
 - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
-- [Avoid Overspending on PC Parts](https://www.youtube.com/watch?v=UdsaTRBZePw)
 - [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ – Short but super helpful video on an important topic.
 - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
 - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
