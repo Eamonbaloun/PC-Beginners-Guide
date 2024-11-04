@@ -103,6 +103,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
     - [What Is Nvidia Reflex? - Measuring & Optimizing Latency for PC Games](https://youtu.be/BSH225-FqTo)
     - [Double Your FPS for Free with AI Upscaling!- Nvidia Dlss 3.0](https://youtu.be/PUTsE1q1bYI)
     - [What Is Dlss in Games?](https://youtu.be/jx9RmxVG6EQ)
+    - [Is RTX a Total Waste of Money? - Can We Even Tell When It's On?](https://youtu.be/2VGwHoSrIEU)
     - [Explaining Nvidia Dlss so You Can Actually Understand It](https://youtu.be/1Elti_jUqhc)
   - AMD
     - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
