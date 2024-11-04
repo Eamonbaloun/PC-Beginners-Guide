@@ -84,7 +84,7 @@ I've been messing with computers for over a decade and have built quite a few. I
 
 ### GPU Specifications
 
-The GPU is the most important component when looking at a gaming PC. For this reason, this section of the tutorial is longer than the others. Please make sure you fully grasp a GPU before continuing. 
+The GPU is the most important component when looking at a gaming PC. For this reason, this section of the guide is longer than the others. Please make sure you fully grasp a GPU before continuing. 
 - [GPUs and Graphics Cards Explained](https://www.youtube.com/watch?v=Kgcfj_KV-mo)❗
 - [Graphics Processing Unit (GPU)](https://youtu.be/bZdxcHEM-uc)❗ - This video has really good visuals that illustrate how a gpu works
 - [GPU Terms Explained: Compute Units, Vram, Clock Speeds & Much More](https://youtu.be/g_L8MqzIkZI?list=PLJw2-YrAPHYFOHFa7bxFMyyu80l72SCUF)
