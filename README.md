@@ -291,16 +291,16 @@ Cooling is an important factor in your system's performance and longevity. Wheth
 Never skimp on motherboards. A solid motherboard in the $220-$350 price range will meet your needs and provide greater longevity. If you choose a AMD CPU, investing in a higher-end board can help extend the life of your system because AMD tends to support their platforms for longer. This means you can upgrade your CPU later without having to replace the motherboard.
 
 ### Storage
-An **NVMe SSD** is a must these days, especially with costs of them dropping. For the best results, I would buy at least 1TB with a DRAM buffer. **Samsung, SK Hynix, and Crucial** are dependable brands. Higher-quality drives improve performance over time and eliminate the need for an early update.
+An **NVMe SSD** is a must these days, especially with the costs of them dropping. For the best results, I would buy at least 1TB ssd with a DRAM buffer. **Samsung, SK Hynix, and Crucial** are dependable brands. Higher-quality drives improve performance over time and eliminate the need for an early update.
 
 ### RAM
-Don’t cheap out here either. More RAM is always better for both gaming and productivity. I wouldn’t go below 32GB, but 48GB is ideal for future-proofing. **Spending a bit more now on RAM ensures smoother multitasking and gaming as newer applications demand more.**
+More RAM is always beneficial for gaming and productivity. I wouldn't go less than 32GB, but 48GB is perfect for future-proofing. **Spending a little extra now on RAM helps smoother multitasking and gaming, as newer applications require more RAM.**
 
 ### Case
-**Airflow is crucial!** A well-designed mesh case is essential for keeping your system cool and running efficiently. Overheating can degrade performance and accelerate wear on components. Brands like **Fractal Design**, **Lian Li**, and **Be Quiet** offer excellent airflow-focused cases. For first-time builders, I highly recommend the [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww)—it's a solid, no-nonsense choice.
+**Airflow is critical! ** A well-designed mesh case is vital for keeping your PC cool and running smoothly. Overheating can reduce performance and accelerate wear on components. Brands like as **Fractal Design**, **Lian Li**, and **Be Quiet** provide outstanding airflow-focused cases. For first-time builders, I highly recommend the [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww), which is a great, no-nonsense choice.
 
 ### PSU
-A good PSU can last you through several builds. Stick with the [PSU Tier List](https://cultists.network/140/psu-tier-list/) and aim for **A Tier**. Don’t settle for lower-rated PSUs that could fail under load and risk damaging your parts. Spending more here on a high-quality PSU, like a **Seasonic** 1000W, ensures stable power delivery and room for future upgrades, saving you money on replacements later.
+A good PSU will last you through multiple builds. My go too for finding what is a good PSU is the [PSU Tier List](https://cultists.network/140/psu-tier-list/) and I always strive for **A Tier**. Don't settle for lower-rated PSUs that may fail under load and damage your components. Spending more here on a high-quality PSU, such as a **Seasonic PSU**  will last you a lot longer than cheaper power supplies. For how may Watts I would go with a 1000W PSU, they provide consistent power delivery and allows for future upgrades, saving you money becasue you don't have to replace later. 
 
 
 By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
