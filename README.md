@@ -482,8 +482,14 @@ Good software (Most free some paid)
 - [So Steam Got More Overpowered](https://www.youtube.com/watch?v=JZYt1gCFjtI)
 
 ---
+## 6. Long Term PC Maintenance
+Alright, so for keeping your PC in top shape long-term, there are a few easy things that make a difference. First off, give it a dust-off every now and then—just grab some compressed air and clear out the fans and filters. Dust buildup can mess with airflow, which means higher temps and slower performance. Make sure you’re updating drivers and firmware, too. I know it sounds tedious, but it really helps with compatibility and keeps everything running smoother with new stuff you install.
+Also, keep an eye on your storage health—nothing worse than a sudden drive failure and losing everything. Definitely back up anything important. And if you haven’t thought about it, consider reapplying thermal paste on your CPU and GPU every couple of years; it’s a simple way to keep temps down and performance up, especially if you’ve got good-quality paste on there.
 
-## 6. More Videos and Channels I Recommend:
+[My Kids Called Me Out... And They Were Right. Do This with Your Pc... Now](https://youtu.be/3-Yoqnh1lUU)
+
+---
+## 7. More Videos and Channels I Recommend:
 
 - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)
