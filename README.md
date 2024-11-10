@@ -291,7 +291,7 @@ Cooling is an important factor in your system's performance and longevity. Wheth
 Never skimp on motherboards. A solid motherboard in the $220-$350 price range will meet your needs and provide greater longevity. If you choose a AMD CPU, investing in a higher-end board can help extend the life of your system because AMD tends to support their platforms for longer. This means you can upgrade your CPU later without having to replace the motherboard.
 
 ### Storage
-An **NVMe SSD** is a must these days, especially with the costs of them dropping. For the best results, I would buy at least 1TB ssd with a DRAM buffer. **Samsung, SK Hynix, and Crucial** are dependable brands. Higher-quality drives improve performance over time and eliminate the need for an early update.
+An **NVMe SSD** is a must these days, especially with the costs of them dropping. For the best results, I would buy at least 1TB ssd with a DRAM buffer. **Samsung, SK Hynix, and Crucial** are dependable brands. Higher-quality drives improve performance over time and eliminate the need for an early update. as for which PCIE GEN higher is better but 5.0 atm is really expensive and not that much of a difference here is a [video explaining that](https://youtu.be/V7lqJ-X-LsI).
 
 ### RAM
 More RAM is always beneficial for gaming and productivity. I wouldn't go less than 32GB, but 48GB is perfect for future-proofing. **Spending a little extra now on RAM helps smoother multitasking and gaming, as newer applications require more RAM.**
