@@ -314,63 +314,37 @@ I wanted to make a quick guide on what I think makes a solid build. The key to a
 
 Make sure to put together a part list on [PC Part Picker](https://pcpartpicker.com) and share it on forums. People will help you fine-tune your build—I help people with their part lists all the time on Reddit. Just be clear about what you want to do with your computer and the games or programs you plan to use.
 
----
-
-### CPU
----
+## CPU
 
 Go for at least 8 cores, but I recommend 12 if you can. This increases the ability for multitasking and gaming. Spending a little more now ensures that your CPU will not bottleneck your GPU or slow down under heavier workloads a few years down the road. More cores improve performance and longevity. Also, AMD's X3D chips are currently excellent gaming processors.
 
----
-
-### GPU
----
+## GPU
 
 The big question: [Nvidia or AMD](https://youtu.be/BJ75QVCip88)? Personally, I've never bought an AMD GPU because I believe Nvidia's higher price is justified by better drivers, stability, and features (such as DLSS). Though, AMD provides great specifications at lower prices. My advice is: **12GB of VRAM is required, but 16GB is preferred**. Spend more if you can—going with a higher-end GPU upfront saves you from having to upgrade when newer games require more power. Regarding which AIB to buy, I would refer to this video: [Which Brand of GPU Should You Buy in 2024?](https://youtu.be/LBbU7yBQ9qo). *(Side note: if you do creative work, Nvidia’s CUDA cores have been supported on most creative programs for years, offering a huge boost to rendering and encoding. Check out the first video called NVIDA or AMD for more detail.)*
 
----
-
-### Cooler
----
+## Cooler
 
 Cooling is an important factor in your system's performance and longevity. Whether you choose air or liquid, **Noctua is my go-to company for CPU cooling. Purchase the most expensive [Noctua cooler you can afford](https://noctua.at/en/products/cpu-cooler-retail/buying-guide-cpu-coolers).** Better cooling allows your system to run faster for longer periods of time without throttling, reducing the need for frequent upgrades. I recommend **[Noctua's NH-D15 G2](https://youtu.be/0zqPICl5zjA)** or the **[Noctua NH-U12S Redux](https://youtu.be/WhVXxcMex2M)** for a more affordable cooler, but the G2 is still the best. The best AIO is the [ARCTIC Liquid Freezer](https://youtu.be/jMeH7SJO74Q)**. I would only consider a 360 AIO because there is no reason to choose a 240/280 AIO over the NH-D15 G2. TLDR: Get a Noctua cooler, and if you really want to know what the best cooler is, [here](https://youtube.com/playlist?list=PLeeRpPJPxqZlGallbEhUdhZ9OHG1qOQuH&si=g7Ut5VVN5HAxotlR) is a good place to start. Hardware Canucks has many cooler roundup videos that are hands down the best cooler vs cooler comparisons.
 
----
-
-### Motherboard
----
+## Motherboard
 
 Never skimp on motherboards. A solid motherboard in the $220-$350 price range will meet your needs and provide greater longevity. If you choose an AMD CPU, investing in a higher-end board can help extend the life of your system because AMD tends to support their platforms for longer. This means you can upgrade your CPU later without having to replace the motherboard.
 
----
-
-### Storage
----
+## Storage
 
 An **NVMe SSD** is a must these days, especially with the costs of them dropping. For the best results, I would buy at least a 1TB SSD with a DRAM buffer. **Samsung, SK Hynix, and Crucial** are dependable brands. Higher-quality drives improve performance over time and eliminate the need for an early update. As for which PCIe Gen is better, higher is generally better, but Gen 5.0 is still really expensive and doesn’t make much of a difference. Here’s a [video explaining that](https://youtu.be/V7lqJ-X-LsI).
 
----
-
-### RAM
----
+## RAM
 
 More RAM is always beneficial for gaming and productivity. I wouldn't go less than 32GB, but 48GB is perfect for future-proofing. **Spending a little extra now on RAM helps smoother multitasking and gaming, as newer applications require more RAM.**
 
----
-
-### Case
----
+## Case
 
 **Airflow is critical!** A well-designed mesh case is vital for keeping your PC cool and running smoothly. Overheating can reduce performance and accelerate wear on components. Brands like **Fractal Design**, **Lian Li**, and **Be Quiet** provide outstanding airflow-focused cases. For first-time builders, I highly recommend the [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww), which is a great, no-nonsense choice.
 
----
-
-### PSU
----
+## PSU
 
 A good PSU will last you through multiple builds. My go-to for finding what is a good PSU is the [PSU Tier List](https://cultists.network/140/psu-tier-list/), and I always strive for **A Tier**. Don't settle for lower-rated PSUs that may fail under load and damage your components. Spending more here on a high-quality PSU, such as a **Seasonic PSU**, will last you much longer than cheaper power supplies. For wattage, I recommend a 1000W PSU. It provides consistent power delivery and allows for future upgrades, saving you money because you don't have to replace it later.
-
----
 
 By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
 
