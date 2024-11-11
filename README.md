@@ -136,6 +136,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
 
 - [CPU Cooling Explained](https://www.youtube.com/watch?v=pzsPWY-ofQg)❗
 - [Which Cooler Is Right for Your Computer?](https://youtu.be/f5Yj1fcce7o)❗
+- [Air vs Liquid Cooling: Which Is Best for Your Pc? Cpu Coolers Explained](https://youtu.be/kQSy8CS-iEI)❗
 - [CPU Air Cooling vs Watercooling... Which is Right for You?](https://www.youtube.com/watch?v=RQ3c0kspOb8&t=347s)
 - [How To Choose The BEST Fans For Your PC Build](https://www.youtube.com/watch?v=tGenFt-m7Zk)
 - [How Many Case Fans Do You REALLY Need?](https://www.youtube.com/watch?v=KTDZpYkEonY)
