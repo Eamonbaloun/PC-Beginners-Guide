@@ -36,7 +36,7 @@ I’ve been messing around with computers for over a decade and have built quite
 
 # Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#beginners-guide-to-building-a-gaming-pc)
 2. [Why Build Your Own Gaming PC?](#why-build-your-own-gaming-pc)
 3. [What You'll Find in This Guide](#what-youll-find-in-this-guide)
 4. [Preparing for Your Build](#preparing-for-your-build-foundational-knowledge)
