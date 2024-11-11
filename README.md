@@ -315,49 +315,33 @@ Building a solid PC is all about smart spending. This isn’t just about choosin
 
 When it comes to CPUs, aim for at least 8 cores, but 12 cores are ideal for multitasking and gaming. Spending a little more upfront will help prevent bottlenecks with your GPU and ensure your system handles heavier workloads over time. AMD's X3D chips are currently among the best gaming processors available, offering outstanding performance for the price.
 
----
-
 ### GPU
 
 The big decision often comes down to Nvidia or AMD. While AMD offers excellent specs at a lower price, I personally prefer Nvidia for its superior drivers, stability, and features like DLSS. If you’re unsure which brand to choose, consider the kind of work you’ll do beyond gaming. Nvidia’s CUDA cores, for example, provide significant advantages for rendering and encoding in creative workflows. Regardless of brand, I recommend a GPU with at least 12GB of VRAM, though 16GB is preferred. Spending more upfront on a higher-end GPU can save you from needing an upgrade sooner, especially as games become more demanding. For additional guidance, check out this video: [Which Brand of GPU Should You Buy in 2024?](https://youtu.be/LBbU7yBQ9qo).
-
----
 
 ### Cooler
 
 Cooling plays a vital role in maintaining your PC’s performance and longevity. I always recommend Noctua for air cooling; their products are reliable and efficient. The Noctua NH-D15 G2 is my top pick, but if you’re on a budget, the Noctua NH-U12S Redux is a fantastic alternative. For those who prefer liquid cooling, the ARCTIC Liquid Freezer 360 is one of the best options available. I only recommend 360mm AIOs because smaller ones often don’t offer significant advantages over high-end air coolers like the NH-D15. If you’re unsure which cooler to choose, Hardware Canucks offers excellent comparison videos to help you decide.
 
----
-
 ### Motherboard
 
 A quality motherboard is another area where you shouldn’t cut corners. A solid board in the $220–$350 range will meet your needs and offer greater longevity. If you’re using an AMD CPU, investing in a higher-end motherboard can extend your system’s life, as AMD tends to support their platforms longer than Intel. This means you’ll be able to upgrade your CPU without replacing the motherboard.
-
----
 
 ### Storage
 
 An NVMe SSD is a must-have. With prices dropping, it’s worth investing in at least a 1TB SSD with a DRAM buffer. Brands like Samsung, SK Hynix, and Crucial are dependable choices that provide consistent performance over time. While PCIe Gen 5 SSDs are becoming available, they’re still expensive and don’t offer a huge performance leap for most users. For more insight, here’s a [video explaining PCIe generations](https://youtu.be/V7lqJ-X-LsI).
 
----
-
 ### RAM
 
 More RAM is always better for both gaming and productivity. I wouldn’t go below 32GB, but 48GB is perfect for future-proofing. Spending a little extra now will ensure smoother multitasking and better gaming performance as newer applications demand more memory.
-
----
 
 ### Case
 
 Your PC case plays a vital role in performance. Airflow is critical for keeping your components cool and running efficiently. Brands like Fractal Design, Lian Li, and Be Quiet are known for producing outstanding cases focused on airflow. For first-time builders, I highly recommend the Corsair 5000D AIRFLOW. It’s a no-nonsense choice that’s easy to work with and offers excellent cooling.
 
----
-
 ### PSU
 
 Don’t overlook your power supply (PSU). A good PSU can last through multiple builds, so it’s worth investing in a high-quality unit. I recommend consulting the [PSU Tier List](https://cultists.network/140/psu-tier-list/) and aiming for an A-Tier unit. Seasonic is my go-to brand for PSUs, offering reliable products that deliver consistent power. A 1000W PSU is a great choice, providing room for future upgrades without needing to replace it later.
-
----
 
 By investing in quality parts now, you’re ensuring your PC performs well for years to come, saving you the cost and hassle of frequent upgrades. A well-built PC can last for years without needing major replacements.
 
