@@ -39,13 +39,13 @@ I’ve been messing around with computers for over a decade and have built quite
 1. [Introduction](#introduction)
 2. [Why Build Your Own Gaming PC?](#why-build-your-own-gaming-pc)
 3. [What You'll Find in This Guide](#what-youll-find-in-this-guide)
-4. [Preparing for Your Build](#preparing-for-your-build)
-5. [Picking Parts](#picking-parts-1)
+4. [Preparing for Your Build](#preparing-for-your-build-foundational-knowledge)
+5. [Picking Parts](#picking-parts)
 6. [Prebuilt (Optional)](#prebuilt---optional)
 7. [Building](#building)
 8. [Optimizing Windows](#optimizing-windows)
 9. [Gaming Time!](#gaming-time)
-10. [Long Term PC Maintenance](#long-term-pc-maintenance)
+10. [Long Term PC Maintenance](#6-long-term-pc-maintenance)
 11. [More Videos and Channels I Recommend](#more-videos-and-channels-i-recommend)
 
 ---
