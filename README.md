@@ -303,11 +303,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 ## 🚨 Top Recommendations for Builds 🚨
 
----
-
 **AT THE MOMENT I CAN'T RECOMMEND INTEL CPU'S 13TH AND 14TH GEN** *([Click here to find out why](https://youtu.be/gTeubeCIwRw))*
-
----
 
 ### Guide to Building a Solid PC
 I wanted to make a quick guide on what I think makes a solid build. The key to a good build is smart spending. This isn’t about specific parts, but more of a general outline of what you should aim for. It’s important to invest wisely now so you don’t end up paying twice later. Skimping on parts might seem like a good idea in the short term, but you’ll likely have to upgrade sooner than expected when performance starts to lag. Paying a little more upfront ensures that your system remains relevant longer, which saves you the cost (and headache) of having to replace parts prematurely. One last thing: always research what your game or program best benefits from in terms of hardware. Different applications and games have unique demands, so knowing what components they rely on most—whether it's CPU power, GPU performance, or more RAM—will help you allocate your budget more effectively. No single source has all the answers, which is why you'll find multiple videos from different creators included here. 
