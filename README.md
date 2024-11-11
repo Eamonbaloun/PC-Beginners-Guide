@@ -309,8 +309,6 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 Building a solid PC is all about smart spending. This isn’t just about choosing specific parts but understanding how to allocate your budget effectively. Skimping on parts might save money upfront, but it often leads to performance issues or upgrades sooner than expected. Investing wisely now ensures your system stays relevant longer, saving you both money and hassle in the long run. Always research what your games or programs benefit from most—whether that’s CPU power, GPU performance, or extra RAM. Different applications have unique demands, so understanding these needs will help you prioritize your budget. To start, use [PC Part Picker](https://pcpartpicker.com) to build a parts list and share it on forums. The community is incredibly helpful and can provide feedback to fine-tune your setup.
 
----
-
 ### CPU
 
 When it comes to CPUs, aim for at least 8 cores, but 12 cores are ideal for multitasking and gaming. Spending a little more upfront will help prevent bottlenecks with your GPU and ensure your system handles heavier workloads over time. AMD's X3D chips are currently among the best gaming processors available, offering outstanding performance for the price.
