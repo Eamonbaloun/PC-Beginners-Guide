@@ -257,7 +257,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – A must-watch! A better CPU can make a huge difference beyond just FPS.
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
 - [PC Case AIRFLOW: A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
-- [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – Nvidia’s video explains this perfectly, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
+- [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – This video from Nvidia really shows how important FPS is, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
 
 **Byte Size Tech** offers great tips for value and longevity (some videos are older, but the lessons are timeless):
 - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
@@ -327,7 +327,7 @@ By investing in quality parts now, you’re ensuring your PC performs well for l
 - [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
 - [Building the $1200 Sweet Spot Gaming PC](https://youtu.be/XrRVC6nSNM8)
 - [$600 Gaming PC Build Guide](https://www.youtube.com/watch?v=9hman7NikdI)
-- [Ryzen 7 7700X PC Build Guide](https://youtu.be/KkkUVm791o4) – Watch [Part 2](https://youtu.be/Y4VBv-77BVY) for detailed explanations.
+- [Ryzen 7 7700X PC Build Guide](https://youtu.be/KkkUVm791o4) – Watch [Part 2](https://youtu.be/Y4VBv-77BVY) for detailed explanations on part selections.
 
 For regular builds, check out these YouTubers:
 - [ScatterVolt](https://youtube.com/@ScatterVolt)
@@ -335,11 +335,11 @@ For regular builds, check out these YouTubers:
 
 ### Performance Benchmarks
 
-These videos show various games across hardware setups to help you gauge your build’s performance:
+These videos show various games across different hardware setups to help you understand what parts you need for a given game:
 - [Red Dead Redemption 1 PC Performance Analysis](https://youtu.be/jzfCa2HaHQc)
 - [Monster Hunter: Wilds PC Beta Performance Benchmarks](https://youtu.be/bHdM-Gbqf24)
 - [God of War Ragnarok PC Performance Tested](https://youtu.be/2UsTzzmr5DY)
-- [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗
+- [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗ 
 
 ---
 
@@ -484,48 +484,75 @@ These videos offer helpful tips and highlight common mistakes to avoid when buil
 
 ## Optimizing Windows
 
-Don’t skip this step! It's super important if you want to get the most out of your gaming rig. Some friends of mine bought a 144Hz monitor but never changed it from 60Hz in the Nvidia control panel, so they never actually got to use it to its full potential. 
+Don’t skip this step! Optimizing Windows is crucial to getting the most out of your gaming rig. Some of my friends bought 144Hz monitors but forgot to change the settings in the Nvidia control panel, leaving them stuck at 60Hz. Don’t let that happen to you!
 
-All of the guides below are legit, even if your antivirus thinks otherwise (I’ve scanned them all on [Virus Total](https://www.youtube.com/watch?v=verKqNVshS4)):
+All the guides below are legit—even if your antivirus flags them. I’ve scanned them all on [Virus Total](https://www.youtube.com/watch?v=verKqNVshS4), so you’re good to go.
 
-### Windows Optimization Guides:
-- [Always Do THIS with a new Gaming PC!](https://youtu.be/Hk1N18LBizg)
-- [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
-- - [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗ If you play FPS games make sure you do this
-- [Chris Titus Tech’s Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ – This is an easy-to-use tool I use on almost every PC I set up. If you only watch one of these, let it be this one! I’d definitely recommend everyone at least apply the standard settings and turn on the Ultimate Performance plan. It makes a big difference! ([Here’s another vid if you need more info](https://youtu.be/OBPreMucWf0)). 
-- [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)❗
-- [https://youtu.be/PlACZ9Gp1xo](https://youtu.be/PlACZ9Gp1xo) - this is a very advaced guide on how to optimize your pc but this is the best guide bar none if you want the best of best watch this. 
-
-If you’re playing specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials)❗ has great FPS guides
-
-Bloatware (This is how to fix this issue [I Think You Need Revo Uninstaller](https://youtu.be/0LPZYX5UPvM))
-  - [Bloatware Benchmark: RGB Software vs. Performance (iCUE, CAM, & More)](https://youtu.be/NzAeAFudylI)
-  - [Destroying My Gaming PC with Bloatware](https://youtu.be/ziWCFkwMfSk)
-  - [BLOAT is killing your FPS](https://youtu.be/yVNkMNVv4Y4)
-
-Good software (Most free some paid)
-  - [Free Programs that EVERY PC should have!](https://youtu.be/xyPY9_h4vZs)
-  - [The Free Software I Install on Every Gaming PC](https://youtu.be/XCIJWLCFRb4)
-  - [How to Set Up Your Fans](https://www.youtube.com/watch?v=aJ0rp2d6Voc)
-  - [PC Antivirus Tier List by Chris Titus Tech](https://youtu.be/xKrHWM1VeFQ)
-  - [How to Install ICC Profiles in Windows - The Right Way](https://youtu.be/65VVCXBmnbs)
 ---
 
+### Windows Optimization Guides
+
+- [Always Do THIS with a New Gaming PC!](https://youtu.be/Hk1N18LBizg)
+- [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
+- [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗ – A must-do for FPS players.
+- [Chris Titus Tech’s Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ – An all-in-one optimization tool I use on almost every PC I set up. If you only watch one video from this list, make it this one! I highly recommend applying the standard settings and enabling the Ultimate Performance plan—it makes a noticeable difference. ([Here’s a deeper dive if needed](https://youtu.be/OBPreMucWf0)).
+- [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)❗
+- [Advanced Windows Optimization Guide](https://youtu.be/PlACZ9Gp1xo) – This guide is very advanced but absolutely the best if you’re looking for peak performance. 
+
+If you’re optimizing for specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials)❗ has excellent FPS guides.
+
+### Managing Bloatware
+
+Bloatware can drag down your system’s performance. Use [Revo Uninstaller](https://youtu.be/0LPZYX5UPvM) to clear unnecessary programs and make your system run smoother.
+
+- [Bloatware Benchmark: RGB Software vs. Performance (iCUE, CAM, & More)](https://youtu.be/NzAeAFudylI)
+- [Destroying My Gaming PC with Bloatware](https://youtu.be/ziWCFkwMfSk)
+- [BLOAT is Killing Your FPS](https://youtu.be/yVNkMNVv4Y4)
+
+### Recommended Software
+
+Here are some useful programs for your PC—most are free, but a few are paid:
+
+- [Free Programs that EVERY PC Should Have!](https://youtu.be/xyPY9_h4vZs)
+- [The Free Software I Install on Every Gaming PC](https://youtu.be/XCIJWLCFRb4)
+- [How to Set Up Your Fans](https://www.youtube.com/watch?v=aJ0rp2d6Voc)
+- [PC Antivirus Tier List by Chris Titus Tech](https://youtu.be/xKrHWM1VeFQ)
+- [How to Install ICC Profiles in Windows - The Right Way](https://youtu.be/65VVCXBmnbs)
+
 ## Gaming Time!!!!!
+
+Now it’s time to enjoy your new PC! Here are a few videos to get you started with free games and game launchers:
 
 - [Using EVERY GAME LAUNCHER to Get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
 - [Game Launchers – Which One to Use?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
 - [So Steam Got More Overpowered](https://www.youtube.com/watch?v=JZYt1gCFjtI)
 
+
 ---
+
 ## 6. Long Term PC Maintenance
-Alright, so for keeping your PC in top shape long-term, there are a few easy things that make a difference. First off, give it a dust-off every now and then—just grab some compressed air and clear out the fans and filters. Dust buildup can mess with airflow, which means higher temps and slower performance. Make sure you’re updating drivers and firmware, too. I know it sounds tedious, but it really helps with compatibility and keeps everything running smoother with new stuff you install.
-Also, keep an eye on your storage health—nothing worse than a sudden drive failure and losing everything. Definitely back up anything important. And if you haven’t thought about it, consider reapplying thermal paste on your CPU and GPU every couple of years; it’s a simple way to keep temps down and performance up, especially if you’ve got good-quality paste on there.
 
-[My Kids Called Me Out... And They Were Right. Do This with Your Pc... Now](https://youtu.be/3-Yoqnh1lUU)
+To keep your PC running smoothly for years to come, here are some simple but effective tips:
+
+### 1. Dust It Off Regularly
+Dust can mess with airflow, leading to higher temps and slower performance. Every few months, grab some compressed air and clean out your fans, filters, and case. Keeping your system dust-free helps maintain optimal cooling and performance.
+
+### 2. Update Drivers and Firmware
+It might sound tedious, but keeping your drivers and firmware up to date ensures compatibility with new hardware, software, and games. Plus, it often improves system stability and performance.
+
+### 3. Monitor Storage Health
+A sudden drive failure can be devastating if you haven’t backed up your important files. Use tools to check your storage health regularly, and make backups of anything you can’t afford to lose. External drives or cloud services work great for this.
+
+### 4. Reapply Thermal Paste
+Reapplying thermal paste every couple of years on your CPU and GPU can help keep temperatures down and performance up. Use a high-quality thermal paste for the best results. This is especially important if you notice rising temperatures over time.
+
+For more tips, check out this helpful video: [My Kids Called Me Out... And They Were Right. Do This with Your PC... Now](https://youtu.be/3-Yoqnh1lUU).
 
 ---
-## More Videos and Channels I Recommend:
+
+## More Videos and Channels I Recommend
+
+Here are some great YouTube channels and creators to help you learn more about PCs, gaming, and tech in general:
 
 - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)
@@ -544,6 +571,9 @@ Also, keep an eye on your storage health—nothing worse than a sudden drive fai
 - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA)
 - [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg)
 
-Finally, test your knowledge with [this video](https://www.youtube.com/watch?v=wXI9LhP-TPA). If you understand everything, you're golden! If not, rewatch the videos in Part 1.
+---
 
-By the time you get through all of these, you’ll be ready to build or upgrade your gaming PC with confidence!
+Finally, test your knowledge with [this video](https://www.youtube.com/watch?v=wXI9LhP-TPA). If you understand everything in it, you’re golden! If not, go back and rewatch the videos in Part 1 to brush up.
+
+By the time you get through all of these resources, you’ll be ready to build or upgrade your gaming PC with confidence!
+
