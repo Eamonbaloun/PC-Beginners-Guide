@@ -476,7 +476,7 @@ If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff*
 
 Building your PC might seem intimidating, but it’s way easier than it looks. Make sure you have all your parts before you start! 
 
-### [CareyHolzman](https://www.youtube.com/@CareyHolzman)—he’s hands-down the best YouTuber for step-by-step PC building. He explains everything clearly and shows you exactly where everything goes. 
+[CareyHolzman](https://www.youtube.com/@CareyHolzman)—he’s hands-down the best YouTuber for step-by-step PC building. He explains everything clearly and shows you exactly where everything goes. 
 You only need to watch one of these, but they’re all excellent
 - [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)❗
 - [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)❗
