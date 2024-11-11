@@ -32,6 +32,36 @@ I’ve been messing around with computers for over a decade and have built quite
 - Stick to trustworthy creators so you’re getting reliable info.
 - Some videos might be a bit older, but the core principles still apply. So don’t stress about it!
 
+---
+
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Why Build Your Own Gaming PC?](#why-build-your-own-gaming-pc)
+3. [What You'll Find in This Guide](#what-youll-find-in-this-guide)
+4. [Preparing for Your Build](#preparing-for-your-build-foundational-knowledge)
+5. [Picking Parts](#picking-parts)
+   - [CPU](#cpu)
+   - [GPU](#gpu)
+   - [Cooler](#cooler)
+   - [Motherboard](#motherboard)
+   - [Storage](#storage)
+   - [RAM](#ram)
+   - [Case](#case)
+   - [PSU](#psu)
+   - [Used PC Parts](#buying-used-pc-parts)
+6. [Prebuilt (Optional)](#prebuilt---optional)
+7. [Building](#building)
+8. [Optimizing Windows](#optimizing-windows)
+   - [Windows Optimization Guides](#windows-optimization-guides)
+   - [Managing Bloatware](#managing-bloatware)
+   - [Recommended Software](#recommended-software)
+9. [Gaming Time!](#gaming-time)
+10. [Long Term PC Maintenance](#long-term-pc-maintenance)
+11. [More Videos and Channels I Recommend](#more-videos-and-channels-i-recommend)\
+
+---
+
 ### 1. Preparing for Your Build (_Foundational Knowledge_)
 
 - [What does what in your computer? Computer Parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)❗
