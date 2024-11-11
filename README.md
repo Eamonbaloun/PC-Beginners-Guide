@@ -40,7 +40,7 @@ I’ve been messing around with computers for over a decade and have built quite
 2. [Why Build Your Own Gaming PC?](#why-build-your-own-gaming-pc)
 3. [What You'll Find in This Guide](#what-youll-find-in-this-guide)
 4. [Preparing for Your Build](#preparing-for-your-build-foundational-knowledge)
-5. [Picking Parts](#picking-parts)
+5. [Picking Parts](#2-picking-parts)
 6. [Prebuilt (Optional)](#prebuilt---optional)
 7. [Building](#building)
 8. [Optimizing Windows](#optimizing-windows)
