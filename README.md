@@ -1,42 +1,40 @@
-**AT THE MOMENT I CAN'T RECOMEND INTEL CPU'S 13TH and 14TH GEN** *([click here to find out why](https://youtu.be/swm7n88QmLA))*
+**AT THE MOMENT I CAN'T RECOMMEND INTEL CPU'S 13TH and 14TH GEN** *([click here to find out why](https://youtu.be/swm7n88QmLA))*
 
 # Beginner's Guide to Building a Gaming PC
 
-Hey! So you're new to building your own gaming PC? No worries, I got you! This guide is made just for you. Building can feel a bit overwhelming at first, but trust me, with the right help, you'll have your dream gaming setup running in no time.
+Hey! So you're new to building your own gaming PC? No worries—I’ve got you! This guide is made just for you. Building a PC might feel overwhelming at first, but trust me, with the right help, you'll have your dream gaming setup running in no time.
 
 ## Why Build Your Own Gaming PC?
 
-Building your own gaming PC isn’t just about saving money—it's about getting more value and control. Unlike consoles, a custom PC allows you to handpick parts to achieve graphics quality and performance levels that consoles can’t match. With a powerful GPU, you’ll experience smoother frame rates, higher resolutions, and options like ray tracing that elevate your gaming visuals. And while a console becomes outdated over time, a PC can be upgraded part by part, saving you money in the long run.
+Building your own gaming PC isn’t just about saving money—it’s about getting more value and control. Unlike consoles, a custom PC lets you handpick parts to create graphics quality and performance levels consoles can’t match. With a powerful GPU, you’ll get smoother frame rates, higher resolutions, and features like ray tracing that make your games look next-level. And while consoles get outdated over time, a PC can be upgraded part by part, saving you money in the long run.
 
-Plus, a gaming PC doesn’t stop at gaming: you can tackle tasks like video editing, graphic design, and streaming, making it an all-in-one powerhouse that’s ready for both play and productivity.
+But it’s not just about gaming! A gaming PC is a multitasking powerhouse—you can use it for video editing, graphic design, streaming, or anything else you throw at it. It’s the ultimate blend of work and play.
 
 ## What You'll Find in This Guide
 
-I’ve got you covered from start to finish—choosing the right parts to actually putting your rig together. 
+I’ll walk you through everything—from picking the right parts to putting it all together.
 
 ### Tips for Watching the Videos
 
 - Take your time. No need to rush.
-- Feel free to rewatch parts that seem tricky.
-- Some vids are optional, but they give extra info that could be handy. You can skip ‘em, but they’re worth checking out!
+- Rewatch any parts that feel tricky.
+- Some videos are optional—they’re extra resources to dive deeper if you want. Totally up to you if you watch them, but they’re worth checking out!
 
 ## About Me
 
-I've been messing with computers for over a decade and have built quite a few. I’m here to share what I’ve learned and help you avoid the mistakes I made when I first started.
+I’ve been messing around with computers for over a decade and have built quite a few. I’m here to share what I’ve learned and help you skip the mistakes I made when I was starting out.
 
 ## Disclaimer
 
-- Videos marked with ❗ are **must-watch**, no skipping!
-- **No single source has all the answers, which is why you'll find multiple videos from different creators included here.**
-- You might notice some overlap between videos—don’t sweat it, repetition is good!
-- Stick to trustworthy content creators so you’re getting accurate info.
-- Some videos might be a bit older, but the core principles don’t change much. So don’t worry!
-
----
+- Videos marked with ❗ are **must-watch**—don’t skip them!
+- **No single source has all the answers**, which is why I’ve included videos from different creators.
+- You might notice some overlap between videos—don’t worry, repetition helps!
+- Stick to trustworthy creators so you’re getting reliable info.
+- Some videos might be a bit older, but the core principles still apply. So don’t stress about it!
 
 ### 1. Preparing for Your Build (_Foundational Knowledge_)
 
-- [What does what in your computer? Computer parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)❗
+- [What does what in your computer? Computer Parts Explained](https://www.youtube.com/watch?v=ExxFxD4OSZ0)❗
 
 #### Anyone Can Build a Gaming PC
 
@@ -46,18 +44,18 @@ I've been messing with computers for over a decade and have built quite a few. I
 
 - [Switching to PC Gaming From Console: PS5 and Xbox Series X Edition | My Experience 2 Years Later](https://www.youtube.com/watch?v=9rn2btJWszI)❗
 - [PC GAMING vs CONSOLE GAMING](https://www.youtube.com/watch?v=VAHHJQOlvgw)
-- [PC Gaming vs. Consoles: Why You Can’t Play Like Xbox Series X or PS5](https://www.youtube.com/watch?v=s7J4Pn86zj8&t=600s) – I really like this one. It’s a bit long, but it’s a good chat about PC vs. consoles.
+- [PC Gaming vs. Consoles: Why You Can’t Play Like Xbox Series X or PS5](https://www.youtube.com/watch?v=s7J4Pn86zj8&t=600s) – This one’s a bit long, but it’s a great deep dive into PC vs. consoles.
 - [The Many Advantages of PC Gaming](https://www.youtube.com/watch?v=4wacl55qEGI)
 - [Tiny 3D-printed PC vs. Fastest Xbox](https://youtu.be/BB9w8O7Ne8w)
 - [Should You Build Your Own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&t=488s)
-- [Are console gamers delusional?](https://youtu.be/YeLmUS6Q9jw) 
+- [Are Console Gamers Delusional?](https://youtu.be/YeLmUS6Q9jw)
 
 #### Understanding PC Components
 
-- [Gaming PC Parts Explained! A Beginner's Guide To Gaming Computer Components!](https://www.youtube.com/watch?v=2joA_S92p64)
+- [Gaming PC Parts Explained! A Beginner's Guide to Gaming Computer Components](https://www.youtube.com/watch?v=2joA_S92p64)
 - [101 Guide to Getting Into PC Gaming](https://www.youtube.com/watch?v=ZBoxnspdNMc)
 - [What You MUST Know Before Buying A Computer](https://www.youtube.com/watch?v=EhvJRDJaofQ)
-- [How Crash Bandicoot’s Developers Used Clever Workarounds on the PS1](https://youtu.be/izxXGuVL21o) – This one's really fun, and sneaks in a lot of useful info about how computers work.
+- [How Crash Bandicoot’s Developers Used Clever Workarounds on the PS1](https://youtu.be/izxXGuVL21o) – A fun video that sneaks in useful info about how computers work.
 
 #### Motherboard Specifications
 
@@ -79,40 +77,48 @@ I've been messing with computers for over a decade and have built quite a few. I
 - [How to Choose RAM](https://www.youtube.com/watch?v=mkpCvaBBo-c)
 - [Understanding RAM for Beginners](https://www.youtube.com/watch?v=GtEbrY4nDIQ)❗
 - [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo&t=310s)
-- [How Much RAM Do You Need in 2020](https://www.youtube.com/watch?v=OT-qAQLGkGo)
+- [How Much RAM Do You Need in 2020?](https://www.youtube.com/watch?v=OT-qAQLGkGo)
 - [XMP or DOCP Settings for RAM](https://www.youtube.com/watch?v=vc8G5_sW8lk)
 
 ### GPU Specifications
 
-The GPU is the most important component when looking at a gaming PC. For this reason, this section of the guide is longer than the others. Please make sure you fully grasp a GPU before continuing. 
+The GPU is one of the most important components in a gaming PC, so this section is longer than others. Take your time to fully understand GPUs before moving on.
+
 - [GPUs and Graphics Cards Explained](https://www.youtube.com/watch?v=Kgcfj_KV-mo)❗
-- [Graphics Processing Unit (GPU)](https://youtu.be/bZdxcHEM-uc)❗ - This video has really good visuals that illustrate how a gpu works
-- [GPU Terms Explained: Compute Units, Vram, Clock Speeds & Much More](https://youtu.be/g_L8MqzIkZI?list=PLJw2-YrAPHYFOHFa7bxFMyyu80l72SCUF)
-- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk)❗ – This one also has good animations and explains the inside of a GPU really well!
-- [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)❗ - this is old video just the guy explains everything really well I really like this video
-- [How to Choose a Graphics Card for Beginners](https://youtu.be/8hyWXJe_wts)❗ - this explains things you find when you go to buy a gpu good to know if you choose to but your own pc instead of pre-built
+- [Graphics Processing Unit (GPU)](https://youtu.be/bZdxcHEM-uc)❗ – This video has amazing visuals that explain how a GPU works.
+- [GPU Terms Explained: Compute Units, VRAM, Clock Speeds & More](https://youtu.be/g_L8MqzIkZI?list=PLJw2-YrAPHYFOHFa7bxFMyyu80l72SCUF)
+- [What's Inside Your GRAPHICS CARD?](https://www.youtube.com/watch?v=SrAMBi_8tIk)❗ – Great animations and an in-depth look at the inside of a GPU.
+- [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)❗ – An older video, but super informative.
+- [How to Choose a Graphics Card for Beginners](https://youtu.be/8hyWXJe_wts)❗ – A must-watch for explaining how to pick a GPU.
 - [VRAM Explained: How It Works & How Much You Need for Gaming](https://youtu.be/rTG1tziWF-A)
-- [Why High FPS Matters](https://youtu.be/jsnVuXj_IDM)❗ - This video from Nvidia does a great job explaining FPS and showing how it impacts the feel of a game.
+- [Why High FPS Matters](https://youtu.be/jsnVuXj_IDM)❗ – Nvidia’s take on FPS and its importance for gaming.
 - [What Is an Nvidia Founders Edition GPU?](https://youtu.be/iR5e5fiUhwo)
-- [Upscaling Explained: Dlss vs XeSS vs FSR & More](https://youtu.be/Chpb3yNypxY)
+- [Upscaling Explained: DLSS vs XeSS vs FSR & More](https://youtu.be/Chpb3yNypxY)
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
-- [Gpu Names Explained - Rtx, Gtx, Rx](https://youtu.be/vjr0HcXl7Lc) - Really short video that will clear up a lot of confusion when looking at all the names there are for GPU'S
+- [GPU Names Explained - RTX, GTX, RX](https://youtu.be/vjr0HcXl7Lc) – Short but clears up confusion about GPU naming.
 - [What Actually Uses Your VRAM?](https://youtu.be/ehUbCsNLSrI)
-- Nvidia and AMD have different features that make them uniquie not all features will work on different brands GPUS like DLSS is only on Nvidia GPU
-  - Nvidia 
+
+  #### Nvidia and AMD GPU Features
+
+  Some features are unique to each brand. For example, DLSS is exclusive to Nvidia GPUs.
+
+  - **Nvidia**  
     - [What Is RTX?](https://youtu.be/kp-VfBb5zzw)
     - [What Is Nvidia Reflex? - Measuring & Optimizing Latency for PC Games](https://youtu.be/BSH225-FqTo)
     - [Real-Time Ray Tracing & Turing Architecture](https://youtu.be/f1nrkm7jii4)
-    - [Double Your FPS for Free with AI Upscaling!- Nvidia Dlss 3.0](https://youtu.be/PUTsE1q1bYI)
-    - [What Is Dlss in Games?](https://youtu.be/jx9RmxVG6EQ)
-    - [Is RTX a Total Waste of Money? - Can We Even Tell When It's On?](https://youtu.be/2VGwHoSrIEU)
-    - [Explaining Nvidia Dlss so You Can Actually Understand It](https://youtu.be/1Elti_jUqhc)
-  - AMD
+    - [Double Your FPS for Free with AI Upscaling! - Nvidia DLSS 3.0](https://youtu.be/PUTsE1q1bYI)
+    - [What Is DLSS in Games?](https://youtu.be/jx9RmxVG6EQ)
+    - [Is RTX a Total Waste of Money? Can We Even Tell When It's On?](https://youtu.be/2VGwHoSrIEU)
+    - [Explaining Nvidia DLSS so You Can Actually Understand It](https://youtu.be/1Elti_jUqhc)
+
+  - **AMD**  
     - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
-    - [Is Ray Tracing Useable at 1440p? Rx 6800Xt 6 Games Tested](https://www.youtube.com/watch?v=MEXtG2JE5D4)
+    - [Is Ray Tracing Useable at 1440p? RX 6800XT 6 Games Tested](https://www.youtube.com/watch?v=MEXtG2JE5D4)
     - [AMD Radeon GPUs Explained](https://youtu.be/fymY8bsDVCU)
 
 ### Power Supply Units (PSUs)
+
+The PSU is often overlooked but incredibly important. It provides the necessary power to all your components. Choosing the wrong PSU can lead to system instability or even hardware failure.
 
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)❗
 - [Guide to Buying a Power Supply](https://youtu.be/51oo3ROtVOE)
@@ -121,9 +127,11 @@ The GPU is the most important component when looking at a gaming PC. For this re
 - [PSU Buying Guide for Creators - It's Slightly Different](https://youtu.be/xMSdmD3C50E)
 - [PSUs Explained](https://www.youtube.com/watch?v=yJ73fAJEMtk)
 - [How to Pick a Power Supply](https://www.youtube.com/watch?v=HSeIlzVxgJ4)
-- [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&t=677s) – Even though it’s from 2020, it’s still relevant now.
+- [Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&t=677s) – Despite being from 2020, it’s still relevant today.
 
 ### Storage Solutions
+
+Storage determines how quickly your PC loads files and games. SSDs are much faster than traditional HDDs and have become standard in gaming PCs.
 
 - [SSD vs HDD - Which One Should You Choose?](https://www.youtube.com/watch?v=PKRB6umzeAg)
 - [What's Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)❗
@@ -136,9 +144,11 @@ The GPU is the most important component when looking at a gaming PC. For this re
 
 ### Computer Cooling
 
+Cooling keeps your system running smoothly by preventing components from overheating. Choosing the right cooling solution depends on your needs, such as overclocking or noise control.
+
 - [CPU Cooling Explained](https://www.youtube.com/watch?v=pzsPWY-ofQg)❗
 - [Which Cooler Is Right for Your Computer?](https://youtu.be/f5Yj1fcce7o)❗
-- [Air vs Liquid Cooling: Which Is Best for Your Pc? Cpu Coolers Explained](https://youtu.be/kQSy8CS-iEI)❗
+- [Air vs Liquid Cooling: Which Is Best for Your PC?](https://youtu.be/kQSy8CS-iEI)❗
 - [CPU Air Cooling vs Watercooling... Which is Right for You?](https://www.youtube.com/watch?v=RQ3c0kspOb8&t=347s)
 - [How To Choose The BEST Fans For Your PC Build](https://www.youtube.com/watch?v=tGenFt-m7Zk)
 - [How Many Case Fans Do You REALLY Need?](https://www.youtube.com/watch?v=KTDZpYkEonY)
@@ -146,21 +156,25 @@ The GPU is the most important component when looking at a gaming PC. For this re
 
 ### Gaming Monitors Explained
 
+Your monitor impacts your gaming experience just as much as your GPU. Factors like refresh rate, resolution, and panel type play a major role in how your games look and feel.
+
 - [How to Pick a Gaming Monitor](https://www.youtube.com/watch?v=imxVMrp9hdg)❗
 - [Gaming Monitor Explained](https://www.youtube.com/watch?v=zH28Pp83xDc)
 - [Watch This BEFORE You Buy a Monitor!](https://youtu.be/nEAyY9dzAZ0)
-- [What is The BEST Monitor Explained - 240Hz 1080p Vs. 144hz 1440p Vs. 4K 60Hz](https://www.youtube.com/watch?v=TwMOVPxDCwQ&t=236s)
+- [What is The BEST Monitor? 240Hz 1080p vs. 144Hz 1440p vs. 4K 60Hz](https://www.youtube.com/watch?v=TwMOVPxDCwQ&t=236s)
 - [1080p vs 1440p vs 4K Gaming Monitors](https://youtu.be/pZi2V5C40_w)
 - [Fastest 1080p vs. 1440p Monitor](https://youtu.be/d7wTYfWvlPE)
 - [Cheap Vs Expensive: Gaming Monitors](https://youtu.be/8LoZCtNKo48)
 - [Ultrawide vs. 4K Gaming – Before You Buy!](https://www.youtube.com/watch?v=RZ0vnJ4B3cM&t=58s)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
 - [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
-- [FreeSync vs G SYNC](https://www.youtube.com/watch?v=NuFQtPJ-fIQ)
+- [FreeSync vs G-SYNC](https://www.youtube.com/watch?v=NuFQtPJ-fIQ)
 - [What Are Response Times? Overshoot? Cumulative Deviation? - Performance Charts Explained](https://youtu.be/42IAbsMYxts)
 - [Monitor Colour Accuracy Explained - sRGB, DCI P3, DeltaE and more!](https://youtu.be/FW_y0oZd0NQ)
 
 ### Peripherals: Mouse, Keyboard, and Headsets Explained
+
+Peripherals play a huge role in how comfortable and effective you are while gaming. A good mouse, keyboard, or headset can make all the difference.
 
 - [What to Look for in a Gaming Mouse](https://www.youtube.com/watch?v=EYoFzaAjLsQ)❗
 - [How to Choose the RIGHT Keyboard Size (60%, 65%, TKL, 100%)](https://www.youtube.com/watch?v=DWYxofVGIB0)
@@ -170,53 +184,53 @@ The GPU is the most important component when looking at a gaming PC. For this re
 
 ### PC Cases Explained
 
+The PC case isn’t just about looks—it’s critical for airflow, cooling, and fitting all your components. Make sure you choose a case that fits your parts and has room for upgrades.
+
 - [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)❗
 - [Case Airflow](https://www.youtube.com/watch?v=qGYr2fgBB-s)
 - [How to Choose Your Next Case](https://www.youtube.com/watch?v=sDqOUfqcLY0)
 
 ### In-Game Settings Explained
 
+Understanding in-game graphics settings can help you maximize performance and visuals. Knowing what each setting does will let you customize your experience based on your hardware.
+
 - [PC Graphics Settings Explained | Antialiasing, Vsync and More!](https://www.youtube.com/watch?v=793FHtSH8pg)
 - [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
 - [Ray Tracing](https://youtu.be/f1nrkm7jii4)❗
 - [What Is Ray Tracing?](https://www.youtube.com/watch?v=0FMlPUEAZfs)❗
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)❗
-- [Real-Time Ray Tracing Explained](https://youtu.be/lFnWy0Odsh8)❗ - this is a really good video but I would watch after watching the Techquickie video What is Ray Tracing?
+- [Real-Time Ray Tracing Explained](https://youtu.be/lFnWy0Odsh8)❗ – Watch this after the Techquickie video to get a deeper understanding.
 - [An Introduction to Graphics Settings](https://www.youtube.com/watch?v=1Hvinc0VIyM&t=73s)
-- [Star Wars Outlaws: GPU Tests, Bugs, Artifacts and more](https://youtu.be/wY7TqoVIiyw)❗ – This is a newer video that’s great for seeing modern graphics settings in action.
+- [Star Wars Outlaws: GPU Tests, Bugs, Artifacts and more](https://youtu.be/wY7TqoVIiyw)❗ – A great example of modern graphics settings in action.
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&t=29s)
 - [Why Is Frame Rate Important?](https://www.youtube.com/watch?v=wmmrIIZyapk)
 - [Is Ray Tracing Good?](https://youtu.be/DBNH0NyN8K8)
 
 ### Additional Learning Resources
 
-- If you're looking for more clarification on anything specific, [Techquickie](https://www.youtube.com/@techquickie) is an amazing resource. Here are a few recommended videos to get started:
+If you’re looking to dig deeper into specific topics or concepts, these resources are fantastic starting points.
 
-  - [Thermal Throttling](https://www.youtube.com/watch?v=kUyuKqIfMN0)❗
-  - [What is Overclocking](https://www.youtube.com/watch?v=RPmDSYRKnXM)
-  - [Overclocking](https://www.youtube.com/watch?v=yyv9Y2miV64)
-  - [Temperatures](https://www.youtube.com/watch?v=VuP6I0mOb1s)❗
-  - [CPU and GPU](https://www.youtube.com/watch?v=1kypaBjJ-pg&t=147s)❗
-  - [LCD Monitor Panels Types - TN vs IPS vs VA](https://www.youtube.com/watch?v=zNc2fKuVnGU)❗
-  - [Resolution](https://www.youtube.com/watch?v=XqdPciq2yJs)❗
-  - [What Computer Case Should You Buy?](https://www.youtube.com/watch?v=aEHDTJMqmpc&t=28s)❗
-  - [Refresh Rate](https://www.youtube.com/watch?v=YCWZ_kWTB9w)❗
-  - [GPU Settings](https://www.youtube.com/watch?v=QDpsVVJXYAs&t=194s)
-  - [Mouse Acceleration](https://www.youtube.com/watch?v=16diwK6HWbI)❗
-  - [BIOS](https://www.youtube.com/watch?v=zIYkol851dU)❗
-  - [BIOS](https://www.youtube.com/watch?v=D1R2ttrvbdI)❗
-  - [PSU](https://www.youtube.com/watch?v=RUk8CUu30X0)
-  - [SSD vs Hard Drive](https://www.youtube.com/watch?v=YQEjGKYXjw8)
-  - [PSU](https://www.youtube.com/watch?v=dOXTZizoknc)
-  - [What SSD To Buy As Fast As Possible](https://www.youtube.com/watch?v=RzHp_IBbYYY)
-  - [Keyboard Switches Part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) -|- [Mechanical Keyboard Switches Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)❗
-  - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)❗
+- [Thermal Throttling](https://www.youtube.com/watch?v=kUyuKqIfMN0)❗
+- [What is Overclocking](https://www.youtube.com/watch?v=RPmDSYRKnXM)
+- [Temperatures](https://www.youtube.com/watch?v=VuP6I0mOb1s)❗
+- [LCD Monitor Panels Types - TN vs IPS vs VA](https://www.youtube.com/watch?v=zNc2fKuVnGU)❗
+- [Resolution](https://www.youtube.com/watch?v=XqdPciq2yJs)❗
+- [What Computer Case Should You Buy?](https://www.youtube.com/watch?v=aEHDTJMqmpc&t=28s)❗
+- [Refresh Rate](https://www.youtube.com/watch?v=YCWZ_kWTB9w)❗
+- [Mouse Acceleration](https://www.youtube.com/watch?v=16diwK6HWbI)❗
+- [BIOS](https://www.youtube.com/watch?v=zIYkol851dU)❗
+- [What SSD To Buy As Fast As Possible](https://www.youtube.com/watch?v=RzHp_IBbYYY)
+- [Mechanical Keyboard Switches Part 1](https://www.youtube.com/watch?v=PXCKHoiNu1o) –|- [Part 2](https://www.youtube.com/watch?v=F_EccqSqsl8)❗
+- [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)❗
+- [How to Deep Clean Your Computer](https://www.youtube.com/watch?v=Y51yZE18qus)
+- [PC Myths You Should NOT Believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
 
 ### Extra Tips
 
-- [50 PC Build Tips in Under 10 Minutes](https://www.youtube.com/watch?v=DEA0_upu4sQ&t=328s) – Quick and essential tips before you dive into building your PC.
+Before diving into your build, check out these quick tips to make sure everything goes smoothly:
+
+- [50 PC Build Tips in Under 10 Minutes](https://www.youtube.com/watch?v=DEA0_upu4sQ&t=328s) – Essential advice packed into a short video.
 - [PC Myths You Should NOT Believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
-- [How to Deep Clean Your Computer](https://www.youtube.com/watch?v=Y51yZE18qus)
 - [How to Choose Your Next Case](https://www.youtube.com/watch?v=sDqOUfqcLY0)
 
 ---
@@ -234,41 +248,38 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 - [How to Correctly Choose Parts](https://youtu.be/j_DcWgxMZ3k)❗
 - [How to Pick PC Parts?](https://www.youtube.com/watch?v=xa5j_eiPATw)
-- [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ – Short but super helpful video on an important topic.
+- [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ – A short but super helpful video on an important topic.
 - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
 - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
 
 ### PC Build Advice
 
-- [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – This is a must-watch. A better CPU can go a long way that isn't just more FPS.
+- [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – A must-watch! A better CPU can make a huge difference beyond just FPS.
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
-- [PC Case AIRFLOW; A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
-- [Does High FPS Make You a Better Gamer? – Favorite Moments](https://youtu.be/x-kwlaKKhp4)❗ - Nvidia's video is an exceptionally well-done, straightforward explanation, with [Linus](https://www.youtube.com/@LinusTechTips) breaking down the topics and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating them.
-  
- Byte Size Tech offers some great tips on choosing parts that offer the best value and longevity (yes, the videos are a little old, but that doesn't matter—just focus on the overall message):
-  
-  - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
-  - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗
-  - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard?](https://youtu.be/-Kn3zYIdGts)❗
-  - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
-  - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&t=136s)
-  - [Is It OK to Use a B-Series Motherboard?](https://youtu.be/1udxd2i-XDM)❗
-  - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
-  - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
-  - [What SSD Should You Buy?](https://youtu.be/3RC5S2xANZA)❗ – TLDR: Go for name brands like Samsung, Crucial, or SK Hynix, and make sure it has a D-Ram buffer.
-  - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&t=346s)
-  - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&t=82s)
-  - [Choosing a CPU for Ultrawide High-Refresh Monitors](https://www.youtube.com/watch?v=wgX3iJAsINM)
-  - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&t=270s)❗
-  
- Here are some other really good part advice from other youtubers to watch.
- -  [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
- -  [Ray Tracing](https://youtu.be/f1nrkm7jii4) -|- [What Do Gamers Actually Think About Ray-Tracing?](https://youtu.be/L9703KrH06s) These 2 videos aren't about choosing specific parts, but rather at some point you will have to decied if you *need* ray tracing or not. At the time of writing, **NVIDIA** is your only option for it. Ray tracing improves lighting, reflections, and shadows for more realism but can affect performance. Depending on your games, it might be worth the investment—or not. Keep that in mind as you finalize your build. 
- -  [CPU bottlenecks explained](https://youtu.be/2DfGNPiNTuM)❗ -|- [The Bottleneck Paradox](https://youtu.be/8qB7BkRtOpg)❗ I like these two videos because they show how some games are CPU-limited while others are GPU-limited, helping you avoid bottlenecks when building your PC.
- -  [How Bad Is 8GB of VRAM in 2024? The Newest Games, RT On/off, Ultra, High, 1080p, 1440p, 4K](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024? Newest Games Tested](https://youtu.be/P2qs2lLdWHY) these 2 videos show how VRAM impacts gaming preformence really good watch when looking for what gpu to buy
- -  [4 Core vs. 6 Core vs. 8 Cores, Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – This is an older video, but it’s still relevant for understanding how CPU cores affect FPS. Just note, 8 cores are starting to phase out, so go for 12 cores minimum if you want to play new AAA games. (i.e ELden Ring) really focaus on how more cores affect preformece this would be same thing going from 8 to 12 to 16 what really matters is the core scalling
- -  [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) - this video is really good for showing what makes a case bad.
- -  [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) In this video, he explains why ultra settings aren’t worth it for most gamers, as the performance hit is significant with minimal visual improvement over high settings. He breaks down how you can get way better FPS without losing noticeable visual quality. this is something to think about when putting a build together. 
+- [PC Case AIRFLOW: A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
+- [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – Nvidia’s video explains this perfectly, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
+
+**Byte Size Tech** offers great tips for value and longevity (some videos are older, but the lessons are timeless):
+- [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
+- [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard?](https://youtu.be/-Kn3zYIdGts)❗
+- [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
+- [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&t=136s)
+- [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
+- [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
+- [What SSD Should You Buy?](https://youtu.be/3RC5S2xANZA)❗ – TL;DR: Go for name brands like Samsung, Crucial, or SK Hynix with a DRAM buffer.
+- [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&t=346s)
+- [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&t=82s)
+- [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&t=270s)❗
+
+### More Advice from Other Creators
+
+- [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
+- [Ray Tracing](https://youtu.be/f1nrkm7jii4) -|- [What Do Gamers Actually Think About Ray-Tracing?](https://youtu.be/L9703KrH06s) – Learn whether ray tracing is worth the investment for you.
+- [CPU Bottlenecks Explained](https://youtu.be/2DfGNPiNTuM)❗ -|- [The Bottleneck Paradox](https://youtu.be/8qB7BkRtOpg)❗ – These videos explain how CPU and GPU bottlenecks can affect your PC’s performance.
+- [How Bad Is 8GB of VRAM in 2024?](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024?](https://youtu.be/P2qs2lLdWHY) – A great watch if you're unsure how VRAM impacts gaming performance.
+- [4 Core vs. 6 Core vs. 8 Core CPUs: Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – Although older, this video explains how CPU cores impact FPS, which is still relevant.
+- [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
+- [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
 
 ### Parts Lists
 
@@ -307,37 +318,35 @@ More RAM is always beneficial for gaming and productivity. I wouldn't go less th
 ### PSU
 A good PSU will last you through multiple builds. My go too for finding what is a good PSU is the [PSU Tier List](https://cultists.network/140/psu-tier-list/) and I always strive for **A Tier**. Don't settle for lower-rated PSUs that may fail under load and damage your components. Spending more here on a high-quality PSU, such as a **Seasonic PSU**  will last you a lot longer than cheaper power supplies. For how may Watts I would go with a 1000W PSU, they provide consistent power delivery and allows for future upgrades, saving you money becasue you don't have to replace later. 
 
-
 By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
 
-Here are some good builds from youtubers that show full part lists so if that is something your looking for here are some good choices. 
-- [Best PC Part Picker lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ - These are really good builds Fr33thy is hands down the best fps tester on youtube. here is the video he did on the [builds](https://youtu.be/E8ZGw9FmRMw)
+- [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/E8ZGw9FmRMw).
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
 - [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
-- [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
-- [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
-- [$600 Gaming PC Build Guide (All New Parts)](https://www.youtube.com/watch?v=9hman7NikdI)
-- [Ryzen 7 7700X PC Build Guide — Parts Overview Part 1](https://youtu.be/KkkUVm791o4) 
-    - I’d really recommend watching [part 2](https://youtu.be/Y4VBv-77BVY) for more insight into why he picked these parts.
-- [Super Quiet Rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
+- [Building the $1200 Sweet Spot Gaming PC](https://youtu.be/XrRVC6nSNM8)
+- [$600 Gaming PC Build Guide](https://www.youtube.com/watch?v=9hman7NikdI)
+- [Ryzen 7 7700X PC Build Guide](https://youtu.be/KkkUVm791o4) – Watch [Part 2](https://youtu.be/Y4VBv-77BVY) for detailed explanations.
 
-Two YouTube channels I highly recommend for regular builds are [ScatterVolt](https://youtube.com/@ScatterVolt) and [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5).
+For regular builds, check out these YouTubers:
+- [ScatterVolt](https://youtube.com/@ScatterVolt)
+- [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
 
-Here are some videos covering various games across a range of hardware setups. These might help you gauge how well your build could perform. (If you need help understanding the metrics in these videos, check out this explanation: [video](https://youtu.be/uXepIWi4SgM)).
-- [Red Dead Redemption 1 PC Performance Analysis (and Steam Deck)](https://youtu.be/jzfCa2HaHQc) - a older game that just came out for PC for the first time in 2024
-- [Monster Hunter: Wilds PC Beta | Performance Benchmarks, Analysis and Concerns Over Inadequate Optimization](https://youtu.be/bHdM-Gbqf24)
-- [PC Performance Benchmarks and Analysis Dragon Age the Veilguard](https://youtu.be/HNL8oz7zxRo)
+### Performance Benchmarks
+
+These videos show various games across hardware setups to help you gauge your build’s performance:
+- [Red Dead Redemption 1 PC Performance Analysis](https://youtu.be/jzfCa2HaHQc)
+- [Monster Hunter: Wilds PC Beta Performance Benchmarks](https://youtu.be/bHdM-Gbqf24)
 - [God of War Ragnarok PC Performance Tested](https://youtu.be/2UsTzzmr5DY)
-- [CoD Black Ops 6 Beta PC Performance Tested RTX 4060, 4070 Super, 7800 XT](https://youtu.be/95F4bQL1uqA)
-- [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗ - This game just came out and includes a full range of graphics options, from max ray tracing to AI upscaling. If your PC can run it smoothly, you likely have a solid setup and followed the guide correctly.
-- 
+- [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗
 
 ---
 
+### Buying Used PC Parts
+
 If you’re thinking about buying **used PC parts**, make sure to check these cautionary videos first:
-  
+
 - [Don’t Get Ripped Off](https://youtu.be/QOTZyhxO_yk)
 - [I Bought This Used Gaming PC for Cheap. Did I Get Scammed?](https://www.youtube.com/watch?v=Hfu5MmGb3cc) -|- [Cheap Upgrades Big Improvements](https://youtu.be/qWe6cIzd41g)
 - [The Ultimate Guide - How to Build Budget Gaming PCs](https://www.youtube.com/watch?v=h0URlGf4BrM)
@@ -349,38 +358,39 @@ If you’re thinking about buying **used PC parts**, make sure to check these ca
 - [I Got a CRAZY Deal on This USED PC!](https://youtu.be/B_m21njq_jo)
 - [Guessing Prices for Custom PC Builds' Listings](https://youtu.be/gIMOtNzjHL4) -|- [Facebook Marketplace Is Very Bad](https://www.youtube.com/watch?v=PtPhyaNUw1s)
 
-Make sure to also check out [Greg Salazar's playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi) to stay smart when buying used parts!
+For more advice on buying used parts, check out [Greg Salazar's playlist](https://www.youtube.com/playlist?list=PLyReHG5dDxXX3ENYj2zUP9TU5FfSWijoi). It’s packed with tips to help you avoid scams and make smart purchases!
 
 ---
 
 ### PC Peripherals
 
 #### **Monitors**
-- [Monitors Unboxed](https://www.youtube.com/@monitorsunboxed)❗ – This is hands-down the best channel for monitor reviews.
-- [ShortCircuit](https://www.youtube.com/watch?v=e6GFbegm5Uw&list=PL5mCfMLcc_thM_bOuKMRVZ7NKR842zp1Z) – For first impressions and unboxings, this side channel of Linus Tech Tips is solid.
-- [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOrgOHlAr4HvYeE-4Mlnl_aQ) – If you’re into esports, Optimum is great for monitor reviews.
+- [Monitors Unboxed](https://www.youtube.com/@monitorsunboxed)❗ – The best channel for detailed monitor reviews.
+- [ShortCircuit](https://www.youtube.com/watch?v=e6GFbegm5Uw&list=PL5mCfMLcc_thM_bOuKMRVZ7NKR842zp1Z) – Great for unboxings and first impressions (a Linus Tech Tips side channel).
+- [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOrgOHlAr4HvYeE-4Mlnl_aQ) – Excellent for esports-focused monitor reviews.
 
 #### **Mouse**
-- [Boardzy](https://www.youtube.com/@boardzy)❗ – The best when it comes to mouse reviews.
-- [Rocket Jump Ninja](https://www.youtube.com/@RocketJumpNinja/videos) – Another solid channel if you need a second opinion on a mouse.
-- [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRov7L_KBFicFO9e15Pa0gUFy) – Super detailed reviews for all types of mice.
-- [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOqhz0EK4YBQqO-yA1NVOn46) – Optimum’s reviews for esports mice are top-notch too.
+- [Boardzy](https://www.youtube.com/@boardzy)❗ – The go-to channel for mouse reviews.
+- [Rocket Jump Ninja](https://www.youtube.com/@RocketJumpNinja/videos) – Another reliable source for mouse reviews.
+- [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRov7L_KBFicFO9e15Pa0gUFy) – Highly detailed mouse reviews.
+- [Optimum](https://www.youtube.com/playlist?list=PLv8HwYhBwOOqhz0EK4YBQqO-yA1NVOn46) – Great for esports-focused mouse reviews.
 
 #### **Keyboard**
-- [Hipyo Tech](https://www.youtube.com/@HipyoTech/videos) – My go-to for keyboard reviews.
-- [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRotrNQXeaMYaE7jU29u7Ef_W) – Again, BadSeed’s keyboard reviews are solid.
-- [Hardware Canucks](https://www.youtube.com/@HardwareCanucks) – Though they review a lot of tech, their keyboard reviews are some of the best.
-- [Optimum](https://www.youtube.com/@optimumtech) – Optimum does fewer keyboard reviews, but when he does, they’re always excellent.
+- [Hipyo Tech](https://www.youtube.com/@HipyoTech/videos) – My top pick for keyboard reviews.
+- [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRotrNQXeaMYaE7jU29u7Ef_W) – Consistently high-quality keyboard reviews.
+- [Hardware Canucks](https://www.youtube.com/@HardwareCanucks) – While they review all kinds of tech, their keyboard reviews stand out.
+- [Optimum](https://www.youtube.com/@optimumtech) – Fewer keyboard reviews, but always top-notch.
 
 #### **Headset**
-Here are some headset recommendations:
+Looking for the best gaming headsets? Here are some solid recommendations:
+
 - [Gaming Headset Buyer’s Guide 2020](https://www.youtube.com/watch?v=yX7w88Zo5rU)
 - [Roundup of $100 Gaming Headsets](https://www.youtube.com/watch?v=bs2mLHcnP8U&t=394s)
 - [Top Gaming Headsets of 2020](https://www.youtube.com/watch?v=GL473v97e_Y&t=610s)
 - [Review of PC38X Headset](https://www.youtube.com/watch?v=zNjO98dZUGQ&t=223s) -|- [Enhancing Audio with Amps](https://www.youtube.com/watch?v=-HLlmBtyYGw)
 - [Best Audiophile Gaming Headsets](https://www.youtube.com/watch?v=0k6M25mWUHk&t=482s)
 - [Top Gaming Headsets of 2019](https://www.youtube.com/watch?v=WSh3cpiBLXY)
-- [Recommended Gaming Headphone Amps / DACs](https://www.youtube.com/watch?v=DUJe6Dtn1Iw&t=984s)
+- [Recommended Gaming Headphone Amps/DACs](https://www.youtube.com/watch?v=DUJe6Dtn1Iw&t=984s)
 - [Enhance Audio with Gaming Amps & DACs](https://www.youtube.com/watch?v=XoOxXBVNHso)
 
 ## Active Deals!!!
@@ -391,77 +401,88 @@ Here are some headset recommendations:
 
 ---
 
-## 2.5 Prebuilt - (Optional)
+## Prebuilt - (Optional)
 
-If you’re thinking about going the prebuilt route, it’s important to know what you’re getting into. Prebuilts can be convenient, but sometimes you end up paying more for less. Watch these videos so you can make sure you’re not overpaying or getting stuck with low-quality components.
+If you’re thinking about going the prebuilt route, it’s important to know what you’re getting into. Prebuilts can be convenient, but sometimes you end up paying more for less. Watch these videos to ensure you’re not overpaying or getting stuck with low-quality components.
+
+### Prebuilt PC Warnings and Reviews
 
 - [Warnings About Pre-Built PCs: Proprietary Parts, Monthly Charges, & Components](https://www.youtube.com/watch?v=cKxBogvUe_c&t=340s)
-- [Are Pre-Built Gaming PCs Better In 2024?](https://youtu.be/9h8d8mrPSuY) – A great video explaining why pre-built PCs might not be the best option.
-- [Linus Tech Tips’ Secret Shopper Series](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) is awesome. They went undercover and bought prebuilt PCs to review—definitely worth a watch to understand what’s good and bad.
+- [Are Pre-Built Gaming PCs Better In 2024?](https://youtu.be/9h8d8mrPSuY) – A great video explaining why prebuilt PCs might not always be the best option.
+- **Linus Tech Tips’ Secret Shopper Series** – This series is a must-watch! They went undercover and reviewed prebuilt PCs to highlight the good and bad:
   - [$1500 PC Secret Shopper 2 Part 1](https://www.youtube.com/watch?v=Gz7WMF4wWko)
   - [$1500 PC Secret Shopper 2 Part 2](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&t=439s)
   - [$1500 PC Secret Shopper 2 Part 3](https://www.youtube.com/watch?v=0ViO0ETvfEc&t=15s)
   - [$1500 PC Secret Shopper 2 Part 4](https://www.youtube.com/watch?v=Go5tLO6ipxw&t=1157s)
-- [Gamers Nexus](https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA) also has a series of videos to help find a solid prebuilt. Here are a few of my favorites:
+- **Gamers Nexus** – Known for their detailed reviews, here are some highlights:
   - [Corsair | $4,700 Pre-Built Gaming PC Review (Corsair One I500)](https://youtu.be/Gqm4V-8F-7k)
   - [NZXT BLD Review](https://www.youtube.com/watch?v=iY-SEPGvqxY&t=831s)
-  - [Starforge Review](https://youtu.be/W9YiOLX5uQU) – If you want a good prebuilt, this one is probably the best reviewed by Gamers Nexus.
+  - [Starforge Review](https://youtu.be/W9YiOLX5uQU) – Starforge PCs are among the best-reviewed prebuilts.
   - [Cyberpower $1000 Pre-Built Gaming PC Review](https://www.youtube.com/watch?v=M68aE1za_Ak&t=268s)
   - [iBUYPOWER Pre-Built Gaming PC Slate MR1004 Review](https://www.youtube.com/watch?v=9sDRiakWcIM&t=1280s)
-  - [Dell G5 5000 PC's Review](https://www.youtube.com/watch?v=4DMg6hUudHE) -|- [Dell's Dumpster Fire: Bloatware Uses 30% Gpu (G5 5000 Review & Benchmarks)](https://youtu.be/5N7aYtkzKJc)
-  - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s) – This is a review of a really bad graphics card included with a Dell prebuilt PC.
+  - [Dell G5 5000 PC Review](https://www.youtube.com/watch?v=4DMg6hUudHE) -|- [Dell's Dumpster Fire: Bloatware Uses 30% GPU (G5 5000 Review & Benchmarks)](https://youtu.be/5N7aYtkzKJc)
+  - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s)
 
-A bunch of other videos show how shady some prebuilt PC companies can be:
-  - [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
-  - [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
-  - [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
-  - [So We Called Dell’s Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
-  - [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
-  - [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
+### The Risks of Prebuilt PCs
 
-If you’re leaning toward buying a prebuilt, I also recommend Dawid Does Tech Stuff—he reviews a ton of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma). Super helpful before making your decision.
+Some prebuilt PC's are not the best. Check out these videos to avoid getting ripped off
 
-### Good Prebuilds:
+- [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
+- [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
+- [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
+- [So We Called Dell’s Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
+- [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
+- [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
 
-- **Starforge PCs** are getting some attention for their high-quality builds. They’re owned by streamers who understand the gaming community’s needs, and they’re super responsive to feedback. After some initial criticism from Gamers Nexus, one of the owners responded [here](https://www.youtube.com/watch?v=RY4au05ukho), which really shows their commitment to improving their products. If you’re looking for a good prebuilt, Starforge is a solid option.
-- **ABS PCs** from NewEgg are another decent prebuilt option. They are built with off-the-shelf parts, so they can be upgraded easily. Dawid Does Tech Stuff reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI), and while it ran a little hot, he made [a follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) showing how $50 in extra fans fixed that. For esports games, this prebuilt will run smoothly at over 60 fps. this is by no means a fancy or high end system but for a big brand to do this well it deserves a metion.
-- **Micro Center**: If you’ve got a Micro Center nearby, they’ll build a PC from parts you select. It’s a great option for anyone new to PCs. [Here’s a review](https://www.youtube.com/watch?v=1FEcewDnROg&t=245s) of the service.
-- **Falcon Northwest** They're a really good choice if you're looking for a very high-end, hand-built custom PC with top-quality parts and real customer care. Definitely a solid choice. They've been making custom computers since 1992, so they've been in the game for over 30 years. [Why These High-End Desktops Are Unique](https://youtu.be/TztDC-mh6qs) -|- [A Review of the Falcon Northwest Talon Prebuilt Computer](https://youtu.be/ijKFpM5oPZk)
+If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff**. He reviews a ton of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma), offering excellent insights before you make a decision.
+
+### Good Prebuilts
+
+- **Starforge PCs** – Known for high-quality builds, they are owned by streamers who understand the gaming community’s needs. They’ve been responsive to feedback, as seen in [this video](https://www.youtube.com/watch?v=RY4au05ukho), making them a solid choice.
+- **ABS PCs** – Available from Newegg, these prebuilts use off-the-shelf parts, making upgrades easy. Dawid Does Tech Stuff reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI). Although it ran hot initially, he showed in [a follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) how $50 in extra fans fixed the issue. Great for esports games with 60+ FPS performance.
+- **Micro Center** – If you live near a Micro Center, they’ll build a PC with parts you choose. It’s a great option for beginners. [Here’s a review of their service](https://www.youtube.com/watch?v=1FEcewDnROg&t=245s).
+- **Falcon Northwest** – Ideal for high-end, custom-built PCs. They’ve been in the business since 1992, offering excellent customer care and top-quality parts. Check out:
+  - [Why These High-End Desktops Are Unique](https://youtu.be/TztDC-mh6qs)
+  - [A Review of the Falcon Northwest Talon Prebuilt Computer](https://youtu.be/ijKFpM5oPZk)
 
 ---
 
-## 3. Building
+## Building
 
-This part seems intimidating, but it’s way easier than it looks. Make sure you’ve got all your parts before you start. I highly recommend checking out [Carey Holzman](https://www.youtube.com/c/CareyHolzman/videos)❗, the best YouTuber for step-by-step PC building. He explains things clearly and shows you exactly where everything goes.
+Building your PC might seem intimidating, but it’s way easier than it looks. Make sure you have all your parts before you start! 
 
-Here are my top 3 Carey Holzman build guides—you only need to watch one:
+### [CareyHolzman](https://www.youtube.com/@CareyHolzman)—he’s hands-down the best YouTuber for step-by-step PC building. He explains everything clearly and shows you exactly where everything goes. 
+You only need to watch one of these, but they’re all excellent
 - [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)❗
-- [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)
-- [A PC Build That Just Works Even If It’s Your First Time](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)
+- [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)❗
+- [A PC Build That Just Works Even If It’s Your First Time](https://www.youtube.com/watch?v=_71ArmcP9G8&t=2091s)❗
 
-Other Build Videos:
-  
-- [Detailed Build Video](https://youtu.be/KGPXKgT1SEo)❗ – A really good, detailed step-by-step guide that walks you through building your PC. It’s long, but worth it if you want to be thorough.
-- Linus Tech Tips also has a solid build guide. It’s shot from a POV perspective, so it’s easy to follow along:
-  - [How to build a PC (POV)](https://youtu.be/DC-Xn2C_L1U)
-- For something a bit more entertaining while you wait for your parts to arrive, check out [Mr Matt Lee](https://www.youtube.com/@Mr_Matt_Lee). He’s a silent builder, but his builds have some of the best angles and quality in the community:
+### Other Build Videos From Other Creators
+
+- [Detailed Build Video](https://youtu.be/KGPXKgT1SEo)❗ – A thorough, step-by-step guide for building your PC. It’s long but perfect if you want to ensure you get every step right.
+- Linus Tech Tips has an excellent POV-style guide that’s super easy to follow:
+  - [How to Build a PC (POV)](https://youtu.be/DC-Xn2C_L1U)
+- For high-quality, silent builds, check out [Mr Matt Lee](https://www.youtube.com/@Mr_Matt_Lee). His videos have some of the best angles and clarity in the community:
   - [DeepCool Morpheus Gaming PC Build](https://youtu.be/AAF9_4m0eFw)
-  - [An Ideal 1440p Beginners Gaming PC Build](https://youtu.be/dyKnhvYZ66k)
+  - [An Ideal 1440p Beginner’s Gaming PC Build](https://youtu.be/dyKnhvYZ66k)
 - [How to Build a Gaming PC in 2021 - Easy 10-minute Build Guide!](https://www.youtube.com/watch?v=sLWXvNbJMpw&t=489s)
-- This is another Linus Tech Tips build—watch him teach an NBA player to build his first PC: [Beginner Build Guide](https://www.youtube.com/watch?v=p1t8YJvOWzo).
-- [Beginner's Guide to Gaming PCs](https://www.youtube.com/playlist?list=PLRnHcRQUxuoeQM4-llcMNXTakKZcAAyB6) – This playlist is great if you need more guidance on any step of the build process.
-  
-Finally, here are some videos with extra tips:
-  - [What To Do AFTER You’ve Built Your Gaming PC!](https://www.youtube.com/watch?v=1tdhgcOLjZw&t=85s)
-  - [15 Things You NEED to Know When Building a PC!](https://www.youtube.com/watch?v=b5Fq47jC_VM)
-  - [Things Not to Do When Building a PC](https://www.youtube.com/watch?v=CDUZRNp4pxg)
-  - [Fixing The Verge PC Build](https://www.youtube.com/watch?v=QKzmYsySGFQ&t=983s)❗ – This video’s helpful because it goes over common mistakes new builders make.
-  - [DON'T Do This When Building a PC!](https://www.youtube.com/watch?v=tZiw4aVr_vE&t=41s)
-  - [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&t=328s)
+- Linus Tech Tips also has a fun video where he teaches an NBA player to build his first PC: [Beginner Build Guide](https://www.youtube.com/watch?v=p1t8YJvOWzo).
+- [Beginner's Guide to Gaming PCs](https://www.youtube.com/playlist?list=PLRnHcRQUxuoeQM4-llcMNXTakKZcAAyB6) – A great playlist for detailed guidance on any step of the build process.
+
+### Extra Tips
+
+These videos offer helpful tips and highlight common mistakes to avoid when building your PC
+
+- [What To Do AFTER You’ve Built Your Gaming PC!](https://www.youtube.com/watch?v=1tdhgcOLjZw&t=85s)
+- [15 Things You NEED to Know When Building a PC!](https://www.youtube.com/watch?v=b5Fq47jC_VM)
+- [Things Not to Do When Building a PC](https://www.youtube.com/watch?v=CDUZRNp4pxg)
+- [Fixing The Verge PC Build](https://www.youtube.com/watch?v=QKzmYsySGFQ&t=983s)❗ – This video is especially helpful as it covers common mistakes new builders make.
+- [DON'T Do This When Building a PC!](https://www.youtube.com/watch?v=tZiw4aVr_vE&t=41s)
+- [10 Mistakes Beginners Make When Building a Gaming PC](https://www.youtube.com/watch?v=GOszDHC7fC4&t=328s)
 
 ---
 
-## 4. Optimizing Windows
+## Optimizing Windows
 
 Don’t skip this step! It's super important if you want to get the most out of your gaming rig. Some friends of mine bought a 144Hz monitor but never changed it from 60Hz in the Nvidia control panel, so they never actually got to use it to its full potential. 
 
@@ -490,7 +511,7 @@ Good software (Most free some paid)
   - [How to Install ICC Profiles in Windows - The Right Way](https://youtu.be/65VVCXBmnbs)
 ---
 
-## 5. Gaming Time!!!!!
+## Gaming Time!!!!!
 
 - [Using EVERY GAME LAUNCHER to Get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
 - [Game Launchers – Which One to Use?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
@@ -504,7 +525,7 @@ Also, keep an eye on your storage health—nothing worse than a sudden drive fai
 [My Kids Called Me Out... And They Were Right. Do This with Your Pc... Now](https://youtu.be/3-Yoqnh1lUU)
 
 ---
-## 7. More Videos and Channels I Recommend:
+## More Videos and Channels I Recommend:
 
 - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)
