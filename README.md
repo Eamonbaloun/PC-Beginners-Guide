@@ -92,7 +92,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
 - [How Does A Gaming Graphics Card (GPU) Work?](https://www.youtube.com/watch?v=5BiAlaFGCoE)❗ - this is old video just the guy explains everything really well I really like this video
 - [How to Choose a Graphics Card for Beginners](https://youtu.be/8hyWXJe_wts)❗ - this explains things you find when you go to buy a gpu good to know if you choose to but your own pc instead of pre-built
 - [VRAM Explained: How It Works & How Much You Need for Gaming](https://youtu.be/rTG1tziWF-A)
-- [What Is Ray Tracing?](https://youtu.be/0FMlPUEAZfs)
+- [Why High FPS Matters](https://youtu.be/jsnVuXj_IDM)❗ - This video from Nvidia does a great job explaining FPS and showing how it impacts the feel of a game.
 - [What Is an Nvidia Founders Edition GPU?](https://youtu.be/iR5e5fiUhwo)
 - [Upscaling Explained: Dlss vs XeSS vs FSR & More](https://youtu.be/Chpb3yNypxY)
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
@@ -102,6 +102,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
   - Nvidia 
     - [What Is RTX?](https://youtu.be/kp-VfBb5zzw)
     - [What Is Nvidia Reflex? - Measuring & Optimizing Latency for PC Games](https://youtu.be/BSH225-FqTo)
+    - [Real-Time Ray Tracing & Turing Architecture](https://youtu.be/f1nrkm7jii4)
     - [Double Your FPS for Free with AI Upscaling!- Nvidia Dlss 3.0](https://youtu.be/PUTsE1q1bYI)
     - [What Is Dlss in Games?](https://youtu.be/jx9RmxVG6EQ)
     - [Is RTX a Total Waste of Money? - Can We Even Tell When It's On?](https://youtu.be/2VGwHoSrIEU)
@@ -109,6 +110,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
   - AMD
     - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
     - [Is Ray Tracing Useable at 1440p? Rx 6800Xt 6 Games Tested](https://www.youtube.com/watch?v=MEXtG2JE5D4)
+    - [AMD Radeon GPUs Explained](https://youtu.be/fymY8bsDVCU)
 
 ### Power Supply Units (PSUs)
 
@@ -176,6 +178,7 @@ The GPU is the most important component when looking at a gaming PC. For this re
 
 - [PC Graphics Settings Explained | Antialiasing, Vsync and More!](https://www.youtube.com/watch?v=793FHtSH8pg)
 - [What Do All These Graphics Settings Mean?](https://youtu.be/tqDa5bp6X88)
+- [Ray Tracing](https://youtu.be/f1nrkm7jii4)❗
 - [What Is Ray Tracing?](https://www.youtube.com/watch?v=0FMlPUEAZfs)❗
 - [Graphics Settings Explained Feat. GTA 5!](http://youtube.com/watch?v=VRihC7TGVyU)❗
 - [Real-Time Ray Tracing Explained](https://youtu.be/lFnWy0Odsh8)❗ - this is a really good video but I would watch after watching the Techquickie video What is Ray Tracing?
@@ -240,6 +243,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – This is a must-watch. A better CPU can go a long way that isn't just more FPS.
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
 - [PC Case AIRFLOW; A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
+- [Does High FPS Make You a Better Gamer? – Favorite Moments](https://youtu.be/x-kwlaKKhp4)❗ - Nvidia's video is an exceptionally well-done, straightforward explanation, with [Linus](https://www.youtube.com/@LinusTechTips) breaking down the topics and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating them.
   
  Byte Size Tech offers some great tips on choosing parts that offer the best value and longevity (yes, the videos are a little old, but that doesn't matter—just focus on the overall message):
   
@@ -310,6 +314,7 @@ Here are some good builds from youtubers that show full part lists so if that is
 - [Best PC Part Picker lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ - These are really good builds Fr33thy is hands down the best fps tester on youtube. here is the video he did on the [builds](https://youtu.be/E8ZGw9FmRMw)
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
+- [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
 - [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
 - [Building the $1200 Sweet Spot Gaming PC that EVERYONE should build!](https://youtu.be/XrRVC6nSNM8)
 - [Building with Intel: Expert Tips, Full Build, and Component Alternatives](https://youtu.be/AV45GaSDh1k)
@@ -319,6 +324,15 @@ Here are some good builds from youtubers that show full part lists so if that is
 - [Super Quiet Rendering and Gaming PCs](https://youtu.be/T1b9_V95x3k)
 
 Two YouTube channels I highly recommend for regular builds are [ScatterVolt](https://youtube.com/@ScatterVolt) and [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5).
+
+Here are some videos covering various games across a range of hardware setups. These might help you gauge how well your build could perform. (If you need help understanding the metrics in these videos, check out this explanation: [video](https://youtu.be/uXepIWi4SgM)).
+- [Red Dead Redemption 1 PC Performance Analysis (and Steam Deck)](https://youtu.be/jzfCa2HaHQc) - a older game that just came out for PC for the first time in 2024
+- [Monster Hunter: Wilds PC Beta | Performance Benchmarks, Analysis and Concerns Over Inadequate Optimization](https://youtu.be/bHdM-Gbqf24)
+- [PC Performance Benchmarks and Analysis Dragon Age the Veilguard](https://youtu.be/HNL8oz7zxRo)
+- [God of War Ragnarok PC Performance Tested](https://youtu.be/2UsTzzmr5DY)
+- [CoD Black Ops 6 Beta PC Performance Tested RTX 4060, 4070 Super, 7800 XT](https://youtu.be/95F4bQL1uqA)
+- [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗ - This game just came out and includes a full range of graphics options, from max ray tracing to AI upscaling. If your PC can run it smoothly, you likely have a solid setup and followed the guide correctly.
+- 
 
 ---
 
