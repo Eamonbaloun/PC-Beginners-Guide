@@ -379,6 +379,7 @@ If you’re thinking about buying **used PC parts**, make sure to check these ca
 - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
 - [These Gaming PC Ads Are Clinically Insane](https://youtu.be/C1kungIywpQ)
 - [How to Get the Most for Your Money!](https://youtu.be/Qk8qVYAzOYA)
+- [New Vs Used: $200 Graphics Card Showdown](https://youtu.be/GE7LA0JDJ78)
 - [You SHOULD Buy Used GPUs - Testing Used Mining Cards](https://youtu.be/UFytB3bb1P8)
 - [I Got a CRAZY Deal on This USED PC!](https://youtu.be/B_m21njq_jo)
 - [Guessing Prices for Custom PC Builds' Listings](https://youtu.be/gIMOtNzjHL4) -|- [Facebook Marketplace Is Very Bad](https://www.youtube.com/watch?v=PtPhyaNUw1s)
