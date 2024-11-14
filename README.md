@@ -64,6 +64,7 @@ I’ve been messing around with computers for over a decade and have built quite
 - [PC GAMING vs CONSOLE GAMING](https://www.youtube.com/watch?v=VAHHJQOlvgw)
 - [PC Gaming vs. Consoles: Why You Can’t Play Like Xbox Series X or PS5](https://www.youtube.com/watch?v=s7J4Pn86zj8&t=600s) – This one’s a bit long, but it’s a great deep dive into PC vs. consoles.
 - [The Many Advantages of PC Gaming](https://www.youtube.com/watch?v=4wacl55qEGI)
+- [PS5 Pro - Review](https://youtu.be/1LoY1OQ2Iq8)
 - [Tiny 3D-printed PC vs. Fastest Xbox](https://youtu.be/BB9w8O7Ne8w)
 - [Should You Build Your Own PC?](https://www.youtube.com/watch?v=USl6qyYyrPU&t=488s)
 - [Are Console Gamers Delusional?](https://youtu.be/YeLmUS6Q9jw)
