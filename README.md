@@ -348,6 +348,7 @@ By investing in quality parts now, you’re ensuring your PC performs well for l
 
 - [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/E8ZGw9FmRMw).
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
+- [The PS5 Pro Killer Gaming PC](https://youtu.be/T4xAQGwpO10)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
 - [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
