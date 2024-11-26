@@ -343,9 +343,9 @@ More RAM is always beneficial for gaming and productivity. I wouldn't go less th
 
 A good PSU will last you through multiple builds. My go-to for finding what is a good PSU is the [PSU Tier List](https://cultists.network/140/psu-tier-list/), and I always strive for **A Tier**. Don't settle for lower-rated PSUs that may fail under load and damage your components. Spending more here on a high-quality PSU, such as a **Seasonic PSU**, will last you much longer than cheaper power supplies. For wattage, I recommend a 1000W PSU. It provides consistent power delivery and allows for future upgrades, saving you money because you don't have to replace it later.
 
-By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
+##By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
 
-
+If you need a complete part list, the first place to look is YouTube I have some linkied below. There are numerous ways to put together a list, but here are a few suggestions for now. If you need additional assistance, forms such as PC Part Picker, Reddit, and LTT Forms are excellent choices just post pictues or link to a PC Part Picker list. Another recommendation is that people on Fiverr charge only a few dollars to help put together a list tailored to your needs. 
 - [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/E8ZGw9FmRMw).
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [The PS5 Pro Killer Gaming PC](https://youtu.be/T4xAQGwpO10)
