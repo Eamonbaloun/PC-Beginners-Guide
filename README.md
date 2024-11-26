@@ -169,6 +169,7 @@ Cooling keeps your system running smoothly by preventing components from overhea
 - [Which Cooler Is Right for Your Computer?](https://youtu.be/f5Yj1fcce7o)❗
 - [Air vs Liquid Cooling: Which Is Best for Your PC?](https://youtu.be/kQSy8CS-iEI)❗
 - [CPU Air Cooling vs Watercooling... Which is Right for You?](https://www.youtube.com/watch?v=RQ3c0kspOb8&t=347s)
+- [The Ultimate AIO Buyers Guide for Beginners](https://youtu.be/QB-8yaBDccY)
 - [How To Choose The BEST Fans For Your PC Build](https://www.youtube.com/watch?v=tGenFt-m7Zk)
 - [How Many Case Fans Do You REALLY Need?](https://www.youtube.com/watch?v=KTDZpYkEonY)
 - [Positive vs Negative Air Pressure](https://www.youtube.com/watch?v=g8EN3K-eaVA)
