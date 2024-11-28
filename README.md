@@ -361,7 +361,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [$600 Gaming PC Build Guide](https://www.youtube.com/watch?v=9hman7NikdI)
 - [Ryzen 7 7700X PC Build Guide](https://youtu.be/KkkUVm791o4) – Watch [Part 2](https://youtu.be/Y4VBv-77BVY) for detailed explanations on part selections.
 
-For regular builds, check out these YouTubers:
+For Monthly builds, check out these YouTubers:
 - [ScatterVolt](https://youtube.com/@ScatterVolt)
 - [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
 
@@ -413,6 +413,7 @@ For more advice on buying used parts, check out [Greg Salazar's playlist](https:
 - [BadSeed Tech](https://www.youtube.com/playlist?list=PLVjLrbbZHRotrNQXeaMYaE7jU29u7Ef_W) – Consistently high-quality keyboard reviews.
 - [Hardware Canucks](https://www.youtube.com/@HardwareCanucks) – While they review all kinds of tech, their keyboard reviews stand out.
 - [Optimum](https://www.youtube.com/@optimumtech) – Fewer keyboard reviews, but always top-notch.
+- [Keychron Q6 Max Review](https://youtu.be/KI7RQJfoIAU)
 
 #### **Headset**
 Looking for the best gaming headsets? Here are some solid recommendations:
