@@ -2,17 +2,11 @@
 
 # Beginner's Guide to Building a Gaming PC
 
-Hey! So you're new to building your own gaming PC? No worries—I’ve got you! This guide is made just for you. Building a PC might feel overwhelming at first, but trust me, with the right help, you'll have your dream gaming setup running in no time.
+Hey! So you're new to building your own gaming computer? Don't worry—I've got you! This guide is created specifically for you. Building a PC may seem daunting at first, but with the right assistance, you'll have your dream gaming setup operational in no time.
 
 ## Why Build Your Own Gaming PC?
 
-Building your own gaming PC isn’t just about saving money—it’s about getting more value and control. Unlike consoles, a custom PC lets you handpick parts to create graphics quality and performance levels consoles can’t match. With a powerful GPU, you’ll get smoother frame rates, higher resolutions, and features like ray tracing that make your games look next-level. And while consoles get outdated over time, a PC can be upgraded part by part, saving you money in the long run.
-
-But it’s not just about gaming! A gaming PC is a multitasking powerhouse—you can use it for video editing, graphic design, streaming, or anything else you throw at it. It’s the ultimate blend of work and play.
-
-## What You'll Find in This Guide
-
-I’ll walk you through everything—from picking the right parts to putting it all together.
+Building your own gaming PC is a much better deal and gives you way more control. Unlike consoles, you get to pick every part yourself, letting you push graphics and performance far beyond what consoles can handle. A good PC gives you smoother frame rates, higher resolutions, and extras like ray tracing that make your games really pop. Sure, consoles share some of these features, but PCs almost always get them first. Plus, when you need more power, you can just upgrade a single part instead of replacing the whole system, which saves you money over time. And it’s not just about gaming! A gaming PC is a multitasking beast that can handle video editing, graphic design, streaming, and more. It’s the perfect solution for work and play.
 
 ### Tips for Watching the Videos
 
