@@ -343,6 +343,7 @@ By investing in quality parts now, you’re ensuring your PC performs well for l
 
 If you need a full part list, the first place to look is YouTube I have some linked below. There are tons of ways to create a list, but here are a few ideas for now. If you need assistance, forms such as PC Part Picker, Reddit, and LTT Forms are excellent options. Simply post pictures of parts or a link to a PC Part Picker list. Another suggestion is that people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) charge a small fee to help you create a list tailored to your specific needs. 
 - [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/E8ZGw9FmRMw).
+- [The PERFECT PC at Every Price](https://youtu.be/RqQ8SQqjlGk)❗ - The best video for builds in all price ranges
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [The PS5 Pro Killer Gaming PC](https://youtu.be/T4xAQGwpO10)
 - [$200 Budget Gaming PC Build. (2024)](https://youtu.be/U2fkHFM4rO4)
@@ -350,7 +351,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
-- [The PERFECT PC at Every Price](https://youtu.be/RqQ8SQqjlGk)❗- best video for builds in all price ranges 
+
 - [Building the $1200 Sweet Spot Gaming PC](https://youtu.be/XrRVC6nSNM8)
 - [$600 Gaming PC Build Guide](https://www.youtube.com/watch?v=9hman7NikdI)
 - [Ryzen 7 7700X PC Build Guide](https://youtu.be/KkkUVm791o4) – Watch [Part 2](https://youtu.be/Y4VBv-77BVY) for detailed explanations on part selections.
