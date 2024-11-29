@@ -273,11 +273,12 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [PC Case AIRFLOW: A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
 - [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – This video from Nvidia really shows how important FPS is, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
 
-**Byte Size Tech** offers great tips for value and longevity (some videos are older, but the lessons are timeless):
+**Byte Size Tech** offers great tips for value and longevity (some videos are older, but the lessons are timeless. Please don't skip this part this is the single most important part of the guide hands down) 
 - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
 - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard?](https://youtu.be/-Kn3zYIdGts)❗
 - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
 - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&t=136s)
+- [DDR4 vs. DDR5: Which RAM Suits Your i9-13900K Setup Best? — Tech Deals](https://youtu.be/auj-3Y_Byxg)❗
 - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
 - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
 - [What SSD Should You Buy?](https://youtu.be/3RC5S2xANZA)❗ – TL;DR: Go for name brands like Samsung, Crucial, or SK Hynix with a DRAM buffer.
