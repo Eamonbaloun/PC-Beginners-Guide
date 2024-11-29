@@ -346,11 +346,11 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [The PS5 Pro Killer Gaming PC](https://youtu.be/T4xAQGwpO10)
 - [$200 Budget Gaming PC Build. (2024)](https://youtu.be/U2fkHFM4rO4)
-- [Building a PC Using Only Amazon's 'Overall Pick' Products](https://www.youtube.com/watch?v=56uCjW56HWI)❗
+- [Building a PC Using Only Amazon's 'Overall Pick' Products](https://www.youtube.com/watch?v=56uCjW56HWI)
 - [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
-- [PS5 Pro Killer Gaming PC Build](https://youtu.be/VMZeiTxT-lE)
+- [The PERFECT PC at Every Price](https://youtu.be/RqQ8SQqjlGk)❗- best video for builds in all price ranges 
 - [Building the $1200 Sweet Spot Gaming PC](https://youtu.be/XrRVC6nSNM8)
 - [$600 Gaming PC Build Guide](https://www.youtube.com/watch?v=9hman7NikdI)
 - [Ryzen 7 7700X PC Build Guide](https://youtu.be/KkkUVm791o4) – Watch [Part 2](https://youtu.be/Y4VBv-77BVY) for detailed explanations on part selections.
