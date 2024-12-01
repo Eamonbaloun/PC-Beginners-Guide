@@ -378,6 +378,7 @@ These videos show various games across different hardware setups to help you und
 If you’re thinking about buying **used PC parts**, make sure to check these cautionary videos first:
 
 - [Don’t Get Ripped Off](https://youtu.be/QOTZyhxO_yk)
+- [Buying Used Parts from Jawa... Will I Get Scammed?](https://youtu.be/GH0_8itTPgY)
 - [I Bought This Used Gaming PC for Cheap. Did I Get Scammed?](https://www.youtube.com/watch?v=Hfu5MmGb3cc) -|- [Cheap Upgrades Big Improvements](https://youtu.be/qWe6cIzd41g)
 - [The Ultimate Guide - How to Build Budget Gaming PCs](https://www.youtube.com/watch?v=h0URlGf4BrM)
 - [PC Parts You Should NOT Buy Secondhand](https://youtu.be/uMTqUBJ4Iuw)
