@@ -606,7 +606,7 @@ Here are some great YouTube channels and creators to help you learn more about P
 
 ---
 
-Finally, test your knowledge with [this video](https://www.youtube.com/watch?v=wXI9LhP-TPA). If you understand everything in it, you’re golden! If not, go back and rewatch the videos in Part 1 to brush up.
+Finally, test your knowledge with [this video](https://youtu.be/zIj8FuZgT4A). If you understand everything in it, you’re golden! If not, go back and rewatch the videos in Part 1 to brush up.
 
 By the time you get through all of these resources, you’ll be ready to build or upgrade your gaming PC with confidence!
 
