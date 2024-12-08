@@ -354,6 +354,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
+- [Nothing Makes Me Happier Than Building Someone Their First Gaming PC](https://youtu.be/CYnKIjggxCM)
 
 - [Building the $1200 Sweet Spot Gaming PC](https://youtu.be/XrRVC6nSNM8)
 - [$600 Gaming PC Build Guide](https://www.youtube.com/watch?v=9hman7NikdI)
