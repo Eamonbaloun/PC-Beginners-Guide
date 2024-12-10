@@ -384,6 +384,7 @@ If you’re thinking about buying **used PC parts**, make sure to check these ca
 - [The Ultimate Guide - How to Build Budget Gaming PCs](https://www.youtube.com/watch?v=h0URlGf4BrM)
 - [PC Parts You Should NOT Buy Secondhand](https://youtu.be/uMTqUBJ4Iuw)
 - [10 Tips When Buying Used PCs or PC Parts](https://youtu.be/fgX3Ob2pxNM)
+- [Unboxing and Testing the used parts from Jawa (and an issue that could be a problem for customers)](https://youtu.be/gP5xc8OEka8)
 - [These Gaming PC Ads Are Clinically Insane](https://youtu.be/C1kungIywpQ)
 - [How to Get the Most for Your Money!](https://youtu.be/Qk8qVYAzOYA)
 - [New Vs Used: $200 Graphics Card Showdown](https://youtu.be/GE7LA0JDJ78)
