@@ -149,6 +149,7 @@ Storage determines how quickly your PC loads files and games. SSDs are much fast
 - [SSD vs HDD - Which One Should You Choose?](https://www.youtube.com/watch?v=PKRB6umzeAg)
 - [What's Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)❗
 - [Hard Drives (HDD) vs Solid-State Drives (SDD)](https://www.youtube.com/watch?v=cjGEmRDM-e4)
+- [The Best Way to Speed Up an Old Pc](https://youtu.be/cO0EUulqjUo)
 - [SSD vs Hard Drive vs Hybrid Drive](https://www.youtube.com/watch?v=1cyMTl_QXSc)
 - [So You Want A SUPER Fast NVMe Drive For Gaming?](https://youtu.be/ewygzQJtSNs)
 - [SSDs vs Hard Drives](https://www.youtube.com/watch?v=YQEjGKYXjw8)
