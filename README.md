@@ -533,7 +533,7 @@ All the guides below are legit—even if your antivirus flags them. I’ve scann
 - [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
 - [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗ – A must-do for FPS players.
 - [Chris Titus Tech’s Windows Utility](https://youtu.be/XQAIYCT4f8Q)❗ – An all-in-one optimization tool I use on almost every PC I set up. If you only watch one video from this list, make it this one! I highly recommend applying the standard settings and enabling the Ultimate Performance plan—it makes a noticeable difference. ([Here’s a deeper dive if needed](https://youtu.be/OBPreMucWf0)).
-- [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/PciMRjwIxSM)❗
+- [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/9Fa7vfIUEQo)❗
 - [Advanced Windows Optimization Guide](https://youtu.be/PlACZ9Gp1xo) – This guide is very advanced but absolutely the best if you’re looking for peak performance. 
 
 If you’re optimizing for specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials)❗ has excellent FPS guides.
