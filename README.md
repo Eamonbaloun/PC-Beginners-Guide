@@ -354,8 +354,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [Budget Gaming PC Using 2024 Holiday Deals - 1440p Ready](https://youtu.be/kC9hjbkBc-Y)
 - [Building a PC Using Only Amazon's 'Overall Pick' Products](https://www.youtube.com/watch?v=56uCjW56HWI)
 - [ultimate mini PC build (step-by-step)](https://youtu.be/C1rHpHN_3L0)
-
--[The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
+- [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
 - [$1000 Gaming PC at Micro Center](https://youtu.be/CYnKIjggxCM)
