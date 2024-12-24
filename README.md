@@ -291,6 +291,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 - [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
 - [Ray Tracing](https://youtu.be/f1nrkm7jii4) -|- [What Do Gamers Actually Think About Ray-Tracing?](https://youtu.be/L9703KrH06s) – Learn whether ray tracing is worth the investment for you.
+- [Is your PC ready for future AAA Title Recommended Specs?](https://youtu.be/i9aF3Phlhrs)
 - [CPU Bottlenecks Explained](https://youtu.be/2DfGNPiNTuM)❗ -|- [The Bottleneck Paradox](https://youtu.be/8qB7BkRtOpg)❗ – These videos explain how CPU and GPU bottlenecks can affect your PC’s performance.
 - [How Bad Is 8GB of VRAM in 2024?](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024?](https://youtu.be/P2qs2lLdWHY) – A great watch if you're unsure how VRAM impacts gaming performance.
 - [4 Core vs. 6 Core vs. 8 Core CPUs: Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – Although older, this video explains how CPU cores impact FPS, which is still relevant.
