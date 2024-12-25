@@ -445,10 +445,23 @@ Looking for the best gaming headsets? Here are some solid recommendations:
 
 If you’re thinking about going the prebuilt route, it’s important to know what you’re getting into. Prebuilts can be convenient, but sometimes you end up paying more for less. Watch these videos to ensure you’re not overpaying or getting stuck with low-quality components.
 
-### Prebuilt PC Warnings and Reviews
+### Things to Know Beforehand 
+
+Some prebuilt PC's are not the best. Check out these videos to avoid getting ripped off
 
 - [Warnings About Pre-Built PCs: Proprietary Parts, Monthly Charges, & Components](https://www.youtube.com/watch?v=cKxBogvUe_c&t=340s)
 - [Are Pre-Built Gaming PCs Better In 2024?](https://youtu.be/9h8d8mrPSuY) – A great video explaining why prebuilt PCs might not always be the best option.
+- [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
+- [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
+- [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
+- [So We Called Dell’s Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
+- [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
+- [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
+
+If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff**. He reviews a ton of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma), offering excellent insights before you make a decision.
+
+### Prebuilt PC Reviews
+
 - **Linus Tech Tips’ Secret Shopper Series** – This series is a must-watch! They went undercover and reviewed prebuilt PCs to highlight the good and bad:
   - [$1500 PC Secret Shopper 2 Part 1](https://www.youtube.com/watch?v=Gz7WMF4wWko)
   - [$1500 PC Secret Shopper 2 Part 2](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&t=439s)
@@ -462,19 +475,6 @@ If you’re thinking about going the prebuilt route, it’s important to know wh
   - [iBUYPOWER Pre-Built Gaming PC Slate MR1004 Review](https://www.youtube.com/watch?v=9sDRiakWcIM&t=1280s)
   - [Dell G5 5000 PC Review](https://www.youtube.com/watch?v=4DMg6hUudHE) -|- [Dell's Dumpster Fire: Bloatware Uses 30% GPU (G5 5000 Review & Benchmarks)](https://youtu.be/5N7aYtkzKJc)
   - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s)
-
-### The Risks of Prebuilt PCs
-
-Some prebuilt PC's are not the best. Check out these videos to avoid getting ripped off
-
-- [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
-- [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
-- [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
-- [So We Called Dell’s Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
-- [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
-- [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
-
-If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff**. He reviews a ton of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma), offering excellent insights before you make a decision.
 
 ### Good Prebuilts
 
