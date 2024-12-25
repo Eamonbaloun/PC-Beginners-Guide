@@ -482,7 +482,7 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
 - **Starforge PCs** – Known for high-quality builds, they are owned by streamers who understand the gaming community’s needs. They’ve been responsive to feedback, as seen in [this video](https://www.youtube.com/watch?v=RY4au05ukho), making them a solid choice.
 - **ABS PCs** – Available from [Newegg](https://www.newegg.com/ABS/BrandStore/ID-8484), these prebuilts use off-the-shelf parts, making upgrades easy. Dawid Does Tech Stuff reviewed [this ABS system](https://www.youtube.com/watch?v=APy_TyQSpPI). Although it ran hot initially, he showed in [a follow-up video](https://www.youtube.com/watch?v=mBZhIpX97v0) how $50 in extra fans fixed the issue. Great for esports games with 60+ FPS performance.
 - **Micro Center** – If you live near a Micro Center, they’ll build a PC with parts you choose. It’s a great option for beginners. [Here’s a review of their service](https://www.youtube.com/watch?v=1FEcewDnROg&t=245s).
-- **Falcon Northwest** – Ideal for high-end, custom-built PCs. They’ve been in the business since 1992, offering excellent customer care and top-quality parts. Check out:
+- **Falcon Northwest** – Ideal for high-end, custom-built PCs. They’ve been in the business since 1992, offering excellent customer care and top-quality parts. They are hands down the be best pre built gaming computers on the market Check out:
   - [Why These High-End Desktops Are Unique](https://youtu.be/TztDC-mh6qs)
   - [A Review of the Falcon Northwest Talon Prebuilt Computer](https://youtu.be/ijKFpM5oPZk)
 
