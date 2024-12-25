@@ -452,13 +452,10 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
 - [Warnings About Pre-Built PCs: Proprietary Parts, Monthly Charges, & Components](https://www.youtube.com/watch?v=cKxBogvUe_c&t=340s)
 - [Are Pre-Built Gaming PCs Better In 2024?](https://youtu.be/9h8d8mrPSuY) – A great video explaining why prebuilt PCs might not always be the best option.
 - [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
-- [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
 - [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
 - [So We Called Dell’s Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
 - [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
 - [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
-
-If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff**. He reviews a ton of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma), offering excellent insights before you make a decision.
 
 ### Prebuilt PC Reviews
 
@@ -475,6 +472,9 @@ If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff*
   - [iBUYPOWER Pre-Built Gaming PC Slate MR1004 Review](https://www.youtube.com/watch?v=9sDRiakWcIM&t=1280s)
   - [Dell G5 5000 PC Review](https://www.youtube.com/watch?v=4DMg6hUudHE) -|- [Dell's Dumpster Fire: Bloatware Uses 30% GPU (G5 5000 Review & Benchmarks)](https://youtu.be/5N7aYtkzKJc)
   - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s)
+- **Other Review's** 
+  - [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
+  - If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff**. He reviews a ton of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma), offering excellent insights before you make a decision.
 
 ### Good Prebuilts
 
