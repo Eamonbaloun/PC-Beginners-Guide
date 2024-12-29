@@ -352,6 +352,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [The Best $1250 Gaming PC Possible (End of 2024)](https://youtu.be/8n-5aVNh_XQ)
 - [The Future Proof 4K Gaming PC Build 2024 - RX 7900 XT, Ryzen 7700](https://youtu.be/2tWewyndzyM)
 - [$200 Budget Gaming PC Build. (2024)](https://youtu.be/U2fkHFM4rO4)
+- [This mATX PC Build Slaps](https://youtu.be/oFL5EaduW24)
 - [Budget Gaming PC Using 2024 Holiday Deals - 1440p Ready](https://youtu.be/kC9hjbkBc-Y)
 - [Building a PC Using Only Amazon's 'Overall Pick' Products](https://www.youtube.com/watch?v=56uCjW56HWI)
 - [ultimate mini PC build (step-by-step)](https://youtu.be/C1rHpHN_3L0)
