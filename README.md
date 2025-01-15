@@ -123,6 +123,7 @@ The GPU is one of the most important components in a gaming PC, so this section 
     - [What Is DLSS in Games?](https://youtu.be/jx9RmxVG6EQ)
     - [Is RTX a Total Waste of Money? Can We Even Tell When It's On?](https://youtu.be/2VGwHoSrIEU)
     - [Explaining Nvidia DLSS so You Can Actually Understand It](https://youtu.be/1Elti_jUqhc)
+    - [Ray Tracing is MANDATORY Now](https://youtu.be/U8z-1Bqn4Rs)
 
   - **AMD**  
     - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
