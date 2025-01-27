@@ -124,6 +124,7 @@ The GPU is one of the most important components in a gaming PC, so this section 
     - [Is RTX a Total Waste of Money? Can We Even Tell When It's On?](https://youtu.be/2VGwHoSrIEU)
     - [Explaining Nvidia DLSS so You Can Actually Understand It](https://youtu.be/1Elti_jUqhc)
     - [Ray Tracing is MANDATORY Now](https://youtu.be/U8z-1Bqn4Rs)
+    - [Comparing Nvidia Graphics Cards Since 2015](https://youtu.be/xVEtLb8Wx5M)
 
   - **AMD**  
     - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
