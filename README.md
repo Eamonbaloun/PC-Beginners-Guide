@@ -110,6 +110,7 @@ The GPU is one of the most important components in a gaming PC, so this section 
 - [GPU AIB](https://www.youtube.com/watch?v=kgynX-if5kI)
 - [GPU Names Explained - RTX, GTX, RX](https://youtu.be/vjr0HcXl7Lc) – Short but clears up confusion about GPU naming.
 - [What Actually Uses Your VRAM?](https://youtu.be/ehUbCsNLSrI)
+- [NVIDIA RTX 5090 PCIe 5.0 vs. 4.0 vs. 3.0 x16 Scaling Benchmarks](https://youtu.be/L1NPFFRTzLo) really good video to understand how PCIe slots work for graphics cards 
 
   #### Nvidia and AMD GPU Features
 
