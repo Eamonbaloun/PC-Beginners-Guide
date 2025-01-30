@@ -301,6 +301,15 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
 - [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
 
+### Performance Benchmarks
+
+These videos show various games across different hardware setups to help you understand what parts you need for a given game
+- [Red Dead Redemption 1 PC Performance Analysis](https://youtu.be/jzfCa2HaHQc)
+- [Monster Hunter: Wilds PC Beta Performance Benchmarks](https://youtu.be/bHdM-Gbqf24)
+- [God of War Ragnarok PC Performance Tested](https://youtu.be/2UsTzzmr5DY)
+- [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗
+- [Is Your PC Ready? Spider-Man 2 PC System Requirements Analysis](https://youtu.be/eSGAHSLv7-k)
+
 ### Parts Lists
 
 ## 🚨 Top Recommendations for Builds 🚨
@@ -372,15 +381,6 @@ If you need a full part list, the first place to look is YouTube I have some lin
 For Monthly builds, check out these YouTubers:
 - [ScatterVolt](https://youtube.com/@ScatterVolt)
 - [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
-
-### Performance Benchmarks
-
-These videos show various games across different hardware setups to help you understand what parts you need for a given game:
-- [Red Dead Redemption 1 PC Performance Analysis](https://youtu.be/jzfCa2HaHQc)
-- [Monster Hunter: Wilds PC Beta Performance Benchmarks](https://youtu.be/bHdM-Gbqf24)
-- [God of War Ragnarok PC Performance Tested](https://youtu.be/2UsTzzmr5DY)
-- [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗ 
-
 ---
 
 ### Buying Used PC Parts
