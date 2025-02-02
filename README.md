@@ -118,6 +118,7 @@ The GPU is one of the most important components in a gaming PC, so this section 
 
   - **Nvidia**  
     - [What Is RTX?](https://youtu.be/kp-VfBb5zzw)
+    - ["Fake Frames" Tested | Dlss 4.0, Mfg 4X, & NVIDIA's Misleading Review Guide](https://youtu.be/Nh1FHR9fkJk)
     - [What Is Nvidia Reflex? - Measuring & Optimizing Latency for PC Games](https://youtu.be/BSH225-FqTo)
     - [Real-Time Ray Tracing & Turing Architecture](https://youtu.be/f1nrkm7jii4)
     - [Double Your FPS for Free with AI Upscaling! - Nvidia DLSS 3.0](https://youtu.be/PUTsE1q1bYI)
