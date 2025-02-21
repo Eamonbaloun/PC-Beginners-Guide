@@ -460,6 +460,7 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
 - [So We Called Dell’s Customer Support...](https://www.youtube.com/watch?v=LNu858S-Cdk)
 - [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
 - [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
+- [DEATH of the Cheap Graphics Card: Cheapest GPU vs APU](https://youtu.be/pUrr2dAHimM)
 
 ### Prebuilt PC Reviews
 
