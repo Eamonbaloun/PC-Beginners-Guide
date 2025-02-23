@@ -301,6 +301,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [4 Core vs. 6 Core vs. 8 Core CPUs: Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – Although older, this video explains how CPU cores impact FPS, which is still relevant.
 - [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
 - [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
+- [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
 
 ### Performance Benchmarks
 
