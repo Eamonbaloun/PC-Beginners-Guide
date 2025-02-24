@@ -372,6 +372,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
 - [Building the Ultimate Lan Pc](https://youtu.be/VrankIueVyc)
+- [768$ Intel Arc B580 PC Build](https://youtu.be/CxCLRoEFe5M)
 - [Budget Gaming PC vs PS5 Pro Challenge](https://youtu.be/4MlKygZKFaM)
 - [$1000 Gaming PC at Micro Center](https://youtu.be/CYnKIjggxCM)
 
