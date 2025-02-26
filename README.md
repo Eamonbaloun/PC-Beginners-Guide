@@ -311,6 +311,7 @@ These videos show various games across different hardware setups to help you und
 - [God of War Ragnarok PC Performance Tested](https://youtu.be/2UsTzzmr5DY)
 - [Black Myth: Wukong 43 GPU Benchmark](https://youtu.be/kOhSjLU6Q20)❗
 - [Is Your PC Ready? Spider-Man 2 PC System Requirements Analysis](https://youtu.be/eSGAHSLv7-k)
+- [GTA 5 Massive PC Tech Upgrade and New PC System Requirements!!!](https://youtu.be/pZaG2gzMxmY)
 
 ### Parts Lists
 
