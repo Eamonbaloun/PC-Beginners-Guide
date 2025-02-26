@@ -270,6 +270,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [What is Bottlenecking](https://youtu.be/zXthBwIgE08)❗ – A short but super helpful video on an important topic.
 - [Understanding Bottlenecking](https://www.youtube.com/watch?v=kLkV5yoCUkk)
 - [Ensuring Hardware Compatibility](https://www.youtube.com/watch?v=rwfjm7fSLWE)
+- [How Much Money Do You REALLY Need To Spend On A GPU?](https://youtu.be/H1Vvz8tAj0Y) - super short video that goes over what a reasonable amount is to spend on GPU. 
 
 ### PC Build Advice
 
