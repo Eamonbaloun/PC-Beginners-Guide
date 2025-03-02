@@ -303,6 +303,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
 - [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
 - [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
+-[Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
 
 ### Performance Benchmarks
 
