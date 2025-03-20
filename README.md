@@ -224,6 +224,7 @@ Understanding in-game graphics settings can help you maximize performance and vi
 - [MORE Graphics Card Settings You Should Change](https://www.youtube.com/watch?v=UHvBZE1tNrY&t=29s)
 - [Why Is Frame Rate Important?](https://www.youtube.com/watch?v=wmmrIIZyapk)
 - [Is Ray Tracing Good?](https://youtu.be/DBNH0NyN8K8)
+- [It's Finally Here! - Half-Life 2 RTX Demo Hands On](https://youtu.be/zNVwVrTvrEc)
 
 ### Additional Learning Resources
 
