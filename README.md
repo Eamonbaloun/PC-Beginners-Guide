@@ -353,7 +353,7 @@ More RAM is always beneficial for gaming and productivity. I wouldn't go less th
 
 ## Case
 
-**Airflow is critical!** A well-designed mesh case is vital for keeping your PC cool and running smoothly. Overheating can reduce performance and accelerate wear on components. Brands like **Fractal Design**, **Lian Li**, and **Be Quiet** provide outstanding airflow-focused cases. For first-time builders, I highly recommend the [Corsair 5000D AIRFLOW](https://www.corsair.com/us/en/p/pc-cases/cc-9011210-ww/5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black-cc-9011210-ww), which is a great, no-nonsense choice.
+**Airflow is critical!** A well-designed mesh case is vital for keeping your PC cool and running smoothly. Overheating can reduce performance and accelerate wear on components. Brands like **Fractal Design**, **Lian Li**, and **Phanteks** provide outstanding airflow-focused cases. One last brand to check out is **Be Quiet!** If you prefer quiet operation with solid airflow, their cases run warmer than other brands but are significantly quieter than most airflow-focused cases. For first-time builders, I highly recommend the [Lian Li 207](https://lian-li.com/product/lancool-207/), which is a great, no-nonsense choice for first time PC builders. 
 
 ## PSU
 
