@@ -367,6 +367,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [The PERFECT PC at Every Price](https://youtu.be/RqQ8SQqjlGk)❗ - The best video for builds in all price ranges
 - [The PC You Should Build - Best $900, $1300, $2000 Gaming PCs](https://www.youtube.com/watch?v=HWN34HyUCy4)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
+- [Building a Gaming PC With AMD... AND Intel?!](https://youtu.be/AIZgUxr8D5I)
 - [The Best $1250 Gaming PC Possible (End of 2024)](https://youtu.be/8n-5aVNh_XQ)
 - [$200 Budget Gaming PC Build. (2024)](https://youtu.be/U2fkHFM4rO4)
 - [Don’t Choose the Wrong Parts for Your RTX 5080 / RTX 5090 PC](https://youtu.be/5GilFiJKdPU)
