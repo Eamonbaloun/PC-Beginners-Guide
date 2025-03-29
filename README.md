@@ -359,6 +359,10 @@ More RAM is always beneficial for gaming and productivity. I wouldn't go less th
 
 A good PSU will last you through multiple builds. My go-to for finding what is a good PSU is the [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?pli=1&gid=1719706335#gid=1719706335), and I always strive for **A Tier**. Don't settle for lower-rated PSUs that may fail under load and damage your components. Spending more here on a high-quality PSU, such as a **Seasonic PSU**, will last you much longer than cheaper power supplies. For wattage, I recommend a 1000W PSU. It provides consistent power delivery and allows for future upgrades, saving you money because you don't have to replace it later.
 
+## Fans 
+
+When choosing PC fans, I prioritize quality, performance, and noise levels, and I have a clear preference for certain brands based on budget and performance. **Arctic** is my go-to budget option, offering great cooling performance at an affordable price, with models like the P12 and P14 providing solid airflow and static pressure. **be quiet!** sits in the mid-range, striking a balance between performance and acoustics, making their Silent Wings and Pure Wings series excellent choices for quieter builds. At the high end, **Noctua** is unmatched in engineering, build quality, and longevity, with fans like the NF-A12x25 and NF-A14 delivering top-tier airflow, static pressure, and near-silent operation. Whether building on a budget or going all out for premium cooling, these brands offer the best options across different price points.
+
 By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
 ##
 
