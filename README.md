@@ -581,7 +581,7 @@ Here are some useful programs for your PC—most are free, but a few are paid:
 
 Now it’s time to enjoy your new PC! Here are a few videos to get you started with free games and game launchers:
 
-- [Using EVERY GAME LAUNCHER to Get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU)
+- [Using EVERY GAME LAUNCHER to Get FREE GAMES](https://www.youtube.com/watch?v=eWIl2RW9pJU) -|- [An Overview on Steam and Why It Is Better Than Other Game Launchers](https://www.youtube.com/watch?v=PJaC8YLK7p4)
 - [Game Launchers – Which One to Use?](https://www.youtube.com/watch?v=3fY6pyoJ-q4)
 - [So Steam Got More Overpowered](https://www.youtube.com/watch?v=JZYt1gCFjtI)
 
