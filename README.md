@@ -178,18 +178,19 @@ Cooling keeps your system running smoothly by preventing components from overhea
 Your monitor impacts your gaming experience just as much as your GPU. Factors like refresh rate, resolution, and panel type play a major role in how your games look and feel.
 
 - [How to Pick a Gaming Monitor](https://www.youtube.com/watch?v=imxVMrp9hdg)❗
-- [Gaming Monitor Explained](https://www.youtube.com/watch?v=zH28Pp83xDc)
+- [Gaming Monitor Explained](https://www.youtube.com/watch?v=zH28Pp83xDc)❗
 - [Watch This BEFORE You Buy a Monitor!](https://youtu.be/nEAyY9dzAZ0)
 - [What is The BEST Monitor? 240Hz 1080p vs. 144Hz 1440p vs. 4K 60Hz](https://www.youtube.com/watch?v=TwMOVPxDCwQ&t=236s)
 - [1080p vs 1440p vs 4K Gaming Monitors](https://youtu.be/pZi2V5C40_w)
 - [Fastest 1080p vs. 1440p Monitor](https://youtu.be/d7wTYfWvlPE)
 - [Cheap Vs Expensive: Gaming Monitors](https://youtu.be/8LoZCtNKo48)
 - [Ultrawide vs. 4K Gaming – Before You Buy!](https://www.youtube.com/watch?v=RZ0vnJ4B3cM&t=58s)
-- [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)
-- [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)
+- [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)❗
+- [Refresh Rate vs FPS - What Is the Difference?](https://www.youtube.com/watch?v=hZQA6FSigZY)❗
 - [FreeSync vs G-SYNC](https://www.youtube.com/watch?v=NuFQtPJ-fIQ)
 - [What Are Response Times? Overshoot? Cumulative Deviation? - Performance Charts Explained](https://youtu.be/42IAbsMYxts)
-- [Monitor Colour Accuracy Explained - sRGB, DCI P3, DeltaE and more!](https://youtu.be/FW_y0oZd0NQ)
+- [Monitor Colour Accuracy Explained - sRGB, DCI P3, DeltaE and more!](https://youtu.be/FW_y0oZd0NQ)❗
+- [If You Thought 4K Gaming Was Hard on GPUs, Check Out This 5K Monitor](https://www.youtube.com/watch?v=T2nbPcMTrqg) This video explains the difference between a content creation monitor and a gaming monitor
 
 ### Peripherals: Mouse, Keyboard, and Headsets Explained
 
