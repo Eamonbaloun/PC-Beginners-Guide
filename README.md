@@ -483,10 +483,7 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
 ### Prebuilt PC Reviews
 
 - **Linus Tech Tips’ Secret Shopper Series** – This series is a must-watch! They went undercover and reviewed prebuilt PCs to highlight the good and bad:
-  - [$1500 PC Secret Shopper 2 Part 1](https://www.youtube.com/watch?v=Gz7WMF4wWko)
-  - [$1500 PC Secret Shopper 2 Part 2](https://www.youtube.com/watch?v=Q2kCUbY4ZWs&t=439s)
-  - [$1500 PC Secret Shopper 2 Part 3](https://www.youtube.com/watch?v=0ViO0ETvfEc&t=15s)
-  - [$1500 PC Secret Shopper 2 Part 4](https://www.youtube.com/watch?v=Go5tLO6ipxw&t=1157s)
+  - [Secret Shopper 2025 | Ordering the PC | EP1](https://www.youtube.com/watch?v=MZE99-Be_Gk)
 - **Gamers Nexus** – Known for their detailed reviews, here are some highlights:
   - [Corsair | $4,700 Pre-Built Gaming PC Review (Corsair One I500)](https://youtu.be/Gqm4V-8F-7k)
   - [NZXT BLD Review](https://www.youtube.com/watch?v=iY-SEPGvqxY&t=831s)
