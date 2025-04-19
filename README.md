@@ -183,6 +183,7 @@ Your monitor impacts your gaming experience just as much as your GPU. Factors li
 - [What is The BEST Monitor? 240Hz 1080p vs. 144Hz 1440p vs. 4K 60Hz](https://www.youtube.com/watch?v=TwMOVPxDCwQ&t=236s)
 - [1080p vs 1440p vs 4K Gaming Monitors](https://youtu.be/pZi2V5C40_w)
 - [Fastest 1080p vs. 1440p Monitor](https://youtu.be/d7wTYfWvlPE)
+- [Which Is Better? 1080p or 1440p 480hz Gaming. Lg 27Gx790a vs. 32Gs95ue](https://www.youtube.com/watch?v=vgzwNM5G0XU
 - [Cheap Vs Expensive: Gaming Monitors](https://youtu.be/8LoZCtNKo48)
 - [Ultrawide vs. 4K Gaming – Before You Buy!](https://www.youtube.com/watch?v=RZ0vnJ4B3cM&t=58s)
 - [HDMI vs DisplayPort vs DVI vs VGA - Simple Explanation](https://www.youtube.com/watch?v=xPtSj0B4teQ)❗
