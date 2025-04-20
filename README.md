@@ -348,7 +348,7 @@ Never skimp on motherboards. A solid motherboard in the $220-$350 price range wi
 
 ## Storage
 
-An **NVMe SSD** is a must these days, especially with the costs of them dropping. For the best results, I would buy at least a 1TB SSD with a DRAM buffer. **Samsung, SK Hynix, and Crucial** are dependable brands. Higher-quality drives improve performance over time and eliminate the need for an early update. As for which PCIe Gen is better, higher is generally better, but Gen 5.0 is still really expensive and doesn’t make much of a difference. Here’s a [video explaining that](https://youtu.be/V7lqJ-X-LsI).
+An **NVMe SSD** is a must these days, especially with prices continuing to drop. For the best results, I recommend at least a **1TB SSD with a DRAM buffer**—brands like **Samsung**, **SK Hynix**, and **Crucial** are dependable and offer great long-term performance, reducing the need for early upgrades. If you're on a tighter budget, I suggest sticking to well-reviewed models like the [Silicon Power UD90 SSD](https://www.tomshardware.com/reviews/silicon-power-ud90-ssd-review) and [TeamGroup MP34](https://www.tomshardware.com/reviews/team-group-mp34-nvme-ssd,6181.html), as they offer solid value without sacrificing too much performance. In terms of PCIe generations, higher is generally better, but **Gen 5.0** is still expensive and offers minimal real-world benefit for most users—here’s a [video explaining that](https://youtu.be/V7lqJ-X-LsI).
 
 ## RAM
 
