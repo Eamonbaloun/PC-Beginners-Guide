@@ -294,6 +294,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Benefits of Future-Proofing](https://www.youtube.com/watch?v=D0fY5EwkJ6I&t=346s)
 - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&t=82s)
 - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&t=270s)❗
+- [This $49 CPU Cooler Has Big Brands Shook. Thermal Testing Cheap vs Expensive CPU Cooler](https://youtu.be/gh56uByV4BU)
 
 ### More Advice from Other Creators
 
