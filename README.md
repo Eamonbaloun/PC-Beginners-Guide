@@ -384,7 +384,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [$200 Budget Gaming PC Build. (2024)](https://youtu.be/U2fkHFM4rO4)
 - [Old Office PC + RTX 3050 = Gaming PC? ($300 Gaming PC!)](http://youtube.com/watch?v=4FkW7e3lCBw)
 - [Don’t Choose the Wrong Parts for Your RTX 5080 / RTX 5090 PC](https://youtu.be/5GilFiJKdPU)
-- [Budget Gaming PC Using 2024 Holiday Deals - 1440p Ready](https://youtu.be/kC9hjbkBc-Y)
+- [This mATX PC Build Slaps](https://youtu.be/oFL5EaduW24)
 - [$500 Pure Performance Gaming PC Build Guide](https://youtu.be/Tga0rIjnI3c)
 - [ultimate mini PC build (step-by-step)](https://youtu.be/C1rHpHN_3L0)
 - [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
