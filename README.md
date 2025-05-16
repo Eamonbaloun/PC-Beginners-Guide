@@ -320,6 +320,7 @@ These videos show various games across different hardware setups to help you und
 - [Is Your PC Ready? Spider-Man 2 PC System Requirements Analysis](https://youtu.be/eSGAHSLv7-k)
 - [GTA 5 Massive PC Tech Upgrade and New PC System Requirements!!!](https://youtu.be/pZaG2gzMxmY)
 - [Clair Obscur: Expedition 33 PC Performance Benchmarked](https://youtu.be/BAoG90UZW5U)❗- If your PC can run this game and average around 70–90 FPS on high or ultra settings without needing DLSS or AI Frame Gen right now, I'd say you've got a solid build. It should last you a good while before you even have to think about upgrading.
+- [Zero Stutter. RTX 3080 vs Doom: The Dark Ages (and Ryzen 5 5600X Cpu Testing)](https://youtu.be/TWnHYTUZpFc)❗
 
 ### Parts Lists
 
