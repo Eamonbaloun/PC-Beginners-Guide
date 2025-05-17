@@ -281,6 +281,17 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
 - [PC Case AIRFLOW: A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
 - [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – This video from Nvidia really shows how important FPS is, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
+- [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
+- [Realistic Cpu Scaling - RTX 5070 & RX 9070 XT](https://www.youtube.com/watch?v=TXKyQYiLro8)❗- Must-watch video that explains the relationship between the GPU and CPU
+- [Ray Tracing](https://youtu.be/f1nrkm7jii4) -|- [What Do Gamers Actually Think About Ray-Tracing?](https://youtu.be/L9703KrH06s) – Learn whether ray tracing is worth the investment for you.
+- [Is your PC ready for future AAA Title Recommended Specs?](https://youtu.be/i9aF3Phlhrs)
+- [CPU Bottlenecks Explained](https://youtu.be/2DfGNPiNTuM)❗ -|- [The Bottleneck Paradox](https://youtu.be/8qB7BkRtOpg)❗ – These videos explain how CPU and GPU bottlenecks can affect your PC’s performance.
+- [How Bad Is 8GB of VRAM in 2024?](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024?](https://youtu.be/P2qs2lLdWHY) – A great watch if you're unsure how VRAM impacts gaming performance.
+- [4 Core vs. 6 Core vs. 8 Core CPUs: Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – Although older, this video explains how CPU cores impact FPS, which is still relevant.
+- [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
+- [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
+- [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
+-[Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
 
 **Byte Size Tech** offers great tips for value and longevity (some videos are older, but the lessons are timeless. Please don't skip this part this is the single most important part of the guide hands down) 
 - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
@@ -295,20 +306,6 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&t=82s)
 - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&t=270s)❗
 - [This $49 CPU Cooler Has Big Brands Shook. Thermal Testing Cheap vs Expensive CPU Cooler](https://youtu.be/gh56uByV4BU)
-
-### More Advice from Other Creators
-
-- [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
-- [Realistic Cpu Scaling - RTX 5070 & RX 9070 XT](https://www.youtube.com/watch?v=TXKyQYiLro8)❗- Must-watch video that explains the relationship between the GPU and CPU
-- [Ray Tracing](https://youtu.be/f1nrkm7jii4) -|- [What Do Gamers Actually Think About Ray-Tracing?](https://youtu.be/L9703KrH06s) – Learn whether ray tracing is worth the investment for you.
-- [Is your PC ready for future AAA Title Recommended Specs?](https://youtu.be/i9aF3Phlhrs)
-- [CPU Bottlenecks Explained](https://youtu.be/2DfGNPiNTuM)❗ -|- [The Bottleneck Paradox](https://youtu.be/8qB7BkRtOpg)❗ – These videos explain how CPU and GPU bottlenecks can affect your PC’s performance.
-- [How Bad Is 8GB of VRAM in 2024?](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024?](https://youtu.be/P2qs2lLdWHY) – A great watch if you're unsure how VRAM impacts gaming performance.
-- [4 Core vs. 6 Core vs. 8 Core CPUs: Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – Although older, this video explains how CPU cores impact FPS, which is still relevant.
-- [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
-- [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
-- [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
--[Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
 
 ### Performance Benchmarks
 
@@ -493,6 +490,7 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
   - [Of Course One Fell Apart In Shipping... - Secret Shopper 4 Part 2](https://youtu.be/_bK85PF91Dc)
   - [TWO Support Technicians Gave Up On Us - Secret Shopper 4 Part 3](https://youtu.be/6IeONa83LgQ)
 - **Gamers Nexus** – Known for their detailed reviews, here are some highlights:
+  - [$8000* Disaster Prebuilt PC - Corsair & Origin Fail Again](https://youtu.be/mW5WQY7Ym0I)
   - [Corsair | $4,700 Pre-Built Gaming PC Review (Corsair One I500)](https://youtu.be/Gqm4V-8F-7k)
   - [NZXT BLD Review](https://www.youtube.com/watch?v=iY-SEPGvqxY&t=831s)
   - [Starforge Review](https://youtu.be/W9YiOLX5uQU) – Starforge PCs are among the best-reviewed prebuilts.
