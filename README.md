@@ -290,6 +290,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [4 Core vs. 6 Core vs. 8 Core CPUs: Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – Although older, this video explains how CPU cores impact FPS, which is still relevant.
 - [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
 - [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
+- [Don't Buy 8GB GPUs in 2025 Even for 1080p- RTX 5060 Ti 8GB vs 16GB the Ultimate Comparison](https://www.youtube.com/watch?v=C0_4aCiORzE)❗- This is just true don't ever buy a 8GB GPU anymore just don't there are a buch of reasons why but one I will highlight is getting more vram will allow you to max out textures with no lag and you feel the need to upgrade right after building the PC.  
 - [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
 -[Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
 
