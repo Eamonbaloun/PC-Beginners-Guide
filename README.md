@@ -293,6 +293,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Don't Buy 8GB GPUs in 2025 Even for 1080p- RTX 5060 Ti 8GB vs 16GB the Ultimate Comparison](https://www.youtube.com/watch?v=C0_4aCiORzE)❗- This is just true don't ever buy a 8GB GPU anymore just don't there are a buch of reasons why but one I will highlight is getting more vram will allow you to max out textures with no lag and it will keep you from feeling like you need a GPU 6 months after your build.  
 - [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
 -[Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
+- [Ultra Fast RAM... waste of money??](https://youtu.be/GFU5CgtOs_U)
 
 **Byte Size Tech** offers great tips for value and longevity (some videos are older, but the lessons are timeless. Please don't skip this part this is the single most important part of the guide hands down) 
 - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
