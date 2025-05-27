@@ -246,6 +246,7 @@ If you’re looking to dig deeper into specific topics or concepts, these resour
 - [Gaming Headsets vs. Headphones](https://www.youtube.com/watch?v=gvYvNf1crOQ)❗
 - [How to Deep Clean Your Computer](https://www.youtube.com/watch?v=Y51yZE18qus)
 - [PC Myths You Should NOT Believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
+- [Doom: The Dark Ages Shows Why Microstutter Mega-Matters](https://www.youtube.com/watch?v=HSwsv7Irr7M)
 
 ### Extra Tips
 
