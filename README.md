@@ -493,6 +493,7 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
   - [Secret Shopper 2025 | Ordering the PC | EP1](https://www.youtube.com/watch?v=MZE99-Be_Gk)
   - [Of Course One Fell Apart In Shipping... - Secret Shopper 4 Part 2](https://youtu.be/_bK85PF91Dc)
   - [TWO Support Technicians Gave Up On Us - Secret Shopper 4 Part 3](https://youtu.be/6IeONa83LgQ)
+  - [Secret Shopper 2025 - Episode 4: Finale](https://youtu.be/CVBea9Yr-Yk)
 - **Gamers Nexus** – Known for their detailed reviews, here are some highlights:
   - [$8000* Disaster Prebuilt PC - Corsair & Origin Fail Again](https://youtu.be/mW5WQY7Ym0I)
   - [Corsair | $4,700 Pre-Built Gaming PC Review (Corsair One I500)](https://youtu.be/Gqm4V-8F-7k)
