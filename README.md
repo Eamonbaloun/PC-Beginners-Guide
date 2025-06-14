@@ -486,6 +486,7 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
 - [These Gaming PCs Are a SCAM!](https://www.youtube.com/watch?v=JQmgCxpClPU)
 - [Asking Best Buy for a Gaming PC Recommendation](https://youtu.be/MbhzL57tBNA)
 - [DEATH of the Cheap Graphics Card: Cheapest GPU vs APU](https://youtu.be/pUrr2dAHimM)
+- [I spent $5,500 to test CORSAIR's Claims... I want a REFUND...](https://youtu.be/L1KLy69QFJ4)
 
 ### Prebuilt PC Reviews
 
@@ -502,7 +503,6 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
   - [Cyberpower $1000 Pre-Built Gaming PC Review](https://www.youtube.com/watch?v=M68aE1za_Ak&t=268s)
   - [iBUYPOWER Pre-Built Gaming PC Slate MR1004 Review](https://www.youtube.com/watch?v=9sDRiakWcIM&t=1280s)
   - [Dell G5 5000 PC Review](https://www.youtube.com/watch?v=4DMg6hUudHE) -|- [Dell's Dumpster Fire: Bloatware Uses 30% GPU (G5 5000 Review & Benchmarks)](https://youtu.be/5N7aYtkzKJc)
-  - [I spent $5,500 to test CORSAIR's Claims... I want a REFUND...](https://youtu.be/L1KLy69QFJ4)
 - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s)
 - **Other Review's** 
   - [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
