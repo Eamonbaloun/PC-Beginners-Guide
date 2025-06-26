@@ -360,7 +360,7 @@ More RAM is always beneficial for gaming and productivity. I wouldn't go less th
 
 ## Case
 
-**Airflow is critical!** A well-designed mesh case is essential for keeping your PC cool and running smoothly, as poor airflow can lead to overheating, reduced performance, and faster component wear. Brands like **Fractal Design**, **Lian Li**, and **Phanteks** offer some of the best airflow-focused cases, while **be quiet!** prioritizes low noise with solid airflow, though their cases tend to run warmer than other high-airflow options. For first-time builders, I highly recommend the [Lian Li 207](https://www.youtube.com/watch?v=q0ZYG6j0RDM/), a fantastic, no-nonsense choice that makes building a PC easy and hassle-free.
+**Airflow is critical!** A well-designed mesh case is essential for keeping your PC cool and running smoothly, as poor airflow can lead to overheating, reduced performance, and faster component wear. Brands like **Fractal Design**, **Lian Li**, and **Phanteks** offer some of the best airflow-focused cases, while **be quiet!** prioritizes low noise with solid airflow, though their cases tend to run warmer than other high-airflow options. For first-time builders, I highly recommend the [Lian Li 207](https://www.youtube.com/watch?v=q0ZYG6j0RDM/), a fantastic, no-nonsense choice that makes building a PC easy and hassle-free. If you want a better roundup of cases, LTT recently did a livestream covering the best-selling ones, highlighting the pros and cons of each. It's a long stream, so feel free to skip around. [I Built 5 PCs in 5 Different Bestselling Cases from 5 Different Stores](https://youtu.be/iOC7-GPWxaU). 
 
 ## PSU
 
