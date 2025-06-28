@@ -65,6 +65,7 @@ I’ve been messing around with computers for over a decade and have built quite
 
 #### Understanding PC Components
 
+- [I made the PC I couldn't buy](https://youtu.be/7HgAN5cEmkk)❗
 - [Gaming PC Parts Explained! A Beginner's Guide to Gaming Computer Components](https://www.youtube.com/watch?v=2joA_S92p64)
 - [101 Guide to Getting Into PC Gaming](https://www.youtube.com/watch?v=ZBoxnspdNMc)
 - [What You MUST Know Before Buying A Computer](https://www.youtube.com/watch?v=EhvJRDJaofQ)
