@@ -284,6 +284,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
 - [PC Case AIRFLOW: A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
 - [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – This video from Nvidia really shows how important FPS is, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
+- [No One Is Buying 8GB GPUs](https://youtu.be/ZLtlZnWZGt0)❗❗❗❗❗❗- no one should ever buy a new graphics card from a store that only has 8gb of ram
 - [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
 - [Realistic Cpu Scaling - RTX 5070 & RX 9070 XT](https://www.youtube.com/watch?v=TXKyQYiLro8)❗- Must-watch video that explains the relationship between the GPU and CPU
 - [Ray Tracing](https://youtu.be/f1nrkm7jii4) -|- [What Do Gamers Actually Think About Ray-Tracing?](https://youtu.be/L9703KrH06s) – Learn whether ray tracing is worth the investment for you.
