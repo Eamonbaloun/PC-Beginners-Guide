@@ -569,6 +569,7 @@ All the guides below are legit—even if your antivirus flags them. I’ve scann
 
 ### Windows Optimization Guides
 
+- [Ultimate Windows Optimization Guide](https://youtu.be/PlACZ9Gp1xo)❗❗❗❗❗❗❗❗❗❗❗❗❗ - This is the best quide hans down do not skip this guide 
 - [Always Do THIS with a New Gaming PC!](https://youtu.be/Hk1N18LBizg)
 - [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
 - [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0)❗❗❗❗❗❗❗❗ – A must-do for FPS players.
