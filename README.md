@@ -384,6 +384,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo)❗❗❗❗❗❗❗❗❗ - This video from Daniel Owen and the Fr33thy video above are the best ones to watch if you planning to build something with new parts in 2025 Watch them they are more then just a list.
 - [I Built Myself an Editing & Gaming PC](https://youtu.be/XaYtItRpGCA)
 - [Can you still build a GOOD gaming rig for $1500 in 2025?](https://m.youtube.com/watch?v=UreYbJPafhE)
+- [I Built My Best Friend a Special PC](https://youtu.be/lF8FTle0UC0)
 - [The PC You Should Build - Best $900, $1300, $2000 Gaming PCs](https://www.youtube.com/watch?v=HWN34HyUCy4)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
 - [Building a Gaming PC With AMD... AND Intel?!](https://youtu.be/AIZgUxr8D5I)
@@ -396,7 +397,6 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [ultimate mini PC build (step-by-step)](https://youtu.be/C1rHpHN_3L0)
 - [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
 - [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
-- [Building the Ultimate Lan Pc](https://youtu.be/VrankIueVyc)
 - [This $269 Gaming PC can play any game!](https://youtu.be/9PldqVePztM)
 - [768$ Intel Arc B580 PC Build](https://youtu.be/CxCLRoEFe5M)
 - [$1000 Gaming PC at Micro Center](https://youtu.be/CYnKIjggxCM)
