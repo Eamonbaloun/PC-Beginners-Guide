@@ -90,6 +90,7 @@ I’ve been messing around with computers for over a decade and have built quite
 
 - [How to Choose RAM](https://www.youtube.com/watch?v=mkpCvaBBo-c)
 - [Understanding RAM for Beginners](https://www.youtube.com/watch?v=GtEbrY4nDIQ)❗
+- [What Is RAM & RAM Timing Explained by ‪@Jayztwocents‬ at Micro Center](https://youtu.be/Fl1uU99p6v0)
 - [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo&t=310s)
 - [How Much RAM Do You Need in 2020?](https://www.youtube.com/watch?v=OT-qAQLGkGo)
 - [XMP or DOCP Settings for RAM](https://www.youtube.com/watch?v=vc8G5_sW8lk)
