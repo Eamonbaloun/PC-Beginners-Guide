@@ -300,6 +300,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
 -[Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
 - [Ultra Fast RAM... waste of money??](https://youtu.be/GFU5CgtOs_U)
+- [This PC Is a Mess… Let’s Fix It](https://www.youtube.com/watch?v=UA422WvWOwM)
 
 **Byte Size Tech** offers great tips for value and longevity (some videos are older, but the lessons are timeless. Please don't skip this part this is the single most important part of the guide hands down) 
 - [CPU and GPU Requirements for 4K Gaming](https://www.youtube.com/watch?v=gCDdUPPhnYU)
