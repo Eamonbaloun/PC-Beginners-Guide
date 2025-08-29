@@ -362,7 +362,7 @@ An **NVMe SSD** is essential for any gaming PC today, offering faster load times
 
 ## RAM
 
-More RAM is always beneficial for gaming and productivity. I wouldn't go less than 32GB, but 48GB is perfect for future-proofing. **Spending a little extra now on RAM helps smoother multitasking and gaming, as newer applications require more RAM.**
+For modern gaming and productivity, **32GB of RAM** is the sweet spot—it’s plenty for today’s games and everyday multitasking. If you want to **future-proof** or run heavier workloads like video editing, streaming, or virtual machines, going up to **64GB** is worth it, especially since prices have dropped. In terms of speed, **DDR5-6000** is the current “good enough” target—it offers excellent performance without the steep price premiums of higher-speed kits. Personally, I run **64GB of RAM** because I grabbed it on sale. RAM deals pop up often—especially around **Prime Day** and the **November–December holiday sales**—so it’s worth keeping an eye out. I always recommend getting a little more than the bare minimum suggested, since it pays off in the long run.
 
 ## Case
 
