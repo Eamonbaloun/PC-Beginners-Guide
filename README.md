@@ -513,7 +513,8 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
   - [iBUYPOWER Pre-Built Gaming PC Slate MR1004 Review](https://www.youtube.com/watch?v=9sDRiakWcIM&t=1280s)
   - [Dell G5 5000 PC Review](https://www.youtube.com/watch?v=4DMg6hUudHE) -|- [Dell's Dumpster Fire: Bloatware Uses 30% GPU (G5 5000 Review & Benchmarks)](https://youtu.be/5N7aYtkzKJc)
 - [110°C VRAM Dell GTX 1660 Super Video Card Review](https://www.youtube.com/watch?v=HFaJZq13tr8&t=193s)
-- **Other Review's** 
+- **Other Review's**
+  - [OEM Gaming Pre-Builts: A Redemption Story?](https://youtu.be/5OcvHy9HbYM)
   - [Review of $549 STGAubron Gaming PC](https://youtu.be/HbYLQGmOXUo)
   - If you’re leaning toward a prebuilt, I also recommend **Dawid Does Tech Stuff**. He reviews a ton of [prebuilt gaming PCs](https://www.youtube.com/watch?v=nZ_lYVp9TMg&list=PLT515qV87IFLt4RpKB0yahoesNMDX-Jma), offering excellent insights before you make a decision.
 
