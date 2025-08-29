@@ -374,7 +374,7 @@ A good PSU will last you through multiple builds. My go-to for finding what is a
 
 ## Fans 
 
-When choosing PC fans, I consider quality, performance, and noise. I have a couple of favorites based on your budget. If I want the best, it's **Noctua** all the time. Their fans, such as the NF-A12x25 and NF-A14, are extremely quiet, provide excellent airflow, and last forever. That being said, if you don't like Noctua's colors or want RGB, I recommend **be quiet!**. Their Silent Wings, Pure Wings and Light Wings (RGB) series look wonderful, run quietly, and provide reliable performance. If I want to stay inside a budget, **Arctic** fans like the P12 and P14 provide surprisingly effective cooling for the price. No matter what I'm building, one of these brands is typically a good fit.  
+When choosing PC fans, I consider quality, performance, and noise. I have a couple of favorites based on your budget. If I want the best, it's **Noctua** all the time. Their fans, such as the NF-A12x25 and NF-A14, are extremely quiet, provide excellent airflow, and last forever. That being said, if you don't like Noctua's colors or want RGB, I recommend **be quiet!**. Their Silent Wings, Pure Wings, and Light Wings (RGB) series look wonderful, run quietly, and provide reliable performance. If I want to stay inside a budget, **Arctic** fans like the P12 and P14 provide surprisingly effective cooling for the price. No matter what I'm building, one of these brands is typically a good fit.  
 
   
 
