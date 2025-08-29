@@ -299,7 +299,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
 - [Don't Buy 8GB GPUs in 2025 Even for 1080p- RTX 5060 Ti 8GB vs 16GB the Ultimate Comparison](https://www.youtube.com/watch?v=C0_4aCiORzE)❗- This is just true don't ever buy a 8GB GPU anymore just don't there are a buch of reasons why but one I will highlight is getting more vram will allow you to max out textures with no lag and it will keep you from feeling like you need a GPU 6 months after your build.  
 - [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
--[Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
+- [Looking at the Past...](https://youtu.be/dvqh6zdCz3k)❗
 - [Ultra Fast RAM... waste of money??](https://youtu.be/GFU5CgtOs_U)
 - [This PC Is a Mess… Let’s Fix It](https://www.youtube.com/watch?v=UA422WvWOwM)
 
@@ -358,7 +358,7 @@ Never skimp on motherboards. A solid motherboard in the $220-$350 price range wi
 
 ## Storage
 
-An **NVMe SSD** is a must these days, especially with prices continuing to drop. For the best results, I recommend at least a **1TB SSD with a DRAM buffer**—brands like **Samsung**, **SK Hynix**, and **Crucial** are dependable and offer great long-term performance, reducing the need for early upgrades. If you're on a tighter budget, I suggest sticking to well-reviewed models like the [Silicon Power UD90 SSD](https://www.tomshardware.com/reviews/silicon-power-ud90-ssd-review) and [TeamGroup MP34](https://www.tomshardware.com/reviews/team-group-mp34-nvme-ssd,6181.html), as they offer solid value without sacrificing too much performance. In terms of PCIe generations, higher is generally better, but **Gen 5.0** is still expensive and offers minimal real-world benefit for most users—here’s a [video explaining that](https://youtu.be/V7lqJ-X-LsI).
+An **NVMe SSD** is essential for any gaming PC today, offering faster load times and smoother performance. For the best balance of speed and longevity, go with at least a **1TB drive that has a DRAM buffer**—brands like **Samsung**, **SK Hynix**, and **Crucial** are dependable choices. On a budget? Options like the [Silicon Power UD90](https://www.tomshardware.com/reviews/silicon-power-ud90-ssd-review) and [TeamGroup MP34](https://www.tomshardware.com/reviews/team-group-mp34-nvme-ssd,6181.html) give you solid performance without breaking the bank. As for **PCIe generations**, **Gen 4 SSDs** are the sweet spot right now. **Gen 5 drives** are incredibly fast on paper, but they’re expensive and offer little to no real-world benefit for gaming. This [video](https://youtu.be/gl8wXT8F3W4) explains why most gamers should stick with Gen 4.
 
 ## RAM
 
