@@ -291,6 +291,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [No One Is Buying 8GB GPUs](https://youtu.be/ZLtlZnWZGt0)❗❗❗❗❗❗- no one should ever buy a new graphics card from a store that only has 8gb of ram
 - [Building a PC Using Only the Top Result on Amazon](https://youtu.be/gYFZ4HYTsZI)❗
 - [Realistic Cpu Scaling - RTX 5070 & RX 9070 XT](https://www.youtube.com/watch?v=TXKyQYiLro8)❗- Must-watch video that explains the relationship between the GPU and CPU
+- [The BEST PC BUILDS for high refresh rate online gaming (Battlefield 6 focused)](https://youtu.be/Xj-8Zftcetc)❗
 - [Ray Tracing](https://youtu.be/f1nrkm7jii4) -|- [What Do Gamers Actually Think About Ray-Tracing?](https://youtu.be/L9703KrH06s) – Learn whether ray tracing is worth the investment for you.
 - [Is your PC ready for future AAA Title Recommended Specs?](https://youtu.be/i9aF3Phlhrs)
 - [CPU Bottlenecks Explained](https://youtu.be/2DfGNPiNTuM)❗ -|- [The Bottleneck Paradox](https://youtu.be/8qB7BkRtOpg)❗ – These videos explain how CPU and GPU bottlenecks can affect your PC’s performance.
