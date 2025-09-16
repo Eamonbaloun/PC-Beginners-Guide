@@ -142,6 +142,7 @@ The PSU is often overlooked but incredibly important. It provides the necessary 
 
 - [Power Supply](https://www.youtube.com/watch?v=i7-vDghvF3o)❗
 - [Guide to Buying a Power Supply](https://youtu.be/51oo3ROtVOE)
+- [What 80+ Ratings On PSUs Really Mean](https://www.youtube.com/shorts/9oT8VgUgxIo?feature=share)
 - [Beginner's Guide to Power Supplies... Understanding the Ratings](https://www.youtube.com/watch?v=bUh2EZzJZRU&t=142s)
 - [PSU Explained](https://www.youtube.com/watch?v=lqThn3C-zg4)
 - [PSU Buying Guide for Creators - It's Slightly Different](https://youtu.be/xMSdmD3C50E)
