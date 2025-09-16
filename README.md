@@ -392,6 +392,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [I Built Myself an Editing & Gaming PC](https://youtu.be/XaYtItRpGCA)
 - [The Best gaming PC Money Can Buy in 2025](https://youtu.be/5u1dm9aMITw)
 - [Can you still build a GOOD gaming rig for $1500 in 2025?](https://m.youtube.com/watch?v=UreYbJPafhE)
+- [$650 Amazon.com Gaming PC Build In 2025](https://youtu.be/rdzCEGZja4c) 
 - [I Built My Best Friend a Special PC](https://youtu.be/lF8FTle0UC0)
 - [The PC You Should Build - Best $900, $1300, $2000 Gaming PCs](https://www.youtube.com/watch?v=HWN34HyUCy4)❗
 - [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
