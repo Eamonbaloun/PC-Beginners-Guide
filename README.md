@@ -55,6 +55,7 @@ I’ve been messing around with computers for over a decade and have built quite
 #### Why Choose PC Gaming? (_Advantages Over Consoles_)
 
 - [Switching to PC Gaming From Console: PS5 and Xbox Series X Edition | My Experience 2 Years Later](https://www.youtube.com/watch?v=9rn2btJWszI)❗
+- [Why You CAN'T Compare PC Hardware to Console Hardware](https://youtu.be/4z9bm81uuhg)❗❗❗
 - [2025 The Year to Jump to PC Gaming - PS5 Prices GOING UP!](https://youtu.be/HunYn_6kOBI)❗
 - [PC GAMING vs CONSOLE GAMING](https://www.youtube.com/watch?v=VAHHJQOlvgw)
 - [PC Gaming vs. Consoles: Why You Can’t Play Like Xbox Series X or PS5](https://www.youtube.com/watch?v=s7J4Pn86zj8&t=600s) – This one’s a bit long, but it’s a great deep dive into PC vs. consoles.
