@@ -284,6 +284,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 ### PC Build Advice
 
 - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – A must-watch! A better CPU can make a huge difference beyond just FPS.
+- [](https://youtu.be/rc5Umk7qe6I)❗❗❗ I’m trying to drill this in: buying cheap is expensive—you might shave $20 off a motherboard today, but lose big features like USB-C, built-in Wi-Fi, or extra M.2 slots. Those small-dollar savings can cost you way more down the road. Treat yourself to creature comforts—sturdier build, smoother performance, extra features—and skip the hassle (and cash drain) of buying twice. A little extra up front means way more enjoyment later. I have done this you will get in this cycle of always looking to upgrade by the time you have upgraded each part the first part is old feeling now just buy the best you can the first time. 
 - [Please Don't Build Your PC Like This](https://youtu.be/Oh-8uVeXrsI)❗❗❗❗
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
 - [Can You Use ALL M.2 Slots On Your Motherboard ??? — Byte Size Tech](https://youtu.be/8SggdETOYtI)❗
