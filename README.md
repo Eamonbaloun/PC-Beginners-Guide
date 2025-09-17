@@ -284,7 +284,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 ### PC Build Advice
 
 - [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – A must-watch! A better CPU can make a huge difference beyond just FPS.
-- [Cheap Motherboards Are Expensive](https://youtu.be/rc5Umk7qe6I)❗❗❗ I’m trying to drill this in: buying cheap is expensive—you might shave $20 off a motherboard today, but lose big features like USB-C, built-in Wi-Fi, or extra M.2 slots. Those small-dollar savings can cost you way more down the road. Treat yourself to creature comforts—sturdier build, smoother performance, extra features—and skip the hassle (and cash drain) of buying twice. A little extra up front means way more enjoyment later. I have done this you will get in this cycle of always looking to upgrade by the time you have upgraded each part the first part is old feeling now just buy the best you can the first time. 
+- [Cheap Motherboards Are Expensive](https://youtu.be/rc5Umk7qe6I)❗❗❗ 
 - [Please Don't Build Your PC Like This](https://youtu.be/Oh-8uVeXrsI)❗❗❗❗
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
 - [Can You Use ALL M.2 Slots On Your Motherboard ??? — Byte Size Tech](https://youtu.be/8SggdETOYtI)❗
@@ -386,7 +386,7 @@ When choosing PC fans, I consider quality, performance, and noise. I have a coup
   
 
 
-By investing in quality parts now, you’re ensuring your PC performs well for longer, which saves you the cost and hassle of frequent upgrades. A well-built PC with the right parts can last for years without needing major replacements.
+I’m drilling this in: buying cheap is expensive—this isn’t about a $5K dream build but making smart choices on your actual budget so you avoid constant upgrades. Saving $50 by grabbing a $150 motherboard instead of a $200 model might strip out USB-C, built-in Wi-Fi, extra M.2 slots, or solid VRMs—and skimping on your PSU or cooler can bite you with instability, noise, and heat you’ll pay to fix later. Those small-dollar shortcuts add up to endless part swaps, more spending, and zero fun. Invest a bit more up front in each key component—motherboard, PSU, RAM, cooler—and you’ll dodge the upgrade treadmill and enjoy a solid, future-proof PC from day one.
 ##
 
 If you need a full part list, the first place to look is YouTube I have some linked below. There are tons of ways to create a list, but here are a few ideas for now. If you need assistance, forms such as PC Part Picker, Reddit, and LTT Forms are excellent options. Simply post pictures of parts or a link to a PC Part Picker list. Another suggestion is that people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) charge a small fee to help you create a list tailored to your specific needs. 
