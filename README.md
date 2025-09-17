@@ -384,7 +384,7 @@ A good PSU will last you through multiple builds. My go-to for finding what is a
 When choosing PC fans, I consider quality, performance, and noise. I have a couple of favorites based on your budget. If I want the best, it's [**Noctua**](https://youtu.be/mM872xWJV60) all the time. Their fans, such as the NF-A12x25 and NF-A14, are extremely quiet, provide excellent airflow, and last forever. That being said, if you don't like Noctua's colors or want RGB, I recommend **be quiet!**. Their Silent Wings, Pure Wings, and Light Wings (RGB) series look wonderful, run quietly, and provide reliable performance. If I want to stay inside a budget, **Arctic** fans like the P12 and P14 provide surprisingly effective cooling for the price. No matter what I'm building, one of these brands is typically a good fit.  
 
   
-
+## Building Mindset 
 
 I’m trying to drill this thought process in: buying cheap is expensive—this isn’t about a $5K dream build but making smart choices on your actual budget so you avoid constant upgrades. Saving $50 by grabbing a $150 motherboard instead of a $200 model might strip out USB-C, built-in Wi-Fi, extra M.2 slots, or solid VRMs—and skimping on your PSU or cooler can bite you with instability, noise, and heat you’ll pay to fix later. Those small-dollar shortcuts add up to endless part swaps, more spending, and zero fun. Invest a bit more up front in each key component—motherboard, PSU, RAM, cooler—and you’ll dodge the upgrade treadmill and enjoy a solid, future-proof PC from day one.
 ##
