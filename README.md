@@ -594,7 +594,8 @@ All the guides below are legit—even if your antivirus flags them. I’ve scann
 - [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/9Fa7vfIUEQo)❗
 - [You're HURTING your Performance! Check these things NOW!](https://youtu.be/kRJZpcbVXIg)
 - [Changing Motherboards? How It Affects Your Windows Operating System — Byte Size Tech](https://youtu.be/iDMYizlrkVA)❗
-- [Advanced Windows Optimization Guide](https://youtu.be/PlACZ9Gp1xo) – This guide is very advanced but absolutely the best if you’re looking for peak performance. 
+- [Advanced Windows Optimization Guide](https://youtu.be/PlACZ9Gp1xo) – This guide is very advanced but absolutely the best if you’re looking for peak performance.
+- [You are using G-Sync wrong (probably)](https://youtu.be/5mWMP96UdGU)
 
 If you’re optimizing for specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials)❗ has excellent FPS guides.
 
