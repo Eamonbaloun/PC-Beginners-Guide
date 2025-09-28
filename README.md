@@ -157,6 +157,7 @@ The PSU is often overlooked but incredibly important. It provides the necessary 
 Storage determines how quickly your PC loads files and games. SSDs are much faster than traditional HDDs and have become standard in gaming PCs.
 
 - [SSD vs HDD - Which One Should You Choose?](https://www.youtube.com/watch?v=PKRB6umzeAg)
+- [SSD vs NVMe: What’s The Difference??](https://www.youtube.com/shorts/L7LXyz-bkvk)
 - [What's Best for PC Gaming: SSD, HDD, or SSHD?](https://www.youtube.com/watch?v=-t7QfpOB2eo)❗
 - [Hard Drives (HDD) vs Solid-State Drives (SDD)](https://www.youtube.com/watch?v=cjGEmRDM-e4)
 - [The Best Way to Speed Up an Old Pc](https://youtu.be/cO0EUulqjUo)
