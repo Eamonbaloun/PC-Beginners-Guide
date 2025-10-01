@@ -398,6 +398,7 @@ If you need a full part list, the first place to look is YouTube I have some lin
 - [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/jpp_1M7CceM).
 - [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo)❗❗❗❗❗❗❗❗❗ - This video from Daniel Owen and the Fr33thy video above are the best ones to watch if you planning to build something with new parts in 2025 Watch them they are more then just a list.
 - [I Built Myself an Editing & Gaming PC](https://youtu.be/XaYtItRpGCA)
+- [Turn any PC into a Retro Gaming PC for free!](https://youtu.be/4z78IX9ohC4)
 - [The Best gaming PC Money Can Buy in 2025](https://youtu.be/5u1dm9aMITw)
 - [Can you still build a GOOD gaming rig for $1500 in 2025?](https://m.youtube.com/watch?v=UreYbJPafhE)
 - [$650 Amazon.com Gaming PC Build In 2025](https://youtu.be/rdzCEGZja4c) 
