@@ -589,7 +589,7 @@ All the guides below are legit—even if your antivirus flags them. I’ve scann
 ---
 
 ### Windows Optimization Guides
-- [How To Setup Windows](https://youtu.be/0PA1wgdMeeI)❗❗❗- This is how to get windows on your computer and install it I would start with this video
+- [How To Setup Windows](https://youtu.be/0PA1wgdMeeI)❗❗❗-This is how to get Windows on your computer and install it. I’d start with this video. (Side note: you’ll need another computer, like a laptop with Windows already on it, to create the installer on a flash drive.)
 - [Ultimate Windows Optimization Guide](https://youtu.be/PlACZ9Gp1xo)❗❗❗❗❗❗❗❗❗❗❗❗❗ - This is the best quide hans down do not skip this guide 
 - [Always Do THIS with a New Gaming PC!](https://youtu.be/Hk1N18LBizg)
 - [What to Do AFTER Building Your PC](https://www.youtube.com/watch?v=RYYoCXh2gtw)❗
