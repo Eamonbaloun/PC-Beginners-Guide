@@ -661,10 +661,7 @@ Here are some great YouTube channels and creators to help you learn more about P
 - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)
 - [JayzTwoCents](https://www.youtube.com/user/Jayztwocents)
-- [Bitwit](https://www.youtube.com/user/AwesomeSauceNews)
 - [Gamers Nexus](https://www.youtube.com/user/GamersNexus)
-- [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)
-- [Battle(non)sense](https://www.youtube.com/channel/UCP7QY6L5pvmm0-stL-pNFrw)
 - [Optimum Tech](https://www.youtube.com/channel/UCRYOj4DmyxhBVrdvbsUwmAA)
 - [Greg Salazar](https://www.youtube.com/channel/UCmbkRUS_4Efdt5UIhwNqtcw)
 - [Hardware Unboxed](https://www.youtube.com/channel/UCI8iQa1hv7oV_Z8D35vVuSg)
@@ -677,7 +674,7 @@ Here are some great YouTube channels and creators to help you learn more about P
 
 ---
 
-Finally, test your knowledge with [this video](https://youtu.be/zIj8FuZgT4A). If you understand everything in it, you’re golden! If not, go back and rewatch the videos in Part 1 to brush up.
+Finally, if you end up falling in love with PCs like I did, I highly recommend checking out one of my favorite YouTube series — **Fix or Flop** by Greg Salazar. Viewers send in their broken gaming PCs, and he tries to bring them back to life. It’s super fun to watch! [Fix or Flop](https://www.youtube.com/watch?v=BfRLeCEdvq0&list=PLyReHG5dDxXXSgTLdfvdzJpFei941MX6H)
 
 By the time you get through all of these resources, you’ll be ready to build or upgrade your gaming PC with confidence!
 
