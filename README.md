@@ -354,7 +354,7 @@ Make sure to put together a part list on [PC Part Picker](https://pcpartpicker.c
 
 ## CPU
 
-Go for at least 8 cores, but I recommend 12 if you can. This increases the ability for multitasking and gaming. Spending a little more now ensures that your CPU will not bottleneck your GPU or slow down under heavier workloads a few years down the road. More cores improve performance and longevity. Also, AMD's X3D chips are currently excellent gaming processors.
+Go for at least 8 cores, but I recommend 12 if you can. It gives you better multitasking and smoother gaming, and spending a little more now helps make sure your CPU won’t bottleneck your GPU or slow down under heavier workloads later on. More cores mean better performance and longevity overall. If your main focus is gaming, AMD’s X3D chips are excellent—so for those, 8 cores like on the Ryzen 7 9800X3D is totally fine. But if you’re going with a non-X3D CPU, I’d aim for more cores since they benefit a lot from the extra threads. More cores are always better for **Intel or non-X3D chips**.
 
 ## GPU
 
