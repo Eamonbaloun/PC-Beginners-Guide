@@ -78,6 +78,7 @@ I’ve been messing around with computers for over a decade and have built quite
 - [Motherboards Explained](https://www.youtube.com/watch?v=b2pd3Y6aBag&t=119s) – Beginner-friendly, with some solid animations! ❗
 - [Motherboard Specs Explained](https://www.youtube.com/watch?v=TbGjYumO_aw)
 - [Are your PCIE Lanes setup correctly?](https://youtu.be/L9c59735Lmw)
+- [What is Bifurcation and why it matters!](https://youtu.be/824-AtyZsPw)
 - [Motherboard Explained - Chipsets, Sockets, and Ports!](https://www.youtube.com/watch?v=3ZHeEOPpFLU)
 - [How to Choose a Motherboard: 3 Levels of Skill](https://www.youtube.com/watch?v=lP-pinlU-Ko)
 
