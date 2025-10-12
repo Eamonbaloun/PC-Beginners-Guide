@@ -306,6 +306,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [How Bad Is 8GB of VRAM in 2024?](https://youtu.be/nrpzzMcaE5k) -|- [Is 12GB of VRAM Enough for 1440p or 1080p in 2024?](https://youtu.be/P2qs2lLdWHY) – A great watch if you're unsure how VRAM impacts gaming performance.
 - [4 Core vs. 6 Core vs. 8 Core CPUs: Core/Cache Scaling](https://youtu.be/Cbyl4q3QFYA) – Although older, this video explains how CPU cores impact FPS, which is still relevant.
 - [This Case Is a Disaster](https://www.youtube.com/watch?v=TMvg1GYRKN4) – Learn what makes a case bad.
+- [Ultimate SSD Guide for 2025 - Don't buy the WRONG Storage!](https://youtu.be/3f9hEn5_QZw)
 - [Ultra Quality Settings Are Dumb](https://youtu.be/f1n1sIQM5wc) – Why ultra settings aren’t worth it for most gamers.
 - [Don't Buy 8GB GPUs in 2025 Even for 1080p- RTX 5060 Ti 8GB vs 16GB the Ultimate Comparison](https://www.youtube.com/watch?v=C0_4aCiORzE)❗- This is just true don't ever buy a 8GB GPU anymore just don't there are a buch of reasons why but one I will highlight is getting more vram will allow you to max out textures with no lag and it will keep you from feeling like you need a GPU 6 months after your build.  
 - [Second-Hand Scams on Amazon](https://youtu.be/EYMdWqIPRWI)
