@@ -237,6 +237,7 @@ Understanding in-game graphics settings can help you maximize performance and vi
 - [Why Is Frame Rate Important?](https://www.youtube.com/watch?v=wmmrIIZyapk)
 - [Is Ray Tracing Good?](https://youtu.be/DBNH0NyN8K8)
 - [It's Finally Here! - Half-Life 2 RTX Demo Hands On](https://youtu.be/zNVwVrTvrEc)
+- [You’re Using MSI Afterburner Wrong](https://www.youtube.com/shorts/0ahhkPHZX9E)
 
 ### Additional Learning Resources
 
