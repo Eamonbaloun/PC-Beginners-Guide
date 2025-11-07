@@ -176,6 +176,7 @@ Cooling keeps your system running smoothly by preventing components from overhea
 - [CPU Cooling Explained](https://www.youtube.com/watch?v=pzsPWY-ofQg)❗
 - [Which Cooler Is Right for Your Computer?](https://youtu.be/f5Yj1fcce7o)❗
 - [Air vs Liquid Cooling: Which Is Best for Your PC?](https://youtu.be/kQSy8CS-iEI)❗
+- [What is TDP and you shouldn't TRUST the specs!](https://youtu.be/pOFN7kljlA8)
 - [CPU Air Cooling vs Watercooling... Which is Right for You?](https://www.youtube.com/watch?v=RQ3c0kspOb8&t=347s)
 - [The Ultimate AIO Buyers Guide for Beginners](https://youtu.be/QB-8yaBDccY)
 - [Gaming Without A Cooler](https://youtu.be/EMSAUtLKhvk)
