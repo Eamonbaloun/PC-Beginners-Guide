@@ -505,6 +505,7 @@ If you’re thinking about going the prebuilt route, it’s important to know wh
 Some prebuilt PC's are not the best. Check out these videos to avoid getting ripped off
 
 - [Warnings About Pre-Built PCs: Proprietary Parts, Monthly Charges, & Components](https://www.youtube.com/watch?v=cKxBogvUe_c&t=340s)
+- [The Worst Prebuilt PC Mistakes We've Seen (So Far)](https://youtu.be/E-d8P_7gqp0)
 - [Are Pre-Built Gaming PCs Better In 2024?](https://youtu.be/9h8d8mrPSuY) – A great video explaining why prebuilt PCs might not always be the best option.
 - [Why Most Pre-Builds Suck](https://www.youtube.com/watch?v=P19r1LSNsiU)
 - [Pre-Built Gaming PCs Are Getting Desperate](https://www.youtube.com/watch?v=HxsdasEC2cM&t=354s)
