@@ -375,7 +375,7 @@ I have usually gone with Nvidia, not because AMD is bad, but because Nvidia’s 
 
 My rule of thumb is this: **12GB of VRAM is the minimum I would consider, and 16GB is preferred.** Spending a bit more now can help a lot later as games become more demanding.
 
-If you are trying to decide which brand to buy—MSI, ASUS, and so on—check out this video: [Which Brand of GPU Should You Buy](https://youtu.be/XRT9jYrPxgY)
+If you are trying to decide which brand to buy—MSI, ASUS, and so on—check out this video: [Which Brand of GPU Should You Buy](https://youtu.be/VY_JLT4Ztug)
 
 Intel is also making GPUs now, which is a big deal since they are the first new player in dedicated graphics in about 25 years. Their cards are promising, but like any newer platform, there are still some issues to work through. If you are curious, this [video](https://youtu.be/bjhSDXJkwUg) covers them well.
 
