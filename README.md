@@ -349,98 +349,103 @@ These videos show various games across different hardware setups to help you und
 
 ## 🚨 Top Recommendations for Builds 🚨
 
-**Right now, I can’t recommend Intel 13th- or 14th-gen CPUs.** *([Here’s why](https://youtu.be/gTeubeCIwRw))*
+**At the moment, I cannot recommend Intel 13th- and 14th-gen CPUs.** *([Click here to find out why](https://youtu.be/gTeubeCIwRw))*
 
-### Quick Guide to Building a Solid PC
+### Guide to Building a Solid PC
 
-I wanted to give you a simple roadmap for a strong PC build. Think of it as advice for spending smart. This isn’t a strict parts list—more like a guide to get the most bang for your buck.
+I wanted to put together a quick guide on what makes a solid PC build. The biggest thing to keep in mind is **smart spending**. This isn’t a strict parts list, just a roadmap to help you get the most value for your money.
 
-Sometimes it’s worth spending a little more upfront so you don’t have to upgrade again in a year. Cutting corners might seem fine now, but it usually comes back to bite you. A balanced build lasts longer, costs less over time, and saves headaches.
+Sometimes it’s worth spending a little more upfront on the right parts so you don’t end up upgrading too soon. Cutting corners might seem fine at first, but once performance starts falling behind, you’ll wish you had made better choices. A well-balanced build lasts longer and saves both money and frustration.
 
-Before buying, check what your games or programs actually need most. Some lean heavily on the CPU, others on the GPU, and some need more RAM. Knowing this helps you put your money in the right place.
+Before buying anything, check what your games or programs need most. Some are CPU-heavy. Others lean on the GPU. Some require more RAM. Knowing this helps you put your budget where it matters most.
 
-Once you have a rough idea, drop your build into [PC Part Picker](https://pcpartpicker.com) and share it on Reddit or a forum. People are usually happy to give feedback. Just tell them what you plan to use your PC for and you’ll get better advice.
+Once you have an idea of your build, head to [PC Part Picker](https://pcpartpicker.com) and put together a list. Then share it on a forum or subreddit. People are usually happy to help refine it. Just be clear about what you plan to use your PC for, and you’ll get better advice.
 
 ## CPU
 
-Shoot for at least 8 cores. 12 is even better if you can swing it. More cores help with multitasking and heavy workloads. They also stop your CPU from holding back your GPU. [More cores](https://youtu.be/cHV_XPOm0oY) usually mean longer-lasting performance.
+Aim for at least 8 cores. 12 cores are even better if your budget allows it. More cores help with multitasking, heavy workloads, and long-term performance. They also prevent your CPU from holding back your GPU later. [More cores](https://youtu.be/cHV_XPOm0oY) generally mean better longevity.
 
-If gaming is your main focus, AMD X3D chips are awesome. The sweet spot right now is 8 cores with X3D. I’d recommend the Ryzen 7 9850X3D. For non-X3D chips, lean on more cores—they really benefit from extra threads. This is especially true for **Intel or non-X3D CPUs**.
+If gaming is your focus, AMD X3D chips are excellent. 8 cores plus X3D is the sweet spot right now. I’d recommend the Ryzen 7 9850X3D. For non-X3D CPUs, go with more cores, since those chips benefit more from extra threads. This is especially true for **Intel or non-X3D chips**.
 
 ## GPU
 
-The big question: [Nvidia or AMD?](https://youtu.be/BJ75QVCip88) Honestly, it depends.
+The big question is: [Nvidia or AMD?](https://youtu.be/BJ75QVCip88) Honestly, it depends on what you need.
 
-I usually go with Nvidia. Not because AMD is bad—it’s solid—but Nvidia’s drivers, stability, and features like DLSS have been worth it to me. AMD gives more raw specs for less, which is great if you’re budget-conscious.
+I usually go with Nvidia. Not because AMD is bad—they’re solid—but Nvidia’s drivers, stability, and features like DLSS are worth it. AMD gives more raw specs for less money, which is great if you want to stretch your budget.
 
-My rule: **12GB VRAM minimum, 16GB preferred.** Spending a bit more now saves headaches later.
+My rule of thumb: **12GB VRAM minimum, 16GB preferred.** Spending a bit more now helps later as games get more demanding.
 
-If you’re picking a brand like MSI or ASUS, check this out: [Which Brand of GPU Should You Buy](https://youtu.be/VY_JLT4Ztug)
+If you’re choosing a brand like MSI or ASUS, check out [Which Brand of GPU Should You Buy](https://youtu.be/VY_JLT4Ztug).
 
-Intel is back in the GPU game too. Their cards are promising, but still new, so there are some quirks. [Here’s a good overview](https://youtu.be/bjhSDXJkwUg). More competition is great—it keeps AMD and Nvidia on their toes.
+Intel is back in the GPU game after 25 years. Their cards are promising, but new platforms always have some issues. [Here’s a good video](https://youtu.be/bjhSDXJkwUg). More competition is good—it keeps things from getting stale with only AMD and Nvidia.
 
-If you do video editing or 3D work, Nvidia’s CUDA cores are a big plus. Most software supports them. Linux users might prefer AMD since it has better first-party support.
+If you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores give a real advantage. Most software has supported them for years. If you use Linux, AMD has better first-party support.
 
 ## Cooler
 
-Cooling matters for performance and lifespan. Air or liquid, **Noctua** is my go-to.
+Cooling matters for performance and longevity. Whether air or liquid, **Noctua** is my go-to.
 
-Grab the best **[Noctua cooler you can afford](https://noctua.at/en/products/cpu-cooler-retail/buying-guide-cpu-coolers)**. Better cooling = faster, quieter, longer-lasting system.
+Get the best **[Noctua cooler you can afford](https://noctua.at/en/products/cpu-cooler-retail/buying-guide-cpu-coolers)**. Better cooling means your system runs faster longer without throttling, which reduces the need for upgrades.
 
-Top air cooler: **[Noctua NH-D15 G2](https://youtu.be/0zqPICl5zjA)**. Budget-friendly option: **[ID Cooling A620 Pro SE](https://youtu.be/khiGzg8J40s)**. NH-D15 G2 still beats them all.
+I recommend the **[Noctua NH-D15 G2](https://youtu.be/0zqPICl5zjA)** as the top air cooler, or the **[ID Cooling A620 Pro SE](https://youtu.be/khiGzg8J40s)** if you want something cheaper. The G2 is still the best overall.
 
-For AIOs, **[ARCTIC Liquid Freezer](https://youtu.be/jMeH7SJO74Q)** is solid. Go 360mm if you want liquid; a smaller one doesn’t really beat the NH-D15 G2.
+For AIOs, the **[ARCTIC Liquid Freezer](https://youtu.be/jMeH7SJO74Q)** is solid. I’d only go 360mm. There’s no real reason to pick a smaller AIO over the NH-D15 G2.
 
-TL;DR: get a Noctua. If you want to geek out, here’s a [playlist](https://youtube.com/playlist?list=PLeeRpPJPxqZlGallbEhUdhZ9OHG1qOQuH) and Hardware Canucks has top-notch cooler comparison videos.
+TL;DR: get a Noctua cooler. If you want a deeper dive, [here’s a playlist](https://youtube.com/playlist?list=PLeeRpPJPxqZlGallbEhUdhZ9OHG1qOQuH). Hardware Canucks also has excellent cooler comparisons.
 
 ## Motherboard
 
-Don’t cheap out. Solid boards in the **$220–$350** range last longer and give you better value. AMD boards especially are worth spending more on—they support upgrades longer.
+Don’t cheap out on the motherboard. A solid board in the **$220–$350** range should cover your needs and give better long-term value.
+
+With AMD, spending more makes sense because the platforms last longer. That makes future CPU upgrades easier without replacing the board.
 
 ## Storage
 
-An **NVMe SSD** is a must. It makes load times faster and keeps things smooth.
+An **NVMe SSD** is essential. It gives faster load times and a smoother experience.
 
-Aim for at least **1TB with DRAM**. Good brands: **Samsung, SK Hynix, Crucial**. On a budget, check out [Silicon Power UD90](https://www.tomshardware.com/reviews/silicon-power-ud90-ssd-review) or [TeamGroup MP34](https://www.tomshardware.com/reviews/team-group-mp34-nvme-ssd,6181.html).
+Start with at least **1TB with DRAM**. Reliable brands include **Samsung, SK Hynix, Crucial**. Budget options like [Silicon Power UD90](https://www.tomshardware.com/reviews/silicon-power-ud90-ssd-review) and [TeamGroup MP34](https://www.tomshardware.com/reviews/team-group-mp34-nvme-ssd,6181.html) offer great value.
 
-Gen 4 SSDs hit the sweet spot. Gen 5 is faster on paper but not worth the money for gaming. [Video explaining why](https://youtu.be/gl8wXT8F3W4).
+For PCIe generations, **Gen 4 SSDs** are the sweet spot. Gen 5 is faster on paper but expensive and offers little benefit for gaming. [Video explanation here](https://youtu.be/gl8wXT8F3W4).
 
 ## RAM
 
-For gaming and everyday use, **32GB RAM** is perfect. Planning to stream, edit, or run VMs? **64GB** is worth it. DDR5-6000 is the sweet spot for speed vs. cost.
+For gaming and productivity, **32GB** is the sweet spot. Enough for today’s games and multitasking.
 
-I personally run 64GB because of a sale. RAM deals pop up often, so watch for them.
+If you want to future-proof or do heavy work like video editing, streaming, or virtual machines, **64GB** is worth it. DDR5-6000 is a good speed target without overpaying.
+
+I run 64GB because of a good sale. RAM deals pop up often. Buying a little extra than the minimum usually pays off later.
 
 ## Case
 
-Airflow is more important than most people think. Good airflow = lower temps, longer component life, quieter system.
+Airflow matters more than people think. Good airflow keeps temps down, improves stability, and helps components last longer.
 
-Top brands: **Fractal Design, Lian Li, Phanteks**. Want quiet? **be quiet!** makes excellent cases.
+Brands like **Fractal Design, Lian Li, Phanteks** are great for airflow. Want it quiet? **be quiet!** makes excellent cases too. They trade some cooling for lower noise, which can be worth it.
 
-Beginner-friendly: [Lian Li 207](https://www.youtube.com/watch?v=q0ZYG6j0RDM). My favorite for 2025: [Fractal Meshify 3](https://youtu.be/KEXqmvj1Mls). LTT has a fun comparison: [5 PCs in 5 Bestselling Cases](https://youtu.be/iOC7-GPWxaU).
+Beginner-friendly: [Lian Li 207](https://www.youtube.com/watch?v=q0ZYG6j0RDM). My favorite overall: [Fractal Meshify 3](https://youtu.be/KEXqmvj1Mls). LTT did a fun comparison: [5 PCs in 5 Bestselling Cases](https://youtu.be/iOC7-GPWxaU).
 
 ## PSU
 
-A good PSU lasts through multiple builds. Reference: [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8TEvYfLDcaSpZRB6Xt6JWkc/edit?pli=1&gid=1719706335#gid=1719706335). Aim for **A Tier**.
+A quality PSU lasts across multiple builds. I use the [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8TEvYfLDcaSpZRB6Xt6JWkc/edit?pli=1&gid=1719706335#gid=1719706335) and stick to **A Tier**.
 
-Don’t cheap out—low-quality PSUs can fry components. I like **Seasonic**. **1000W** is safe for upgrades and peace of mind.
+Don’t settle for a cheap PSU. Low-quality units can fail and damage components. I prefer **Seasonic**. **1000W** gives stable power and room for future upgrades.
 
 ## Fans
 
-Pick fans for performance, noise, and longevity. My picks:
+I look at quality, airflow, and noise. My favorites:
 
-- Best overall: **[Noctua](https://youtu.be/mM872xWJV60)** (NF-A12x25, NF-A14). Quiet, long-lasting, strong airflow.
+- Best overall: **[Noctua](https://youtu.be/mM872xWJV60)** (NF-A12x25, NF-A14). Quiet and long-lasting.
 - RGB or color preference: **be quiet!** (Silent Wings, Pure Wings, Light Wings RGB)
-- Budget: **Arctic** (P12, P14) works great.
+- Budget: **Arctic** (P12, P14) is great value.
+
+These brands usually make the most sense for any build.
 
 ## Building Mindset
 
-Remember this: **buying cheap is expensive**.  
+Here’s the main idea: **buying cheap is expensive**.
 
-This isn’t about a $5,000 dream rig. It’s about smart choices that save money long-term. Skipping $50 on a motherboard can cost you USB-C, Wi-Fi, M.2 slots, or better VRMs. Cheap PSUs or coolers = noise, heat, instability, and more upgrades later.
+This isn’t about a $5,000 rig. It’s about making smart choices within your budget. Saving $50 on a motherboard might cost USB-C, Wi-Fi, extra M.2 slots, or better VRMs. Cheap PSUs or coolers can lead to noise, heat, instability, and extra upgrades later.
 
-Spend a bit more on key parts—motherboard, PSU, RAM, cooler—and you’ll have a balanced, long-lasting PC from day one.
-
+Invest a bit more in key parts—motherboard, PSU, RAM, cooler—and you’ll have a solid, balanced PC from day one.
 If you need a full part list, the first place to look is YouTube I have some linked below. There are tons of ways to create a list, but here are a few ideas for now. If you need assistance, forms such as PC Part Picker, Reddit, and LTT Forms are excellent options. Simply post pictures of parts or a link to a PC Part Picker list. Another suggestion is that people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) charge a small fee to help you create a list tailored to your specific needs. 
 - [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/jpp_1M7CceM).
 - [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo)❗❗❗❗❗❗❗❗❗ - This video from Daniel Owen and the Fr33thy video above are the best ones to watch if you planning to build something with new parts in 2025 Watch them they are more then just a list.
