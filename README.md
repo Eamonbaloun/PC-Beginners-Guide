@@ -353,19 +353,19 @@ These videos show various games across different hardware setups to help you und
 
 ### Guide to Building a Solid PC
 
-I wanted to put together a quick guide on what I think makes a strong PC build. The biggest thing to remember is **smart spending**. This is not a list of exact parts. It is a general roadmap to help you get the most value out of your money.
+I wanted to put together a quick guide on what I think makes a strong PC build. The biggest thing to remember is **smart spending**. This is not a list of exact parts. It is a general roadmap to help you get the most value from your money.
 
 It is often worth spending a little more upfront on the right parts so you do not end up upgrading sooner than expected. Cutting corners can seem fine at first, but once performance starts falling behind, you will wish you had made better choices earlier. A well-balanced build can last for years and save you both money and frustration.
 
-Before buying anything, take a moment to research what your games or programs actually rely on most. Some are more CPU-heavy, others lean on the GPU, and some need more RAM. Knowing that helps you put your budget where it matters most.
+Before buying anything, take a moment to research what your games or programs actually rely on most. Some are more CPU-heavy. Others lean on the GPU. Some need more RAM. Knowing that helps you put your budget where it matters most.
 
-Once you have a rough idea of your build, head over to [PC Part Picker](https://pcpartpicker.com) and put together a list. Then post it on a forum or subreddit. People are usually happy to help you refine it—I do this all the time on Reddit. Just be clear about what you plan to use your PC for, and you will get much better advice.
+Once you have a rough idea of your build, head over to [PC Part Picker](https://pcpartpicker.com) and put together a list. Then post it on a forum or subreddit. People are usually happy to help you refine it. I do this all the time on Reddit. Just be clear about what you plan to use your PC for, and you will get much better advice.
 
 ## CPU
 
 Aim for at least 8 cores, but 12 is even better if your budget allows it. More cores help with multitasking, heavier workloads, and long-term performance. They also reduce the chance of your CPU holding back your GPU later on. [More cores](https://youtu.be/cHV_XPOm0oY) usually mean better longevity overall.
 
-If your main focus is gaming, AMD’s X3D chips are excellent. In that case, 8 cores + X3D is what I would say is the sweet spot for gaming right now at the moment the Ryzen 7 9850X3D would be my recomnedation. For non-X3D CPUs, I would lean toward more cores, since those chips benefit more from the extra threads. That is especially true for **Intel or non-X3D chips**.
+If your main focus is gaming, AMD’s X3D chips are excellent. In that case, 8 cores plus X3D is what I would call the sweet spot for gaming right now. At the moment, the Ryzen 7 9850X3D would be my recommendation. For non-X3D CPUs, I would lean toward more cores, since those chips benefit more from the extra threads. That is especially true for **Intel or non-X3D chips**.
 
 ## GPU
 
@@ -375,13 +375,13 @@ I have usually gone with Nvidia, not because AMD is bad, but because Nvidia’s 
 
 My rule of thumb is this: **12GB of VRAM is the minimum I would consider, and 16GB is preferred.** Spending a bit more now can help a lot later as games become more demanding.
 
-If you are trying to decide which brand to buy—MSI, ASUS, and so on—check out this video: [Which Brand of GPU Should You Buy](https://youtu.be/VY_JLT4Ztug)
+If you are trying to decide which brand to buy, like MSI, ASUS, and so on, check out this video: [Which Brand of GPU Should You Buy](https://youtu.be/VY_JLT4Ztug)
 
 Intel is also making GPUs now, which is a big deal since they are the first new player in dedicated graphics in about 25 years. Their cards are promising, but like any newer platform, there are still some issues to work through. If you are curious, this [video](https://youtu.be/bjhSDXJkwUg) covers them well.
 
 Personally, I hope Intel stays in the game. More competition is good, because things have been a little stale with only AMD and Nvidia.
 
-*Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can offer a serious advantage, and most software has supported them for years. That first Nvidia vs. AMD video also touches on this, but if you are planning on using linux AMD has firtst party support while nvidia doesn't.*
+*Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can offer a serious advantage, and most software has supported them for years. That first Nvidia vs. AMD video also touches on this, but if you are planning on using Linux, AMD has first-party support while Nvidia does not.*
 
 ## Cooler
 
@@ -457,8 +457,7 @@ The main idea I want to reinforce is this: **buying cheap is expensive**.
 
 This is not about building a $5,000 dream rig. It is about making smart choices within your actual budget so you avoid constant upgrades. Saving $50 by choosing a $150 motherboard instead of a $200 model might cost you USB-C, built-in Wi-Fi, extra M.2 slots, or better VRMs. Cutting corners on your PSU or cooler can lead to instability, extra noise, and higher temperatures that you eventually have to pay to fix.
 
-Those small savings can turn into endless part swaps and more total spending later. Put a little more money into the key parts—motherboard, PSU, RAM, and cooler—and you will skip the upgrade treadmill and end up with a solid, well-balanced PC from day one.
-
+Those small savings can turn into endless part swaps and more total spending later. Put a little more money into the key parts, like the motherboard, PSU, RAM, and cooler, and you will skip the upgrade treadmill and end up with a solid, well-balanced PC from day one.
 If you need a full part list, the first place to look is YouTube I have some linked below. There are tons of ways to create a list, but here are a few ideas for now. If you need assistance, forms such as PC Part Picker, Reddit, and LTT Forms are excellent options. Simply post pictures of parts or a link to a PC Part Picker list. Another suggestion is that people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) charge a small fee to help you create a list tailored to your specific needs. 
 - [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/jpp_1M7CceM).
 - [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo)❗❗❗❗❗❗❗❗❗ - This video from Daniel Owen and the Fr33thy video above are the best ones to watch if you planning to build something with new parts in 2025 Watch them they are more then just a list.
