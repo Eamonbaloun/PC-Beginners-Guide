@@ -345,7 +345,7 @@ These videos show various games across different hardware setups to help you und
 - [Borderlands 4 PC Performance Tested](https://youtu.be/dEp5voqNzT4) -|- [Best iGPU vs Worst Optimized Game!!! (BOSGAME M5 w/Ryzen AI Max+ 395 vs Borderlands 4)](https://youtu.be/qDc09TrVDAY)
 - [Zero Stutter. RTX 3080 vs Doom: The Dark Ages (and Ryzen 5 5600X Cpu Testing)](https://youtu.be/TWnHYTUZpFc)❗
 
-### Parts List
+**### Parts List
 
 ## 🚨 Top Recommendations for Builds 🚨
 
@@ -444,7 +444,7 @@ These brands usually make the most sense for any build.
 Here’s the main idea: **buying cheap is expensive**.
 
 This isn’t about a $5,000 rig. It’s about making smart choices within your budget. Saving $50 on a motherboard might cost USB-C, Wi-Fi, extra M.2 slots, or better VRMs. Cheap PSUs or coolers can lead to noise, heat, instability, and extra upgrades later.
-
+**
 Invest a bit more in key parts—motherboard, PSU, RAM, cooler—and you’ll have a solid, balanced PC from day one.
 If you need a full part list, the first place to look is YouTube I have some linked below. There are tons of ways to create a list, but here are a few ideas for now. If you need assistance, forms such as PC Part Picker, Reddit, and LTT Forms are excellent options. Simply post pictures of parts or a link to a PC Part Picker list. Another suggestion is that people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) charge a small fee to help you create a list tailored to your specific needs. 
 - [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/jpp_1M7CceM).
