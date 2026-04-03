@@ -374,7 +374,7 @@ If you are wondering which brand of GPU to buy, like MSI or ASUS, check out this
 
 Personally, I hope Intel keeps pushing forward. We need more competition. With just AMD and Nvidia, things have felt a little stale.
 
-*Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can give you a real performance edge, and most software has supported them for years. That first Nvidia vs AMD video also talks about this.*
+*Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can give you a real performance edge, and most software has supported them for years. That first Nvidia vs AMD video also talks about this. One last thing AMD has first party support for linux while Nvidia doesn't you can still use a Nvidia on linux but if your going to main linux get AMD.*
 
 ## Cooler
 Cooling matters more than a lot of people think. It affects performance, noise, and long-term reliability. Whether you go with air or liquid, **Noctua** is my go-to for CPU cooling.
