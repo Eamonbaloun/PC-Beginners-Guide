@@ -381,7 +381,7 @@ Intel is also making GPUs now, which is a big deal since they are the first new 
 
 Personally, I hope Intel stays in the game. More competition is good, because things have been a little stale with only AMD and Nvidia.
 
-*Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can offer a serious advantage, and most software has supported them for years. That first Nvidia vs. AMD video also touches on this.*
+*Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can offer a serious advantage, and most software has supported them for years. That first Nvidia vs. AMD video also touches on this, but if you are planning on using linux AMD has firtst party support while nvidia doesn't.*
 
 ## Cooler
 
