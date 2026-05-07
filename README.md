@@ -519,6 +519,7 @@ For more advice on buying used parts, check out [Greg Salazar's playlist](https:
 Looking for the best gaming headsets? Here are some solid recommendations:
 
 - [Gaming Headset Buyer’s Guide 2020](https://www.youtube.com/watch?v=yX7w88Zo5rU)
+- [Audeze Maxwell 2 - 3 Month review.](https://www.youtube.com/watch?v=LDksVBVOc9I)
 - [Roundup of $100 Gaming Headsets](https://www.youtube.com/watch?v=bs2mLHcnP8U&t=394s)
 - [Top Gaming Headsets of 2020](https://www.youtube.com/watch?v=GL473v97e_Y&t=610s)
 - [Review of PC38X Headset](https://www.youtube.com/watch?v=zNjO98dZUGQ&t=223s) -|- [Enhancing Audio with Amps](https://www.youtube.com/watch?v=-HLlmBtyYGw)
