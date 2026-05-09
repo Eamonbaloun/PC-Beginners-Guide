@@ -373,7 +373,7 @@ AMD usually gives you more raw specs for less money, which makes them a great pi
 
 If you are wondering which brand of GPU to buy, like MSI or ASUS, check out this video: [Which Brand of GPU Should You Buy in 2024?](https://youtu.be/LBbU7yBQ9qo). Also, Intel is making GPUs too. That is a big deal because they are the first new player in the dedicated graphics space in about 25 years. Their cards are solid, but like any newer tech, there are still bugs to work out. If you are curious how they perform, this [video](https://youtu.be/bjhSDXJkwUg) does a good job covering it.
 
-Personally, I hope Intel keeps pushing forward. We need more competition. With just AMD and Nvidia, things have felt a little stale.
+Personally, I hope Intel keeps pushing forward. We need more competition. With just AMD and Nvidia, things have felt a little stale. I would start with this [video](https://youtu.be/mW-73nWnpRg) from JayzTwoCents. He compares 18 GPUs across three different resolutions in the popular new game *Windrose*.
 
 *Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can give you a real performance edge, and most software has supported them for years. That first Nvidia vs AMD video also talks about this. One last thing AMD has first party support for linux while Nvidia doesn't you can still use a Nvidia on linux but if your going to main linux get AMD.*
 
