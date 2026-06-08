@@ -369,15 +369,23 @@ Go for at least 8 cores, but I recommend 12 if you can. It helps with multitaski
 
 ## GPU
 
-The big question is [Nvidia or AMD?](https://youtu.be/BJ75QVCip88) Honestly, it depends on what matters most to you. I have usually gone with Nvidia, not because AMD is bad, but because I have found Nvidia’s drivers, stability, and features like DLSS to be worth the extra cost.
+The GPU is the most important component in a gaming PC. It has the biggest impact on gaming performance, so this is where I recommend spending the most time researching before you buy.
 
-AMD usually gives you more raw performance for less money, which makes them a great pick if you are on a budget. My take is this: **12GB of VRAM is kind of the minimum now, but 16GB is better**. If you can spend a little more up front, you will probably be happier later when newer games get more demanding.
+The first question most people ask is: [Nvidia or AMD?](https://youtu.be/BJ75QVCip88)
 
-If you are wondering which brand of GPU to buy, like MSI or ASUS, check out this video: [Which Brand of GPU Should You Buy in 2024?](https://youtu.be/LBbU7yBQ9qo). Intel is also making GPUs now, which is a big deal because they are the first new player in the dedicated graphics space in about 25 years. Their cards are solid, but like any newer tech, there are still bugs to work out. If you are curious how they perform, this [video](https://youtu.be/bjhSDXJkwUg) does a good job covering it.
+There is no wrong answer. Nvidia usually offers stronger features like DLSS, better ray tracing performance, and broader support in creative applications. AMD often provides better value and more VRAM for the money. I have personally leaned toward Nvidia over the years because I have had good experiences with their drivers, stability, and software features, but AMD has become very competitive.
 
-Personally, I hope Intel keeps pushing forward. We need more competition. With just AMD and Nvidia, things have felt a little stale. I would start with this [video](https://youtu.be/mW-73nWnpRg) from JayzTwoCents. He compares 18 GPUs across three different resolutions in the game *Windrose*. I know I posted a lot of videos in this one, but the GPU is the most important component in a gaming PC, so I also think this last video is worth watching. It is a 30-day AMD challenge, and it does a good job showing that you will be fine with an AMD GPU: [video](https://youtu.be/dJcZLRGTcoc).
+My general recommendation is to aim for **at least 12GB of VRAM**, with **16GB being the sweet spot** if your budget allows. Games continue to demand more memory, and extra VRAM can help your system stay relevant longer.
 
-*Side note: if you do creative work like video editing or 3D rendering, Nvidia’s CUDA cores can give you a real performance edge, and most software has supported them for years. That first Nvidia vs. AMD video also talks about this. One more thing: AMD has first-party support for Linux, while Nvidia does not. You can still use Nvidia on Linux, but if you are going to main Linux, I would lean AMD.*
+Another thing people often overlook is the manufacturer. The GPU chip may come from Nvidia or AMD, but the actual card is built by companies like MSI, ASUS, Gigabyte, Sapphire, PowerColor, and others. If you want a breakdown of the different brands, check out this video: [Which Brand of GPU Should You Buy in 2024?](https://youtu.be/LBbU7yBQ9qo).
+
+Intel has also entered the dedicated GPU market. They are the first serious new competitor in roughly 25 years, which is great for consumers. Their cards offer solid value, though they are still newer products and can occasionally run into driver issues that AMD and Nvidia have already worked through. If you are interested in Intel's GPUs, this [video](https://youtu.be/bjhSDXJkwUg) is a good place to start.
+
+When it comes time to actually choose a GPU, I highly recommend watching benchmark comparisons instead of relying on marketing numbers. This [video](https://youtu.be/mW-73nWnpRg) from JayzTwoCents compares 18 GPUs across multiple resolutions in *Windrose* and gives a good real-world look at how different cards stack up against each other.
+
+I know I included a lot of videos in this section, but the GPU is the single most important part of a gaming PC, and it is usually where the largest portion of your budget goes. One final video I recommend is this [30-day AMD challenge](https://youtu.be/dJcZLRGTcoc). It does a good job showing that, despite all the online debates, most people will have a perfectly good experience with an AMD GPU.
+
+*Side note: If you do creative work such as video editing, 3D rendering, AI workloads, or other GPU-accelerated tasks, Nvidia's CUDA platform can provide a noticeable advantage because many professional applications have supported it for years. Also, if you plan to use Linux as your primary operating system, AMD generally offers a smoother experience thanks to its strong open-source driver support. Nvidia works on Linux too, but AMD is usually the easier choice.*
 
 ## Cooler
 Cooling matters more than a lot of people think. It affects performance, noise, and long-term reliability. Whether you go with air or liquid, **Noctua** is my go-to for CPU cooling.
