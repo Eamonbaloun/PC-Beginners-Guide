@@ -617,6 +617,7 @@ You only need to watch one of these, but they’re all excellent
   - [How to Build a PC (POV)](https://youtu.be/DC-Xn2C_L1U)
 - For high-quality, silent builds, check out [Mr Matt Lee](https://www.youtube.com/@Mr_Matt_Lee). His videos have some of the best angles and clarity in the community:
   - [DeepCool Morpheus Gaming PC Build](https://youtu.be/AAF9_4m0eFw)
+  - [I Followed ChatGPT’s PC Build Guide (2026)](https://youtu.be/t6MAZW-joCo?is=muwufdaA8RxRSNsz
   - [An Ideal 1440p Beginner’s Gaming PC Build](https://youtu.be/dyKnhvYZ66k)
 - [How to Build a Gaming PC in 2021 - Easy 10-minute Build Guide!](https://www.youtube.com/watch?v=sLWXvNbJMpw&t=489s)
 - Linus Tech Tips also has a fun video where he teaches an NBA player to build his first PC: [Beginner Build Guide](https://www.youtube.com/watch?v=p1t8YJvOWzo).
