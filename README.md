@@ -642,11 +642,23 @@ These videos offer helpful tips and highlight common mistakes to avoid when buil
 
 - [How to EASILY Install or Update Drivers on Windows (Snappy Driver Installer Origin)](https://youtu.be/lx9KGvXJO9o) - After getting Windows installed, the next step is installing your drivers. I recommend using Snappy Driver Installer Origin instead of relying on Windows Update for drivers. Before installing drivers, pause Windows Updates, then connect to the internet and use the Chris Titus Tool to set Windows Update to the recommended settings. This helps prevent Windows from automatically installing drivers you don't need. After that, follow this guide to install the correct drivers for your hardware and get a clean setup.
 
+- [How To Disable Mouse Acceleration in Windows (Improve Your Aim!)](https://www.youtube.com/watch?v=DUpp3eL9lC0) ❗❗❗ – A must-do for FPS players. This is called Mouse Acceleration (or Mouse Smoothing). The problem is that when you move your mouse at different speeds, Windows tries to make it "feel smoother" by changing how your mouse moves. That means the same hand movement won't always move your crosshair the same distance in-game. Since your mouse movement is constantly changing, it's much harder to build muscle memory and hit consistent shots. Turning it off gives you true 1:1 mouse movement, so your aim feels the same every time.
+
 ---
 
 ### Going the Extra Step (Optional)
 
 - [Ultimate Windows Optimization Guide](https://youtu.be/zwPEDXteJYQ) - This guide from Fr33thy is for people who want to go the extra step with their PC setup. While the Chris Titus Tool is a great starting point for most users, Fr33thy goes much deeper into Windows optimizations, drivers, and system tweaks. This is a very in-depth guide (around 2 hours), but I really like that he explains why he changes each setting, so you understand what each tweak does instead of just blindly following steps. If you want to fully tune your PC and squeeze out the best performance and consistency possible, this is the guide to follow.
+
+---
+
+### Other Useful Guides
+
+- [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/9Fa7vfIUEQo) - This video is here to make sure you're installing your GPU drivers the right way. If you install new GPU drivers on top of old ones or upgrade to a new GPU, Windows doesn't always handle the switch as well as you'd expect. Old driver files and settings can stick around and cause problems, so the best way I've found is to "refresh" your graphics drivers with a clean install. If you're having any GPU issues or upgrading to a new graphics card, this is the best way to get everything cleaned up and running properly for the best experience.
+
+- [Changing Motherboards? How It Affects Your Windows Operating System — Byte Size Tech](https://youtu.be/iDMYizlrkVA)
+
+If you’re optimizing for specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials) ❗ has excellent FPS guides.
 
 ### Managing Bloatware
 
