@@ -446,40 +446,23 @@ Saving $50 by buying a $150 motherboard instead of a $200 one might mean losing 
 Those small shortcuts add up to endless part swaps, more spending, and less fun. Spend a little more up front on the important parts, like the motherboard, PSU, RAM, and cooler, and you will avoid the upgrade treadmill and enjoy a solid PC from day one.
 **
 Invest a bit more in key parts—motherboard, PSU, RAM, cooler—and you’ll have a solid, balanced PC from day one.
-If you need a full part list, the first place to look is YouTube I have some linked below. There are tons of ways to create a list, but here are a few ideas for now. If you need assistance, forms such as PC Part Picker, Reddit, and LTT Forms are excellent options. Simply post pictures of parts or a link to a PC Part Picker list. Another suggestion is that people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) charge a small fee to help you create a list tailored to your specific needs. 
-- [THIS is what the Steam Machine SHOULD have been!](https://youtu.be/kz8kUjAa9oo)
-- [Best PC Part Picker Lists](https://pcpartpicker.com/user/fr33thy/saved/)❗ – Curated by Fr33thy, who’s one of the best FPS testers on YouTube. [Watch his video about these builds](https://youtu.be/jpp_1M7CceM).
-- [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo)❗❗❗❗❗❗❗❗❗ - This video from Daniel Owen and the Fr33thy video above are the best ones to watch if you planning to build something with new parts in 2025 Watch them they are more then just a list.
-- [I Built Myself an Editing & Gaming PC](https://youtu.be/XaYtItRpGCA)
-- [Turn any PC into a Retro Gaming PC for free!](https://youtu.be/4z78IX9ohC4)
-- [The Best gaming PC Money Can Buy in 2025](https://youtu.be/5u1dm9aMITw)
-- [Can you still build a GOOD gaming rig for $1500 in 2025?](https://m.youtube.com/watch?v=UreYbJPafhE)
-- [$650 Amazon.com Gaming PC Build In 2025](https://youtu.be/rdzCEGZja4c) 
-- [I Built My Best Friend a Special PC](https://youtu.be/lF8FTle0UC0)
-- [The PC You Should Build - Best $900, $1300, $2000 Gaming PCs](https://www.youtube.com/watch?v=HWN34HyUCy4)❗
-- [The Best $800 Gaming PC Build of 2024](https://www.youtube.com/watch?v=84KVEzDlxEE)
-- [Building a Gaming PC With AMD... AND Intel?!](https://youtu.be/AIZgUxr8D5I)
-- [I Built a $200 Gaming PC in 2025...](https://youtu.be/4r1632B5MGw)
-- [The Best $1250 Gaming PC Possible (End of 2024)](https://youtu.be/8n-5aVNh_XQ)
-- [$200 Budget Gaming PC Build. (2024)](https://youtu.be/U2fkHFM4rO4)
-- [Old Office PC + RTX 3050 = Gaming PC? ($300 Gaming PC!)](http://youtube.com/watch?v=4FkW7e3lCBw)
-- [Don’t Choose the Wrong Parts for Your RTX 5080 / RTX 5090 PC](https://youtu.be/5GilFiJKdPU)
-- [This mATX PC Build Slaps](https://youtu.be/oFL5EaduW24)
-- [$500 Pure Performance Gaming PC Build Guide](https://youtu.be/Tga0rIjnI3c)
-- [ultimate mini PC build (step-by-step)](https://youtu.be/C1rHpHN_3L0)
-- [The Best Gaming PC Builds Right Now. (9800X3d, November / December 2024)](https://youtu.be/pR48qEjB2DA)
-- [Let's Build an mATX Gaming PC](https://youtu.be/-_hbyXGpJwg)
-- [This $269 Gaming PC can play any game!](https://youtu.be/9PldqVePztM)
-- [768$ Intel Arc B580 PC Build](https://youtu.be/CxCLRoEFe5M)
-- [$1000 Gaming PC at Micro Center](https://youtu.be/CYnKIjggxCM)
 
-- [Building the $1200 Sweet Spot Gaming PC](https://youtu.be/XrRVC6nSNM8)
-- [$600 Gaming PC Build Guide](https://www.youtube.com/watch?v=9hman7NikdI)
-- [Ryzen 7 7700X PC Build Guide](https://youtu.be/KkkUVm791o4) – Watch [Part 2](https://youtu.be/Y4VBv-77BVY) for detailed explanations on part selections.
+If you'd rather not pick your own parts, **PCPartPicker** has pre-made build lists that are updated every month. It's a great one-stop shop. [**Build Guides →**](https://pcpartpicker.com/guide/)
 
-For Monthly builds, check out these YouTubers:
+If you'd rather have someone build a parts list for you, people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) will often put together a custom list for a small fee.
+
+If you want to build your own parts list, YouTube is the best place to start I have a few great videos linked below. There are plenty of ways to approach a build, but these are some of the best resources I've found.
+
+If you need help, communities on forums sites like **PCPartPicker**, **Reddit**, and the **LTT Forums** are great places to ask for advice. Just post your PCPartPicker list or pictures of the parts you're considering, and you'll usually get helpful feedback.
+
+- [THIS is what the Steam Machine SHOULD have been!](https://youtu.be/kz8kUjAa9oo) – This would be my pick for a 2026 gaming PC. It's reasonably priced and doesn't take up much more space than a PS5. The only thing I'd change is the CPU cooler, which he updates in [this video](https://www.youtube.com/watch?v=YMnLIRIfTrE).
+- [Best PCPartPicker Lists](https://pcpartpicker.com/user/fr33thy/saved/) ❗ – Curated by Fr33thy, one of the best FPS testers on YouTube. Also check out [his video explaining these builds](https://youtu.be/jpp_1M7CceM).
+- [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo) ❗❗❗ – Along with the Fr33thy video above, this is one of the best resources if you're planning to build a PC with new parts. These videos are much more than just parts lists—they explain *why* each component was chosen.
+
+For monthly build recommendations, check out these YouTubers:
+
 - [ScatterVolt](https://youtube.com/@ScatterVolt)
-- [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)
+- [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)****
 ---
 
 ### Buying Used PC Parts
