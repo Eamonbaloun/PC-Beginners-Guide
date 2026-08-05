@@ -12,7 +12,7 @@ Building your own gaming PC is a much better deal and gives you way more control
 
 - Take your time. No need to rush.
 - Rewatch any parts that feel tricky.
-- Some videos are optional—they’re extra resources to dive deeper if you want. Totally up to you if you watch them, but they’re worth checking out!
+- Some videos are optionalthey’re extra resources to dive deeper if you want. Totally up to you if you watch them, but they’re worth checking out!
 
 ## About Me
 
@@ -20,9 +20,9 @@ I’ve been messing around with computers for over a decade and have built quite
 
 ## Disclaimer
 
-- Videos marked with ❗ are **must-watch**—don’t skip them!
+- Videos marked with ❗ are **must-watch**don’t skip them!
 - **No single source has all the answers**, which is why I’ve included videos from different creators.
-- You might notice some overlap between videos—don’t worry, repetition helps!
+- You might notice some overlap between videosdon’t worry, repetition helps!
 - Stick to trustworthy creators so you’re getting reliable info.
 - Some videos might be a bit older, but the core principles still apply. So don’t stress about it!
 
@@ -218,7 +218,7 @@ Peripherals play a huge role in how comfortable and effective you are while gami
 
 ### PC Cases Explained
 
-The PC case isn’t just about looks—it’s critical for airflow, cooling, and fitting all your components. Make sure you choose a case that fits your parts and has room for upgrades.
+The PC case isn’t just about looksit’s critical for airflow, cooling, and fitting all your components. Make sure you choose a case that fits your parts and has room for upgrades.
 
 - [PC Case](https://www.youtube.com/watch?v=1KBeK9Ci8bc)❗
 - [Case Airflow](https://www.youtube.com/watch?v=qGYr2fgBB-s)
@@ -292,11 +292,11 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 
 ### PC Build Advice
 
-- [CPU Upgrade Time? — Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – A must-watch! A better CPU can make a huge difference beyond just FPS.
+- [CPU Upgrade Time?  Why Your CPU Matters More Than You Think](https://youtu.be/LrEScc74tgE)❗❗❗ – A must-watch! A better CPU can make a huge difference beyond just FPS.
 - [Cheap Motherboards Are Expensive](https://youtu.be/rc5Umk7qe6I)❗❗❗ 
 - [Please Don't Build Your PC Like This](https://youtu.be/Oh-8uVeXrsI)❗❗❗❗
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
-- [Can You Use ALL M.2 Slots On Your Motherboard ??? — Byte Size Tech](https://youtu.be/8SggdETOYtI)❗
+- [Can You Use ALL M.2 Slots On Your Motherboard ???  Byte Size Tech](https://youtu.be/8SggdETOYtI)❗
 - [PC Case AIRFLOW: A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
 - [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – This video from Nvidia really shows how important FPS is, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
 - [This is the Sweetspot for PC gaming... Don't get fooled into spending more!](https://youtu.be/4v1hVfghtlw)❗
@@ -324,7 +324,7 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Is It Wise to Pair a High-End CPU with a Mid-Range Motherboard?](https://youtu.be/-Kn3zYIdGts)❗
 - [Think Twice About Cheap Cases: The Painful Truths of Budget PC Builds](https://youtu.be/PtDrX-3idao)❗
 - [Avoid Building Unbalanced PCs](https://www.youtube.com/watch?v=auPvAXSBm2E&t=136s)
-- [DDR4 vs. DDR5: Which RAM Suits Your i9-13900K Setup Best? — Tech Deals](https://youtu.be/auj-3Y_Byxg)❗
+- [DDR4 vs. DDR5: Which RAM Suits Your i9-13900K Setup Best?  Tech Deals](https://youtu.be/auj-3Y_Byxg)❗
 - [Importance of Balanced PC Builds](https://www.youtube.com/watch?v=Z_h9befwy4Q)
 - [Determining Core Requirements](https://www.youtube.com/watch?v=ESi2IGboM_c)❗
 - [What SSD Should You Buy?](https://youtu.be/3RC5S2xANZA)❗ – TL;DR: Go for name brands like Samsung, Crucial, or SK Hynix with a DRAM buffer.
@@ -445,7 +445,7 @@ Saving $50 by buying a $150 motherboard instead of a $200 one might mean losing 
 
 Those small shortcuts add up to endless part swaps, more spending, and less fun. Spend a little more up front on the important parts, like the motherboard, PSU, RAM, and cooler, and you will avoid the upgrade treadmill and enjoy a solid PC from day one.
 **
-Invest a bit more in key parts—motherboard, PSU, RAM, cooler—and you’ll have a solid, balanced PC from day one.\
+Invest a bit more in key partsmotherboard, PSU, RAM, coolerand you’ll have a solid, balanced PC from day one.
 
 ## Build Lists & Resources
 If you'd rather not pick your own parts, **PCPartPicker** has pre-made build lists that are updated every month. It's a great one-stop shop. [**Build Guides**](https://pcpartpicker.com/guide/)
@@ -458,7 +458,7 @@ If you need help, communities on forums sites like **PCPartPicker**, **Reddit**,
 
 - [THIS is what the Steam Machine SHOULD have been!](https://youtu.be/kz8kUjAa9oo) – This would be my pick for a 2026 gaming PC. It's reasonably priced and doesn't take up much more space than a PS5. The only thing I'd change is the CPU cooler, which he updates in [this video](https://www.youtube.com/watch?v=YMnLIRIfTrE).
 - [Best PCPartPicker Lists](https://pcpartpicker.com/user/fr33thy/saved/) ❗ – Curated by Fr33thy, one of the best FPS testers on YouTube. Also check out [his video explaining these builds](https://youtu.be/jpp_1M7CceM).
-- [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo) ❗❗❗ – Along with the Fr33thy video above, this is one of the best resources if you're planning to build a PC with new parts. These videos are much more than just parts lists—they explain *why* each component was chosen.
+- [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo) ❗❗❗ – Along with the Fr33thy video above, this is one of the best resources if you're planning to build a PC with new parts. These videos are much more than just parts liststhey explain *why* each component was chosen.
 
 For monthly build recommendations, check out these YouTubers:
 
@@ -588,7 +588,7 @@ Some prebuilt PC's are not the best. Check out these videos to avoid getting rip
 
 Building your PC might seem intimidating, but it’s way easier than it looks. Make sure you have all your parts before you start! 
 
-[CareyHolzman](https://www.youtube.com/@CareyHolzman)—he’s hands-down the best YouTuber for step-by-step PC building. He explains everything clearly and shows you exactly where everything goes. 
+[CareyHolzman](https://www.youtube.com/@CareyHolzman)he’s hands-down the best YouTuber for step-by-step PC building. He explains everything clearly and shows you exactly where everything goes. 
 You only need to watch one of these, but they’re all excellent
 - [The Ultimate Gaming Computer Build Guide](https://www.youtube.com/watch?v=M5yh42XPnKg&t=330s)❗
 - [The Ultimate $3,000 AMD Gaming PC Build!](https://www.youtube.com/watch?v=GPqHvyMm6lg)❗
@@ -640,7 +640,7 @@ These videos offer helpful tips and highlight common mistakes to avoid when buil
 
 - [How to Install GPU Drivers Properly for Old or New GPUs](https://youtu.be/9Fa7vfIUEQo) - This video is here to make sure you're installing your GPU drivers the right way. If you install new GPU drivers on top of old ones or upgrade to a new GPU, Windows doesn't always handle the switch as well as you'd expect. Old driver files and settings can stick around and cause problems, so the best way I've found is to "refresh" your graphics drivers with a clean install. If you're having any GPU issues or upgrading to a new graphics card, this is the best way to get everything cleaned up and running properly for the best experience.
 
-- [Changing Motherboards? How It Affects Your Windows Operating System — Byte Size Tech](https://youtu.be/iDMYizlrkVA)
+- [Changing Motherboards? How It Affects Your Windows Operating System  Byte Size Tech](https://youtu.be/iDMYizlrkVA)
 
 If you’re optimizing for specific games, [Panjno](https://www.youtube.com/user/PanjnoTutorials) ❗ has excellent FPS guides.
 
@@ -656,7 +656,7 @@ Bloatware can drag down your system’s performance. Use [Revo Uninstaller](http
 
 ### Recommended Software
 
-Here are some useful programs for your PC—most are free, but a few are paid:
+Here are some useful programs for your PCmost are free, but a few are paid:
 
 - [Free Programs that EVERY PC Should Have!](https://youtu.be/xyPY9_h4vZs)
 - [The Free Software I Install on Every Gaming PC](https://youtu.be/XCIJWLCFRb4)
@@ -715,7 +715,7 @@ Here are some great YouTube channels and creators to help you learn more about P
 
 ---
 
-Finally, if you end up falling in love with PCs like I did, I highly recommend checking out one of my favorite YouTube series — **Fix or Flop** by Greg Salazar. Viewers send in their broken gaming PCs, and he tries to bring them back to life. It’s super fun to watch! [Fix or Flop](https://www.youtube.com/watch?v=BfRLeCEdvq0&list=PLyReHG5dDxXXSgTLdfvdzJpFei941MX6H)
+Finally, if you end up falling in love with PCs like I did, I highly recommend checking out one of my favorite YouTube series  **Fix or Flop** by Greg Salazar. Viewers send in their broken gaming PCs, and he tries to bring them back to life. It’s super fun to watch! [Fix or Flop](https://www.youtube.com/watch?v=BfRLeCEdvq0&list=PLyReHG5dDxXXSgTLdfvdzJpFei941MX6H)
 
 By the time you get through all of these resources, you’ll be ready to build or upgrade your gaming PC with confidence!
 
