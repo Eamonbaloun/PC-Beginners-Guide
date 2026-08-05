@@ -445,8 +445,9 @@ Saving $50 by buying a $150 motherboard instead of a $200 one might mean losing 
 
 Those small shortcuts add up to endless part swaps, more spending, and less fun. Spend a little more up front on the important parts, like the motherboard, PSU, RAM, and cooler, and you will avoid the upgrade treadmill and enjoy a solid PC from day one.
 **
-Invest a bit more in key parts—motherboard, PSU, RAM, cooler—and you’ll have a solid, balanced PC from day one.
+Invest a bit more in key parts—motherboard, PSU, RAM, cooler—and you’ll have a solid, balanced PC from day one.\
 
+## Build Lists & Resources
 If you'd rather not pick your own parts, **PCPartPicker** has pre-made build lists that are updated every month. It's a great one-stop shop. [**Build Guides →**](https://pcpartpicker.com/guide/)
 
 If you'd rather have someone build a parts list for you, people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) will often put together a custom list for a small fee.
