@@ -630,9 +630,9 @@ These videos offer helpful tips and highlight common mistakes to avoid when buil
 
 ---
 
-### Going the Extra Step (Optional)
+### Going the Extra Step (Optional) 
 
-- [Ultimate Windows Optimization Guide](https://youtu.be/zwPEDXteJYQ) - This guide from Fr33thy is for people who want to go the extra step with their PC setup. While the Chris Titus Tool is a great starting point for most users, Fr33thy goes much deeper into Windows optimizations, drivers, and system tweaks. This is a very in-depth guide (around 2 hours), but I really like that he explains why he changes each setting, so you understand what each tweak does instead of just blindly following steps. If you want to fully tune your PC and squeeze out the best performance and consistency possible, this is the guide to follow.
+- [Ultimate Windows Optimization Guide](https://youtu.be/zwPEDXteJYQ) - This guide from Fr33thy is for people who want to go the extra step with their PC setup. While the Chris Titus Tool is a great starting point for most users, Fr33thy goes much deeper into Windows optimizations, drivers, and system tweaks. This is a very in-depth guide (around 2 hours), but I really like that he explains why he changes each setting, so you understand what each tweak does instead of blindly following steps. Fr33thy also has a faster way to apply all of these tweaks through a large script called [WinSux](https://youtu.be/JJvW9e4X7k0). I do recommend using the script if you are comfortable with it, but keep in mind that it changes a lot of things at once. If you are new to PC optimization and end up not liking one of the changes, it can be harder to figure out what setting caused the issue or undo a specific tweak. For the games I play and the Windows settings I prefer, there are only a few things I end up changing after running the script, so I personally use it. If you want more control over exactly what you change, though, I recommend following the Ultimate Windows Optimization Guide instead. It takes longer, but you get a better understanding of what each tweak does and can choose exactly what you want to change.
 
 ---
 
