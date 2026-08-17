@@ -244,7 +244,7 @@ Understanding in-game graphics settings can help you maximize performance and vi
 
 ### Additional Learning Resources
 
-If you’re looking to dig deeper into specific topics or concepts, these resources are fantastic starting points.
+If you’re looking to dig deeper into specific topics or concepts, these resources are a great starting point. This section covers topics that don’t need their own category but might come up in the advice section. Understanding them beforehand might make the next sections easier to follow.
 
 - [Thermal Throttling](https://www.youtube.com/watch?v=kUyuKqIfMN0)❗
 - [What is Overclocking](https://www.youtube.com/watch?v=RPmDSYRKnXM)
@@ -262,13 +262,6 @@ If you’re looking to dig deeper into specific topics or concepts, these resour
 - [PC Myths You Should NOT Believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
 - [Doom: The Dark Ages Shows Why Microstutter Mega-Matters](https://www.youtube.com/watch?v=HSwsv7Irr7M)
 
-### Extra Tips
-
-Before diving into your build, check out these quick tips to make sure everything goes smoothly:
-
-- [50 PC Build Tips in Under 10 Minutes](https://www.youtube.com/watch?v=DEA0_upu4sQ&t=328s) – Essential advice packed into a short video.
-- [PC Myths You Should NOT Believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
-- [How to Choose Your Next Case](https://www.youtube.com/watch?v=sDqOUfqcLY0)
 
 ---
 
@@ -296,7 +289,9 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Cheap Motherboards Are Expensive](https://youtu.be/rc5Umk7qe6I)❗❗❗ 
 - [Please Don't Build Your PC Like This](https://youtu.be/Oh-8uVeXrsI)❗❗❗❗
 - [4K Gaming: Why CPU Still Matters in Real-World Scenarios](https://youtu.be/5k4EevOYEKY)❗
+- [Top PC Myths DEBUNKED](https://youtu.be/gAOHkw0M9TE?is=x9byKnr0CFO8LF6X)❗
 - [Can You Use ALL M.2 Slots On Your Motherboard ???  Byte Size Tech](https://youtu.be/8SggdETOYtI)❗
+- [50 PC Build Tips in Under 10 Minutes](https://www.youtube.com/watch?v=DEA0_upu4sQ&t=328s) – Essential advice packed into a short video.
 - [PC Case AIRFLOW: A Visual Guide for Optimal Cooling](https://youtu.be/YNcd-IGMj2c)❗
 - [Does High FPS Make You a Better Gamer?](https://youtu.be/x-kwlaKKhp4)❗ – This video from Nvidia really shows how important FPS is, with [Linus](https://www.youtube.com/@LinusTechTips) breaking it down and [Shroud](https://youtu.be/N3xKA26VY3M) demonstrating.
 - [This is the Sweetspot for PC gaming... Don't get fooled into spending more!](https://youtu.be/4v1hVfghtlw)❗
@@ -332,6 +327,8 @@ Now that you've got a handle on the basics, it's time to choose your parts. Firs
 - [Impact of Core Count on Gaming](https://www.youtube.com/watch?v=tmJiLVnDo_8&t=82s)
 - [Guidance on Motherboard Selection](https://www.youtube.com/watch?v=o-tMZlbW1c4&t=270s)❗
 - [This $49 CPU Cooler Has Big Brands Shook. Thermal Testing Cheap vs Expensive CPU Cooler](https://youtu.be/gh56uByV4BU)
+- [PC Myths You Should NOT Believe!](https://www.youtube.com/watch?v=vkqLx7OIIcw)
+- [How to Choose Your Next Case](https://www.youtube.com/watch?v=sDqOUfqcLY0)
 
 ### Performance Benchmarks
 
