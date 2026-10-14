@@ -454,7 +454,7 @@ If you want to build your own parts list, YouTube is the best place to start I h
 If you need help, communities on forums sites like **PCPartPicker**, **Reddit**, and the **LTT Forums** are great places to ask for advice. Just post your PCPartPicker list or pictures of the parts you're considering, and you'll usually get helpful feedback.
 
 - [THIS is what the Steam Machine SHOULD have been!](https://youtu.be/kz8kUjAa9oo) – This would be my pick for a 2026 gaming PC. It's reasonably priced and doesn't take up much more space than a PS5. The only thing I'd change is the CPU cooler, which he updates in [this video](https://www.youtube.com/watch?v=YMnLIRIfTrE).
-- [Best PCPartPicker Lists](https://pcpartpicker.com/user/fr33thy/saved/) ❗ – Curated by Fr33thy, one of the best FPS testers on YouTube. Also check out [his video explaining these builds](https://youtu.be/jpp_1M7CceM).
+- [Best PCPartPicker Lists](https://pcpartpicker.com/user/fr33thy/saved/) ❗ – Curated by Fr33thy, one of the best FPS testers on YouTube. Also check out [his video explaining these builds]([https://youtu.be/jpp_1M7CceM](https://youtu.be/uKrx5n0prYg)).
 - [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo) ❗❗❗ – Along with the Fr33thy video above, this is one of the best resources if you're planning to build a PC with new parts. These videos are much more than just parts liststhey explain *why* each component was chosen.
 
 For monthly build recommendations, check out these YouTubers:
