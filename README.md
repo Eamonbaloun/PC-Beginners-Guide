@@ -456,6 +456,7 @@ If you need help, communities on forums sites like **PCPartPicker**, **Reddit**,
 - [THIS is what the Steam Machine SHOULD have been!](https://youtu.be/kz8kUjAa9oo) – This would be my pick for a 2026 gaming PC. It's reasonably priced and doesn't take up much more space than a PS5. The only thing I'd change is the CPU cooler, which he updates in [this video](https://www.youtube.com/watch?v=YMnLIRIfTrE).
 - [Best PCPartPicker Lists](https://pcpartpicker.com/user/fr33thy/saved/) ❗ – Curated by Fr33thy, one of the best FPS testers on YouTube. Also check out [his video explaining these builds]([https://youtu.be/jpp_1M7CceM](https://youtu.be/uKrx5n0prYg)).
 - [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo) ❗❗❗ – Along with the Fr33thy video above, this is one of the best resources if you're planning to build a PC with new parts. These videos are much more than just parts liststhey explain *why* each component was chosen.
+- [We need to talk about the future of PC Gaming...](https://youtu.be/K6-464NVit8) - This video from JayzTwoCents is a good one to watch. He talks about the current PC market while building a PC for a friend and goes over his parts choices. It gives you a good idea of what building a PC looks like after the AI price hikes and where the market is at right now.
 
 For monthly build recommendations, check out these YouTubers:
 
