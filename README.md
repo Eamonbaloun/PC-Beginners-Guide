@@ -447,8 +447,6 @@ Invest a bit more in key partsmotherboard, PSU, RAM, coolerand you’ll have a s
 ## Build Lists & Resources
 If you'd rather not pick your own parts, **PCPartPicker** has pre-made build lists that are updated every month. It's a great one-stop shop. [**Build Guides**](https://pcpartpicker.com/guide/)
 
-If you'd rather have someone build a parts list for you, people on [Fiverr](https://www.fiverr.com/search/gigs?query=pc%20part%20list&source=main_banner&ref_ctx_id=623c2b5dde3a437b984c31b6bba255bc&search_in=everywhere&search-autocomplete-original-term=pc%20part%20list) will often put together a custom list for a small fee.
-
 If you want to build your own parts list, YouTube is the best place to start I have a few great videos linked below. There are plenty of ways to approach a build, but these are some of the best resources I've found.
 
 If you need help, communities on forums sites like **PCPartPicker**, **Reddit**, and the **LTT Forums** are great places to ask for advice. Just post your PCPartPicker list or pictures of the parts you're considering, and you'll usually get helpful feedback.
@@ -457,6 +455,7 @@ If you need help, communities on forums sites like **PCPartPicker**, **Reddit**,
 - [Best PCPartPicker Lists](https://pcpartpicker.com/user/fr33thy/saved/) ❗ – Curated by Fr33thy, one of the best FPS testers on YouTube. Also check out [his video explaining these builds]([https://youtu.be/jpp_1M7CceM](https://youtu.be/uKrx5n0prYg)).
 - [Best Value PC Builds!!! Crush 1080p, 1440p, and even 4K!!!!!!!!!!](https://youtu.be/VCNr2rVyNDo) ❗❗❗ – Along with the Fr33thy video above, this is one of the best resources if you're planning to build a PC with new parts. These videos are much more than just parts liststhey explain *why* each component was chosen.
 - [We need to talk about the future of PC Gaming...](https://youtu.be/K6-464NVit8) - This video from JayzTwoCents is a good one to watch. He talks about the current PC market while building a PC for a friend and goes over his parts choices. It gives you a good idea of what building a PC looks like after the AI price hikes and where the market is at right now.
+- [KitGuru's Best Hardware List](https://www.kitguru.net/news/best-pc-hardware/) - KitGuru regularly updates their BEST OF lists with products worth looking at when picking parts for your next PC build or upgrade. They highlight their top picks in each category, along with other great options worth considering.
 
 For monthly build recommendations, check out these YouTubers:
 
