@@ -429,11 +429,11 @@ For wattage, I recommend **1000W**. It gives you stable power and room for futur
 ## Fans
 When I pick PC fans, I look at quality, performance, and noise. I have a few favorites depending on budget.
 
-If I want the best, it is [**Noctua**](https://youtu.be/mM872xWJV60) every time. Their fans, like the NF-A12x25 and NF-A14, are very quiet, move air well, and last forever.
+If I want the best, it is [**Noctua**](https://youtu.be/mM872xWJV60) every time. Their fans, like the NF-A12x25-G2 and NF-A14, are very quiet, move air well, and last forever.
 
 If you do not like Noctua’s colors or you want RGB, I recommend **be quiet!**. Their Silent Wings, Pure Wings, and Light Wings series look great, run quietly, and perform well.
 
-If I am trying to stay on budget, **Arctic** fans like the P12 and P14 are surprisingly good for the price. No matter what I am building, one of these brands usually fits.
+If I am trying to stay on budget, **Arctic** fans like the P12 and P14 are surprisingly good for the price. No matter what I am building, one of these brands usually fits. If you wanna a deep dive here is a a shopping [guide](https://youtu.be/mU4H959OqfQ) from Matt lee on some other good options/brands to sick too he does a really good job explaining each brand. 
 
 ## Building Mindset
 I am trying to drill this idea in: buying cheap is expensive. This is not about building a $5K dream machine. It is about making smart choices for your real budget so you do not keep replacing parts.
