@@ -362,7 +362,7 @@ Once you have a rough idea of your build, head over to [PC Part Picker](https://
 ## CPU
 Go for at least 8 cores, but I recommend 12 if you can. It helps with multitasking, smooth gaming, and heavier workloads. Spending a little more now can help make sure your CPU does not bottleneck your GPU later or slow down under load.
 
-[More cores](https://youtu.be/cHV_XPOm0oY) usually mean better performance and better longevity. If your main focus is gaming, AMD’s X3D chips are excellent, so 8 cores like the Ryzen 7 9800X3D is totally fine. If you are going with a non-X3D CPU, I would aim for more cores since they benefit a lot from the extra threads. More cores are usually better for **Intel or non-X3D chips**. I would really watch this [video](https://youtu.be/pyoCchfzptY?si=HKP7R81K7ZmXRVCe) from Jay about his experience between AMD and Intel. 
+[More cores](https://youtu.be/cHV_XPOm0oY) usually mean better performance and better longevity. If your main focus is gaming, AMD’s X3D chips are excellent, so 8 cores like the Ryzen 7 9800X3D is totally fine. If you are going with a non-X3D CPU, I would aim for more cores since they benefit a lot from the extra threads. More cores are usually better for **Intel or non-X3D chips**. I would really watch this [video](https://youtu.be/pyoCchfzptY?si=HKP7R81K7ZmXRVCe) from Jay about his experience between AMD and Intel. If you wanna nerd out and know all your options here is a full tier list of all the the current Cpu's [list](https://youtu.be/xrBZjCh_0KQ)
 
 ## GPU
 
