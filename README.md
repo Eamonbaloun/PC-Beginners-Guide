@@ -12,7 +12,7 @@ Building your own gaming PC is a much better deal and gives you way more control
 
 - Take your time. No need to rush.
 - Rewatch any parts that feel tricky.
-- Some videos are optionalthey’re extra resources to dive deeper if you want. Totally up to you if you watch them, but they’re worth checking out!
+- Some videos are optional they’re extra resources to dive deeper if you want. Totally up to you if you watch them, but they’re worth checking out!
 
 ## About Me
 
