@@ -20,7 +20,7 @@ I’ve been messing around with computers for over a decade and have built quite
 
 ## Disclaimer
 
-- Videos marked with ❗ are **must-watch**don’t skip them!
+- Videos marked with ❗ are **must-watch** don’t skip them!
 - **No single source has all the answers**, which is why I’ve included videos from different creators.
 - You might notice some overlap between videosdon’t worry, repetition helps!
 - Stick to trustworthy creators so you’re getting reliable info.
