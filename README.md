@@ -23,7 +23,7 @@ I’ve been messing around with computers for over a decade and have built quite
 - Videos marked with ❗ are **must-watch** don’t skip them!
 - **No single source has all the answers**, which is why I’ve included videos from different creators.
 - You might notice some overlap between videosdon’t worry, repetition helps!
-- Stick to trustworthy creators so you’re getting reliable info.
+- Stick to trust worthy creators so you’re getting reliable info.
 - Some videos might be a bit older, but the core principles still apply. So don’t stress about it!
 
 ---
