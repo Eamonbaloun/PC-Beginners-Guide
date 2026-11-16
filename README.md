@@ -138,6 +138,7 @@ The GPU is one of the most important components in a gaming PC, so this section 
 
   - **AMD**  
     - [What Is AMD's FidelityFX? Every Tool Explained](https://youtu.be/McUUEA8zVB8)
+    - [Switching to AMD - 1 Year Later](https://youtu.be/sEigHjI-kq4)
     - [Is Ray Tracing Useable at 1440p? RX 6800XT 6 Games Tested](https://www.youtube.com/watch?v=MEXtG2JE5D4)
     - [AMD Radeon GPUs Explained](https://youtu.be/fymY8bsDVCU)
 
