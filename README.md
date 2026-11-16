@@ -460,7 +460,7 @@ If you need help, communities on forums sites like **PCPartPicker**, **Reddit**,
 For monthly build recommendations, check out these YouTubers:
 
 - [ScatterVolt](https://youtube.com/@ScatterVolt)
-- [Paul's Hardware](https://youtube.com/playlist?list=PLRnHcRQUxuoduPRkcsG8AWG3yxJq12hH5)****
+- [Paul's Hardware](https://www.youtube.com/@paulshardware/videos)
 ---
 
 ### Buying Used PC Parts
